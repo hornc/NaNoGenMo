@@ -1,0 +1,11 @@
+simian
+monkey
+primate
+chimp
+beast
+gorilla
+dude
+character
+critter
+individual
+creature
