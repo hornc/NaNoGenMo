@@ -1,2 +1,10 @@
 # NaNoGenMo
-repo for my multiple smaller NaNoGenMo projects
+Repo for my multiple smaller NaNoGenMo projects, created for https://github.com/NaNoGenMo/2021.
+
+## Phaistos-Mantong Thesis ([#37](https://github.com/NaNoGenMo/2021/issues/37))
+
+...
+
+## You wouldn't `curl` an NFT... ([#59](https://github.com/NaNoGenMo/2021/issues/59))
+
+...
