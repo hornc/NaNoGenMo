@@ -96,7 +96,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmPd2DcJxDBpggGMc2uW4pKKfpXUqgCMPohiE7cAdjMgWS">Character by 	goldenrod wall: dismal.</a>
 <a style="color:rebeccapurple" href="ipfs://QmcwK6tNKGj2gG1QoAyqWtTYnpztbF4hXS9zNUWMgd7cM9">Monkey appears inattentive against rebecca-purple.</a>
 <a style="color:floralwhite" href="ipfs://QmYommoQrnhmsdZX2f4zybdd9QmrHoAeZKcUMYMsx7EeZ1">Creature against floral-white background: apathetic.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXhzJ34eJ7L7L8k9Vns8sNYPCccW2Yh9aUcPXhx3qyhCQ">Dismal critter on light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmXhzJ34eJ7L7L8k9Vns8sNYPCccW2Yh9aUcPXhx3qyhCQ">Dismal critter on light-goldenrod wall.</a>
 <a style="color:sandybrown" href="ipfs://QmTPzuPLvZW5MKSjbNSmf2aQKtjzYmJRxuA1kn4xFxmFq6">Dude by sandy-brown setting: disenchanted.</a>
 <a style="color:cadetblue" href="ipfs://QmNqPWM2HdksvZgYaUmDLVkDZD311wCx4sKpURFEciHqFM">Disinterested dude with cadet-blue setting.</a>
 <a style="color:skyblue" href="ipfs://QmVxGkjAqipfTuC3ydQRspeuF4WFSVAgwA7DxxL3SVrxEq">Disenchanted creature on sky-blue wall.</a>
@@ -107,7 +107,7 @@ done
 <a style="color:dimgrey" href="ipfs://Qmcmm8A9K5JTxM5H41gpRkVwcuERQBBXh9VjRqGuqBRKXk">Jaded critter by dim-grey field.</a>
 <a style="color:seagreen" href="ipfs://QmbbFgirXkkKPG86584Rk3b6Xe6gVr3h3UihEcBKEJ1Pe1">Languid simian on sea-green setting.</a>
 <a style="color:	olivedrab" href="ipfs://QmQXXN9u7bbgozw8bZLsY8T5B38xd25tvW3DBX36QkZQ4x">Weary simian with 	olive-drab setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYW5TFQGVGpp4GoXTam8F5vAPoDnSGU5Kadah6jpDMRNK">Down chimp on light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmYW5TFQGVGpp4GoXTam8F5vAPoDnSGU5Kadah6jpDMRNK">Down chimp on light-goldenrod wall.</a>
 <a style="color:rebeccapurple" href="ipfs://QmePzBLUCHCQ41smiZXXraTdaUD1LeRUtkVFvFwWXGoFqr">Blase gorilla by rebecca-purple setting.</a>
 <a style="color:aquamarine" href="ipfs://QmPdvhn7Mh93jQVLoZE8hhG19qG8Uga1EhbEUV95vurVdj">Aquamarine with primate - appears dismal.</a>
 <a style="color:rebeccapurple" href="ipfs://QmW877atiptS6D65AHX7Yt8WmgZWj3n1kRZVC52nx82t16">Rebecca-purple with creature - appears weary.</a>
@@ -122,7 +122,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmQi9a1rZperF3LZa3bnk4mXUQYa71yQ2bsxgqcDzgDT6D">Impassive monkey by sandy-brown color.</a>
 <a style="color:lightblue" href="ipfs://QmNRKUobxikfymw5386TRysoFyNUJpr4D4EatoTiiJftJc">Slack dude by light-blue wall.</a>
 <a style="color:palegoldenrod" href="ipfs://QmNQzbQCK88vNbduAR19QCLeMQJim9pRVFZtDPKfkG4eNe">Apathetic individual against pale-goldenrod setting.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQicstR17QWRmTpi8m7ivfyaBw3pJfYq1jyevTzHav95k">Chimp on 	light-goldenrod wall: worn.</a>
+<a style="color:	goldenrod" href="ipfs://QmQicstR17QWRmTpi8m7ivfyaBw3pJfYq1jyevTzHav95k">Chimp on 	light-goldenrod wall: worn.</a>
 <a style="color:	goldenrod" href="ipfs://QmbQu6zbajrvX5Z59gtMqsX1Fdm94Ut94tea2b8ywE5Fua">Dude on 	goldenrod setting: unconcerned.</a>
 <a style="color:moccasin" href="ipfs://QmScLTq3hvYkCtBEhHRAFq3nRCMPzMTAbGfCDwJpjxuC5c">Critter on moccasin background: insipid.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmQAqW6a5wLZQt5ZMXwNuf8AYDQFRc26hGCmEVzmM46RVd">Individual on 	dark-goldenrod wall: apathetic.</a>
@@ -166,7 +166,7 @@ done
 <a style="color:lightblue" href="ipfs://QmSQGKj6o6FjpskEvZipSe6Gprf9UJvrWVxUcd8gtgVjWp">Creature against light-blue setting: apathetic.</a>
 <a style="color:lightskyblue" href="ipfs://Qme1KJhnaZq6AnDfNMEdMEZvsJJ9snJMP9bwewsxwmKSmj">Unimpressed critter against light-sky-blue wall.</a>
 <a style="color:cadetblue" href="ipfs://QmZuLo2cAWXTM5HR7E5YNAm34FCPLw7T3DLTkx1cVbqJZP">Chimp on cadet-blue setting: dulled.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZhHrs1fLhBETtT9ZT5cR5gjtQBTD7j7FPky8AhrEo8YA">Unimpressed character against 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmZhHrs1fLhBETtT9ZT5cR5gjtQBTD7j7FPky8AhrEo8YA">Unimpressed character against 	light-goldenrod wall.</a>
 <a style="color:olivedrab" href="ipfs://QmcEunLdVVsgmDmansEz6gg2gMhTJzzzELwYrTpsh3RXT3">Character being torpid on olive-drab.</a>
 <a style="color:mediumseagreen" href="ipfs://QmRxwhJQAZngAk6GEbWQnErFkuwhCSvj1C5YHyLMsMStds">Medium-sea-green with chimp - appears torpid.</a>
 <a style="color:floralwhite" href="ipfs://QmXk8tRoYGjZR4UN3a7MsDJugCC8Sq4g5mNJVcKJKjetjx">Floral-white behind creature - appears worn.</a>
@@ -182,7 +182,7 @@ done
 <a style="color:	darkgoldenrod" href="ipfs://QmYLgsvSgZW1iExzzyyWAu8Kp4CXjWRJJkGo6kmSp9ofaX">	dark-goldenrod behind monkey being dead.</a>
 <a style="color:lightskyblue" href="ipfs://QmREwPqZpXDhDPAgXFwPu8LwUxUF9rXv9DaeTLTtpz2nB1">Pathetic dude against light-sky-blue wall.</a>
 <a style="color:olivedrab" href="ipfs://QmWBtYMydD57pfNQSPuYw6uakJXRUCp6o2AXBwNjspUK5e">Simian with olive-drab wall: gloomy.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmf7pHFNLm3bDzfTSJMz79FNzYMYi3Ckf5YHHBW1GEqCVi">Dude is vacant by light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://Qmf7pHFNLm3bDzfTSJMz79FNzYMYi3Ckf5YHHBW1GEqCVi">Dude is vacant by light-goldenrod.</a>
 <a style="color:darkseagreen" href="ipfs://QmTSPpFhhDVfdyaBxK8Gz7bWtCcaSVEsDx37NtR7Ctxomw">Creature against dark-sea-green field: vacant.</a>
 <a style="color:paleturquoise" href="ipfs://QmNnATTrwNEg5XpciBykxmtJTb5BgQY4T85A7R5AFb4QvG">Blue beast on pale-turquoise color.</a>
 <a style="color:sandybrown" href="ipfs://QmXQEn7gYcbqj2WC2T6sUo594QRSQSsPKFRZvGTrzqqCL9">Individual being wearied by sandy-brown.</a>
@@ -197,7 +197,7 @@ done
 <a style="color:skyblue" href="ipfs://QmbX1HT1pWY96GFpZmyNrNAauRte2nKJfTS2Zr4fU4UFSu">Disinterested beast with sky-blue wall.</a>
 <a style="color:slategray" href="ipfs://QmPGf5b2H5MYWSXz5doQcCcC3drCbsF6Aozbn3KnCKbKha">Vacant primate by slate-gray wall.</a>
 <a style="color:	navajowhite" href="ipfs://QmdRDTeiNoUhrL7dtGmgtrCR1UYPHt9TLA8pw7cpz4TaUE">	navajo-white with chimp appearing blase.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmS3dApbqbBzQn1xTB8rfFQWZGiv2cdMiha123UJfV98Vn">Light-goldenrod behind primate appearing impassive.</a>
+<a style="color:goldenrod" href="ipfs://QmS3dApbqbBzQn1xTB8rfFQWZGiv2cdMiha123UJfV98Vn">Light-goldenrod behind primate appearing impassive.</a>
 <a style="color:slategray" href="ipfs://Qmb4pPnjnhdDNNe3pzManei3EmWF7bnR2iBbocfrAS92oc">Slate-gray with simian appearing down.</a>
 <a style="color:navajowhite" href="ipfs://QmNcv7VGEohxPTFvf3udCBJ2MFtAFzmKBSVBUV8x2cyeo9">Gorilla being neutral against navajo-white.</a>
 <a style="color:	olivedrab" href="ipfs://QmVDEhPdNJ9zGmMXc4NozKzWUm5ip13sNwdbvTqitrwKbq">Monkey is indifferent by 	olive-drab.</a>
@@ -210,7 +210,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmbqKyuw4Voec6i3A64kwsHcM1GUAgbraNwL3qbaxycfJm">Character looks spritless by 	goldenrod.</a>
 <a style="color:olivedrab" href="ipfs://Qme3c3Hh5JsSFQY2yqarmwwgjoSyFeXFiBpLoaZLHFrEoJ">Olive-drab with simian appearing unheeding.</a>
 <a style="color:paleturquoise" href="ipfs://QmdhbmbfM6FAN3AYaca2ySrmdesqJLDqWv5RqhfvG9NrvR">Dude being miserable on pale-turquoise.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmWcu6VPZymnXgXLjs9aKNnTGfuwnTssdNiTB6nDLpWBwp">Souless beast on 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://QmWcu6VPZymnXgXLjs9aKNnTGfuwnTssdNiTB6nDLpWBwp">Souless beast on 	light-goldenrod color.</a>
 <a style="color:seagreen" href="ipfs://QmcMu37P5cersrY3S8Uh8hFM9iHP7utfY834h9vLRYW4KU">Sea-green with beast appearing disenchanted.</a>
 <a style="color:olivedrab" href="ipfs://QmZDzRXFh9S5cVk7oTHuwgCmdwnWCsMqmNq6fPanbTFtMC">Dude being unexcited with olive-drab.</a>
 <a style="color:seagreen" href="ipfs://Qma15BzVmEYxAb9WzuT3ez5WUgfV4wfsSt3UHGe8TteTFL">Beast looking down against sea-green.</a>
@@ -252,7 +252,7 @@ done
 <a style="color:navajowhite" href="ipfs://QmdLHda6zXvkT9v7sumoFTLeiYxuGg4RjKnZRp7HCycVaB">Character with navajo-white field: vacant.</a>
 <a style="color:coral" href="ipfs://QmPctT7HHk2vk4STnkH8vWSuLcFLjVq9PKDs9VFsEJ2JsE">Creature by coral setting: unheeding.</a>
 <a style="color:slategrey" href="ipfs://QmNaE4pkfU9tQbzjK4WABdLftwW8jd2rvFUdMFxoFDtuph">Dull beast with slate-grey field.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmVQrFn2yf3WctVcwXj67wCvDyhQsgA1zxDsN9qv8uswGY">Gorilla by 	light-goldenrod wall: apathetic.</a>
+<a style="color:	goldenrod" href="ipfs://QmVQrFn2yf3WctVcwXj67wCvDyhQsgA1zxDsN9qv8uswGY">Gorilla by 	light-goldenrod wall: apathetic.</a>
 <a style="color:peachpuff" href="ipfs://QmX6ZZXUpMpaoJWNwLwv5Lz7GqoAeHh7TXidSADdoaz4Cy">Worn simian against peach-puff field.</a>
 <a style="color:	goldenrod" href="ipfs://QmVjJDeaLk1qt7GGdydVkima22qMsNnBhCkHBoaHyBQ5Gq">Primate on 	goldenrod background: glum.</a>
 <a style="color:lightblue" href="ipfs://QmezKwAidkjY9nLPPXv6hZG3CEAutftbB3aHKbV61iM4To">Unheeding character with light-blue wall.</a>
@@ -271,7 +271,7 @@ done
 <a style="color:moccasin" href="ipfs://QmbbmSigTKm1x5TmMQNWtMupXY67Bm2z5MkBQCEEiTELqZ">Individual appears worn by moccasin.</a>
 <a style="color:bisque" href="ipfs://QmbMqn8YwnqWnxMmNpkoNRzoY77NnD8GtPwZ5Cq3RMKdVX">Dude is unheeding with bisque.</a>
 <a style="color:peru" href="ipfs://QmQHcWjPsWfbdmnhPnvuq1ajVuUn46wMcssdHeSCXsSLY6">Monkey with peru wall: insipid.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmdXkBa13hfs8qyT8di1nXBAuAX2qzZMmu3F9d6JKiuEkJ">Dude on 	light-goldenrod setting: oblivious.</a>
+<a style="color:	goldenrod" href="ipfs://QmdXkBa13hfs8qyT8di1nXBAuAX2qzZMmu3F9d6JKiuEkJ">Dude on 	light-goldenrod setting: oblivious.</a>
 <a style="color:oldlace" href="ipfs://QmZnqQmHK5pTMebggA4zphjHbMsNytShqXEK4sPDAy4ZKi">Chimp on old-lace background: dismal.</a>
 <a style="color:lightblue" href="ipfs://QmPkT1kzXEbjKXU6rNTDvnnydiRnhnYmUSV4WXYqiWPip7">Light-blue behind chimp being pathetic.</a>
 <a style="color:peru" href="ipfs://QmVorBcdUZkxz2rGh52kYk5hbzEQt2K9bvSZodUkKFzX1Q">Individual with peru background: languid.</a>
@@ -284,7 +284,7 @@ done
 <a style="color:steelblue" href="ipfs://Qmek4unHFfzSbrFBXnTAawryWLNcpTSjokYPd5hK55AwyG">Blase chimp with steel-blue color.</a>
 <a style="color:peachpuff" href="ipfs://QmcbBQCw9fVf2WXLpceJkxZBkMVQbGCwu34zqdf31xHb1j">Simian being apathetic on peach-puff.</a>
 <a style="color:slategray" href="ipfs://QmNxMq1Rw8dxijMqQNNQvtk7wZc5putFTnYfM7kVoNfs7u">Monkey by slate-gray wall: wearied.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmP9yBL1UCsuytS73FEj9ZdwSguP65nN2qQHoSr6iR94U6">Critter being unimpressed by light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmP9yBL1UCsuytS73FEj9ZdwSguP65nN2qQHoSr6iR94U6">Critter being unimpressed by light-goldenrod.</a>
 <a style="color:chocolate" href="ipfs://QmXGjTz8Caof9oBFixQgC3HVTKYpx4t24a8ohKeaaGWxsw">Chocolate behind primate - appears oblivious.</a>
 <a style="color:	navajowhite" href="ipfs://QmVHLLoi3Gj67zJ7Zx2FmT3HyBJJ3thgB6irtpm7eYcbS6">Monkey seems apathetic against 	navajo-white.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmS5ZPC7o82TLwrk3zNDEq3FFYJ4bm4HLxJJuPuXVocC7f">Individual seems oblivious against dark-goldenrod.</a>
@@ -331,7 +331,7 @@ done
 <a style="color:lightblue" href="ipfs://QmYAEdxRAdri1qSXdaxAqZd4yYbMHwJXiDMhsayJu2m2ym">Creature by light-blue setting: uninspired.</a>
 <a style="color:olivedrab" href="ipfs://QmYqVX8RqTkA3EDtGJFScuCWpWBggDAUL2LyXwBE1rBZMT">Languid creature by olive-drab color.</a>
 <a style="color:peachpuff" href="ipfs://QmSxWhx3YVG6TzbR1zvfEAX2hgCL2wddvWgcnQChgM3YuB">Peach-puff with critter being vacant.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRPb895Ta4kr5qPzywTYccSnLT8oAsmwMZGRyqRc5Pcwd">Light-goldenrod with beast appearing miserable.</a>
+<a style="color:goldenrod" href="ipfs://QmRPb895Ta4kr5qPzywTYccSnLT8oAsmwMZGRyqRc5Pcwd">Light-goldenrod with beast appearing miserable.</a>
 <a style="color:dimgray" href="ipfs://QmSN7HzuFMCcf4ua2SXVkARTMNMTer1NEBM7jUL49b1vsv">Creature seems indifferent against dim-gray.</a>
 <a style="color:cadetblue" href="ipfs://QmVkVESNeh8yBE55tkU1z1MmsjE1xPBB4BR3g6yCT2SX9V">Cadet-blue behind chimp - appears vacant.</a>
 <a style="color:mediumvioletred" href="ipfs://QmRV1nSvMPvQFPMDDKgATmtun7YvCyCtjac1dvV3mj1m1B">Spritless chimp by medium-violet-red wall.</a>
@@ -344,7 +344,7 @@ done
 <a style="color:seagreen" href="ipfs://QmVcJN9G5WJUnuX1qH6QGU5FNsnWtgNvi1ALX2ErTP3P1Y">Chimp being unheeding on sea-green.</a>
 <a style="color:seagreen" href="ipfs://QmbCPmNa1cXEMy96mGoMDRx2AHez2JdWJAoJa16mGgB65u">Sea-green behind primate being neutral.</a>
 <a style="color:goldenrod" href="ipfs://QmSaNPcEBYZ2KgYYYq7VfJSFEiviZaLsAkLoEHiqsxTznm">Dude by goldenrod wall: vacant.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmf5f2f27QcSgREpVtCKUbw6dBFfWEfjvwrRsoL8vBMxeP">Inattentive individual against light-goldenrod field.</a>
+<a style="color:goldenrod" href="ipfs://Qmf5f2f27QcSgREpVtCKUbw6dBFfWEfjvwrRsoL8vBMxeP">Inattentive individual against light-goldenrod field.</a>
 <a style="color:powderblue" href="ipfs://QmXC4GZoGDvJBXvfomsThDWYca7MR7GTN3Q9hiCZkCcmTC">Miserable primate on powder-blue wall.</a>
 <a style="color:steelblue" href="ipfs://QmZDUaNibuCwAkTW6nKy4UHvFM2HTJxzrZrFB6DF8DrgJD">Gorilla with steel-blue background: deflated.</a>
 <a style="color:peachpuff" href="ipfs://QmWusG8jBWTkswwyVVpksaiSichT5Nb9SdwZsGbTYfF5pi">Impassive primate with peach-puff wall.</a>
@@ -356,10 +356,10 @@ done
 <a style="color:powderblue" href="ipfs://QmXs9FNaHkL3mDKN5dwpHAMqGCwQ8oJf68maoK4AFwiCot">Powder-blue with simian being dulled.</a>
 <a style="color:	goldenrod" href="ipfs://QmdsU7QiAh37B6uocVXz3uSQzFE3m8KNGvpxkbJyfz2Zzm">Simian seems wearied on 	goldenrod.</a>
 <a style="color:navajowhite" href="ipfs://QmbrhobUy3y2V6DQcKRFWTGUr1GiDnM4SjHk1CTdMX2G6c">Miserable beast on navajo-white background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmUQGyyjbagnqYuyGe6mnF7wCden3YTV25SBqABbGJJQhd">Down simian with light-goldenrod color.</a>
+<a style="color:goldenrod" href="ipfs://QmUQGyyjbagnqYuyGe6mnF7wCden3YTV25SBqABbGJJQhd">Down simian with light-goldenrod color.</a>
 <a style="color:skyblue" href="ipfs://QmNMbhHJZDDf8G1qrhhATTcN2RJdtbA9CZSxhbgA3ytmKB">Glum beast by sky-blue background.</a>
 <a style="color:	goldenrod" href="ipfs://QmUN6N8FiiB3anJoMDx9FXJEceRJp34xeJW4ho8CpCvpwv">Uninspired critter with 	goldenrod color.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qme24UGKKL9rjQKkCJm6sbeTnvfWBjitzbDay2TKNPbPMN">Critter looking impassive on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://Qme24UGKKL9rjQKkCJm6sbeTnvfWBjitzbDay2TKNPbPMN">Critter looking impassive on 	light-goldenrod.</a>
 <a style="color:floralwhite" href="ipfs://QmNhzA6tw6G23xMKuXbuyMa7bgoJvsYqHk1114fSKkxztm">Floral-white behind dude being deflated.</a>
 <a style="color:seagreen" href="ipfs://QmYJ1ycoJk8C2HvivozqF4Vcdx94VC191beDJWUoy2sgZs">Unexcited character by sea-green wall.</a>
 <a style="color:seagreen" href="ipfs://QmVZ1cCtKRLqzdNBtDnZWosw7FsuMacgp7sab6oWCLMsEC">Character looks souless by sea-green.</a>
@@ -372,7 +372,7 @@ done
 <a style="color:seagreen" href="ipfs://QmdA4noyhTnjhk12Q2TqYYgNWuafVmtg4F78TWJPAp11Ea">Dissatisified gorilla by sea-green background.</a>
 <a style="color:orchid" href="ipfs://Qme4WEoaWnNGHnyGvUngvzqmwhT8NsocBVrxiE7doWQ4dj">Orchid behind creature appearing gloomy.</a>
 <a style="color:lightblue" href="ipfs://QmYpMCF5aEJDBEro87fdXKhf251txVR1HN2hGFcwdsstGk">Creature by light-blue color: inattentive.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmVNNM2Gau7DGPSvydYYaHwAX7bBndvkeLXWhjo3BGv6LP">Simian on light-goldenrod color: depressed.</a>
+<a style="color:goldenrod" href="ipfs://QmVNNM2Gau7DGPSvydYYaHwAX7bBndvkeLXWhjo3BGv6LP">Simian on light-goldenrod color: depressed.</a>
 <a style="color:navajowhite" href="ipfs://QmNcKNxyJUfchyi4QBFnNL1xL7ivu6ggUmFeXvyLnRDmVs">Inattentive beast against navajo-white wall.</a>
 <a style="color:seagreen" href="ipfs://QmY48HXYNdcX9BRDCfgTfSPLZ7LcZbWtLo9v1eevWFUhc8">Monkey with sea-green field: dismal.</a>
 <a style="color:mediumseagreen" href="ipfs://QmSqDJeb7GyezDvD2JoLJetheYntgsR9XTwBrapLMw5wri">Critter appears wearied against medium-sea-green.</a>
@@ -531,13 +531,13 @@ done
 <a style="color:khaki" href="ipfs://QmbxTYhwh8FPYWgjRWcwiNXp5CEsAuJ7CspaVB2JaNURau">Khaki behind individual appearing depressed.</a>
 <a style="color:skyblue" href="ipfs://Qmcz6PSfCc9tTzp79GcPMzGi5qPhL24nawotF8ABAwUsxF">Character against sky-blue color: impassive.</a>
 <a style="color:seagreen" href="ipfs://QmZeue42rUEAJF3HRiM9dqkxQ1oGSAfosfjPkpn9jDF2sc">Beast with sea-green field: inert.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZrM4CqTsSifm7C5hB625tb7VXvS9vwo2ChCy5NrJT4Zb">Character being frustrated with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmZrM4CqTsSifm7C5hB625tb7VXvS9vwo2ChCy5NrJT4Zb">Character being frustrated with light-goldenrod.</a>
 <a style="color:lightskyblue" href="ipfs://QmSEMVUa1KAUTzJzrC4UzVLCCS7jmQMpkXrnUKdVTuJ3f4">Creature on light-sky-blue wall: dissatisified.</a>
 <a style="color:peachpuff" href="ipfs://QmPDre3oFKFD2xR9MvhJpZdr7eb7aHvz1MwZEx4eVjc9Dh">Gorilla is down by peach-puff.</a>
 <a style="color:lightblue" href="ipfs://QmPwAkwbCy7TUGcyrnomLvsQwCQwuAgYEbTM7QTdbWokfH">Critter by light-blue wall: dissatisified.</a>
 <a style="color:steelblue" href="ipfs://Qmb3aodv2A6HQF4Hn3hiBkwehi7Wo4ae36oWDX3fqr8hDs">Character with steel-blue setting: frustrated.</a>
 <a style="color:seagreen" href="ipfs://QmP4Z4ufNKrRwq2MA4FBQieF4wre9ET7D3vMNrTioM8hZW">Creature by sea-green field: gloomy.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmPKXyeERCcUcoYcYurrAWxLFQ6izVcA4wXYTPxncAVmjH">	light-goldenrod with monkey appearing worn.</a>
+<a style="color:	goldenrod" href="ipfs://QmPKXyeERCcUcoYcYurrAWxLFQ6izVcA4wXYTPxncAVmjH">	light-goldenrod with monkey appearing worn.</a>
 <a style="color:darkorchid" href="ipfs://QmTS7ys8TsSgQ64wHGFNzQtaBqwVHZjyTW6QpkB3SJyCUA">Monkey seems neutral by dark-orchid.</a>
 <a style="color:oldlace" href="ipfs://QmTUFJCbm4vSm3TYzfbvvqmt67LTY4Y4VUQLAoBSyFA7c1">Tired individual by old-lace field.</a>
 <a style="color:lightskyblue" href="ipfs://QmRREUjA7SBCnWbSPLaSfZrqLvBUXSqNzSV2SfkwKmTMoi">Light-sky-blue with critter being unexcited.</a>
@@ -635,7 +635,7 @@ done
 <a style="color:lightseagreen" href="ipfs://QmV1tyqboB29BrRKupGwMbqpJd5qRKYsgp9EVnnYccHazp">Gorilla looks tired against light-sea-green.</a>
 <a style="color:lightskyblue" href="ipfs://QmZpGCj2bBw3jtSaTq9A5CLLkMrF1i2YQ9MJVF2kLbodEW">Oblivious beast against light-sky-blue wall.</a>
 <a style="color:skyblue" href="ipfs://QmYqXQb3xFNWDkNno34GNL435yMbjt4B8b89LvBA75A9VP">Uninspired monkey with sky-blue setting.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmabP1MN6kMygaTMaLVD6C8GsBkTGZVa74tp8VLYhpvdKD">Torpid chimp on 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmabP1MN6kMygaTMaLVD6C8GsBkTGZVa74tp8VLYhpvdKD">Torpid chimp on 	light-goldenrod wall.</a>
 <a style="color:seagreen" href="ipfs://Qmbk8tVHAUDq2g6u6nLTvr6L2YLSAzF5RxDqw87KDzNveK">Sea-green with primate being disenchanted.</a>
 <a style="color:seagreen" href="ipfs://QmWED8fdherfPhjVmPiwfGRvM6hjA7NkUyeDoNwgXdbWZt">Inert gorilla by sea-green color.</a>
 <a style="color:seagreen" href="ipfs://QmUy9rnkdhtfLeqhaX6aACXA1Mg4iV81YaVNbDoA68atst">Monkey with sea-green field: blue.</a>
@@ -662,7 +662,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmRfU9ynKEMMpaaN7waVwGMNkQvrndcnc67DB3xrFTjkow">Individual looking souless by 	goldenrod.</a>
 <a style="color:goldenrod" href="ipfs://QmVTSPXp7PUGeZp7Cvievbao1r31wfGnjSUKLWaNkQXZ9Y">Beast being vacant with goldenrod.</a>
 <a style="color:mediumvioletred" href="ipfs://QmeUVRBkWLbHupM9kBrpYSscCwNzfbQ6G4ATPT8yMshsvx">Character is indifferent against medium-violet-red.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmPz4xNpV4xTE9DZeZQow7dxEYArCoPGK862ALg2hgZ9Vr">Insipid gorilla with 	light-goldenrod field.</a>
+<a style="color:	goldenrod" href="ipfs://QmPz4xNpV4xTE9DZeZQow7dxEYArCoPGK862ALg2hgZ9Vr">Insipid gorilla with 	light-goldenrod field.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmRbJYFciJ6tbQnR4RCcDAmvQVsZdhSyyGw6amBmFcsXQ6">Chimp is dulled by dark-goldenrod.</a>
 <a style="color:steelblue" href="ipfs://QmSATt4xNUShucKC93LQuXAB2Rm6dhb6asczSwoWQQGts4">Primate with steel-blue background: glum.</a>
 <a style="color:khaki" href="ipfs://QmarohrshQUPcP2k4Udk993qEtauoEu1K7gFveVdxFnFeT">Khaki behind individual - appears sad.</a>
@@ -709,7 +709,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmcGHmnMT8K6x9NSVbDjwYeDpkaGvGPTbj2oJnGjLemZ6U">Sandy-brown behind creature being miserable.</a>
 <a style="color:navajowhite" href="ipfs://QmQVMwtthzsLfH89QwGFWVM18j4ircVyQUgJKQCEqigsB2">Tired monkey on navajo-white color.</a>
 <a style="color:gainsboro" href="ipfs://QmYSFgDpoPxL1qADf1PzqiHdakdukV8jbvnTYFXy2nr6E7">Torpid creature with gainsboro field.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmexrY3nTywWPJEmsK6tvrB9WQfis8cnnRSZKSY6C9JUBE">Simian seems miserable with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmexrY3nTywWPJEmsK6tvrB9WQfis8cnnRSZKSY6C9JUBE">Simian seems miserable with 	light-goldenrod.</a>
 <a style="color:peachpuff" href="ipfs://QmNrRwWtnJx845VqxDRAAQSwEf7gbYG5Tyot2zk32oSJ9j">Monkey with peach-puff background: dissatisified.</a>
 <a style="color:lightskyblue" href="ipfs://QmXRWQgKDvZVFf1c73xvFZwRuZ3W3CeTceZdL2LEuBxWjy">Unconcerned chimp by light-sky-blue field.</a>
 <a style="color:cadetblue" href="ipfs://Qmdr5bTnMJ9vXQDz6sticofVvLbeyTxWC47jo4M6K7y2yS">Depressed critter on cadet-blue setting.</a>
@@ -773,14 +773,14 @@ done
 <a style="color:oldlace" href="ipfs://QmfEsd2GiHKDDM5SZefGnPd5rsc3fnFpmnbXvdFqkRuhcH">Monkey against old-lace wall: tired.</a>
 <a style="color:lightskyblue" href="ipfs://QmbKsqxcBZTHSkpL37kopx1jyR12yommk5vShJUvJ8kTwr">Light-sky-blue with primate being unconcerned.</a>
 <a style="color:whitesmoke" href="ipfs://QmUJ9TSyfU76nyaw89CECt6BexzHy7Z6yMoVQEVcuzmVfE">Individual looks inattentive on white-smoke.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qmc4TeVcX4E62UaEUb7SSwpkPydpGE6sdPMW9EsNpe81u8">Gorilla against 	light-goldenrod field: torpid.</a>
+<a style="color:	goldenrod" href="ipfs://Qmc4TeVcX4E62UaEUb7SSwpkPydpGE6sdPMW9EsNpe81u8">Gorilla against 	light-goldenrod field: torpid.</a>
 <a style="color:skyblue" href="ipfs://QmdpRQ5ogHHE7FeCTN3tCnpnqZJRtHkBfPaESrUdkE79ZU">Simian on sky-blue color: jaded.</a>
 <a style="color:powderblue" href="ipfs://Qme6dCSx8MZjjvVEVSmcSUBu7FPYh7NwHiMBAp879iE128">Powder-blue behind critter appearing torpid.</a>
 <a style="color:	goldenrod" href="ipfs://QmZQvme2mQMEfvaqK81gPFgdWS2o33Ay14hkCCPycrQdxz">	goldenrod behind chimp - appears languid.</a>
 <a style="color:skyblue" href="ipfs://QmeFA7hXyGav7DXrnEpU4GyUCTXAsfsiydyvfkPL5JB5W5">Individual against sky-blue setting: depressed.</a>
 <a style="color:moccasin" href="ipfs://QmYPHngaJWyrbojR6uGE8AQFCcR3ci9X2BcGBYqR2tJPjf">Monkey by moccasin background: tired.</a>
 <a style="color:olivedrab" href="ipfs://QmbRHdWJ5F52BQpu8NJURRWxz18g5Ng4wq8MHa5vj9JtFd">Olive-drab behind dude being dismal.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmcuw9Yi2DkXPuGwZHuDdMjkMyv4wfUu6YE8DtS9gwcodB">Simian appears neutral by light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://Qmcuw9Yi2DkXPuGwZHuDdMjkMyv4wfUu6YE8DtS9gwcodB">Simian appears neutral by light-goldenrod.</a>
 <a style="color:navajowhite" href="ipfs://Qma9M7v48F2PhFLXQqBG2QjMpGCnvbYSTSDrL7M62de9QF">Slack monkey against navajo-white background.</a>
 <a style="color:ghostwhite" href="ipfs://QmWTgnKty5YymEpYaCXTXZT9w9BHuGG8eQfFqn1YK6fvpe">Gorilla being fatigued by ghost-white.</a>
 <a style="color:coral" href="ipfs://QmdipUBpyukPL6dyXUkL3e4V68hiPg4pygSZmLa7HjGQU2">Creature appears uninspired by coral.</a>
@@ -833,17 +833,17 @@ done
 <a style="color:goldenrod" href="ipfs://QmWtzsRkHiZKmpCV7BzkfgDoLYoNZzdGQSwPA7jPKTDaUS">Individual appears impassive on goldenrod.</a>
 <a style="color:	olivedrab" href="ipfs://Qmbv1aANFxMbiEkBqaXc5PFkSkdnRV2TJxwRpzrLDE3uTx">Simian by 	olive-drab setting: spritless.</a>
 <a style="color:seagreen" href="ipfs://QmbWNeiMqNiR44CzW5KfDMwCifs8FCN236Cdw9RYXvkp1H">Sea-green behind dude appearing depressed.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmTiQkr4kT6CAQCz9thbVHMSqwmjmTorC2VovEMjra1X9g">Critter against 	light-goldenrod wall: dismal.</a>
+<a style="color:	goldenrod" href="ipfs://QmTiQkr4kT6CAQCz9thbVHMSqwmjmTorC2VovEMjra1X9g">Critter against 	light-goldenrod wall: dismal.</a>
 <a style="color:olivedrab" href="ipfs://QmSxDVJfnay4iwabTqcruMbMnLY8ygbqokh334kJ1kYJia">Gorilla with olive-drab color: gloomy.</a>
 <a style="color:	olivedrab" href="ipfs://QmYbEZBRqBtoqUU7poUryH4r6doiZYu2G5b2fiYrFjZDY9">Inert monkey on 	olive-drab field.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTCUBkYBMB2ZM9hDN6mASw9QfZCCUSL3DVnoosxKMosYR">Light-goldenrod with dude - appears depressed.</a>
+<a style="color:goldenrod" href="ipfs://QmTCUBkYBMB2ZM9hDN6mASw9QfZCCUSL3DVnoosxKMosYR">Light-goldenrod with dude - appears depressed.</a>
 <a style="color:lightseagreen" href="ipfs://QmWumApkvS6BDLBnAxa1tMdojjPUfdLBfY71qm2SfiLnzC">Beast against light-sea-green wall: wearied.</a>
 <a style="color:lightblue" href="ipfs://Qmd2h6H2Wea6wbyp29TFkLewLFWKRZpQDADvbwxEJiyqNC">Creature seems blase on light-blue.</a>
 <a style="color:navajowhite" href="ipfs://QmcXkab56GkRfUeCVr7krLRzNvZ7T815LPRvSvr9EAcP3s">Individual on navajo-white wall: insipid.</a>
 <a style="color:navajowhite" href="ipfs://QmP91AbP977JMTT9GKh6VEYnz4GhBPrN48Fg8o7pLK5XEJ">Navajo-white with chimp being jaded.</a>
 <a style="color:mediumseagreen" href="ipfs://Qmf8JT1ZM2pp6soZWVv5YV3e7Mcw1PoKhEdRXkkQEVbLfW">Gloomy gorilla with medium-sea-green field.</a>
 <a style="color:khaki" href="ipfs://QmY3dj73Du2ZGAHbxAeD2BAK2UcEzRcfGYvrWPFYA1jVhM">Beast by khaki field: blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmce3TRL6JSjpBaJLkVxzJH42SqkJotazxR4txNk618wUH">Light-goldenrod with creature - appears disinterested.</a>
+<a style="color:goldenrod" href="ipfs://Qmce3TRL6JSjpBaJLkVxzJH42SqkJotazxR4txNk618wUH">Light-goldenrod with creature - appears disinterested.</a>
 <a style="color:peachpuff" href="ipfs://QmWEUQYEujQefoarzHSW564EgDRPMAgK4whvwXRULfBNJm">Peach-puff with individual - appears unconcerned.</a>
 <a style="color:navajowhite" href="ipfs://QmQvAvq2xjUFjxEr3aigtpRvHjNFRiZNDFH8uBeqJ3Swit">Disenchanted individual against navajo-white wall.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmeZD4cAmQ9eRKgunSTfCxaTBjR1g5ZFThu6dL5n7cWWDy">Dark-goldenrod with gorilla appearing uninspired.</a>
@@ -970,12 +970,12 @@ done
 <a style="color:seagreen" href="ipfs://QmdRjiu9hgJpmmD7Pz2sBMZ55FUd9JvDC7caxWTXyLtbX4">Individual against sea-green wall: unheeding.</a>
 <a style="color:steelblue" href="ipfs://QmVY1qJwaUSig1XGWHTjL1bZD2y2jWKRUg6V1HoCYkXtTH">Chimp looks down against steel-blue.</a>
 <a style="color:coral" href="ipfs://QmPd88HNUUgxc8NQkFtbsx1ETgF2VhVMGdYprn2T6kBuFu">Gorilla being unimpressed against coral.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qme6dFHQRLzZUFc3g9HP1oL3wiG35KVkpV6CQtKhYrLuvF">Creature being worn on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://Qme6dFHQRLzZUFc3g9HP1oL3wiG35KVkpV6CQtKhYrLuvF">Creature being worn on 	light-goldenrod.</a>
 <a style="color:lightseagreen" href="ipfs://QmeqXsidB3zw6iVzQ8Nhdfz2jtq4tUGDYLbumX8ADypMUu">Inert critter by light-sea-green setting.</a>
 <a style="color:skyblue" href="ipfs://QmNPhKKnyf8AmSz4gZj3ZYZmS9kkwC7UKN5ddKyz2Yi4YC">Individual looking down by sky-blue.</a>
 <a style="color:rebeccapurple" href="ipfs://QmRbxsYRa8n6wmyHbGQ2yMYLCGXHQnMK9c5ZRYKo1jwKT3">Chimp looking worn by rebecca-purple.</a>
 <a style="color:mediumorchid" href="ipfs://Qmcp6ADnndFT3nCow8ns7R1naXtMjYXsDkkfUYsvBLc3TF">Slack character with medium-orchid wall.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmNx5ArBdqZmNkPJoFGsbasmvAHxxkTTEeebDpmdKBRHkF">Dude on 	light-goldenrod setting: dulled.</a>
+<a style="color:	goldenrod" href="ipfs://QmNx5ArBdqZmNkPJoFGsbasmvAHxxkTTEeebDpmdKBRHkF">Dude on 	light-goldenrod setting: dulled.</a>
 <a style="color:palegoldenrod" href="ipfs://QmZ1QSz6cRoixSdDPqCs2GRYgU3TbEXfFRe1T1q1ygfdUr">Character on pale-goldenrod background: unheeding.</a>
 <a style="color:seagreen" href="ipfs://QmRsVDjYqzKwaMkGou2f4GhhgK33g52j7pCFsCoeZEzH2j">Dissatisified individual by sea-green setting.</a>
 <a style="color:seagreen" href="ipfs://QmPz8s6N3Tt5XRAKebRqWQJYKwtRhjGWvuUNFeWikYHu4d">Unimpressed critter against sea-green wall.</a>
@@ -987,7 +987,7 @@ done
 <a style="color:paleturquoise" href="ipfs://QmTQNyEBx9ozpEoxRjdVsoXTrABdyhEtDMHMh1q9M1VTZi">Languid chimp on pale-turquoise background.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmPrDnRVSm32M1DWTA3zZr5CxMFVNNfh4VBBbGmFVME2pD">Monkey against 	dark-olive-green color: dead.</a>
 <a style="color:khaki" href="ipfs://QmarkkgfaHJH1RgaXneeayrw7ygKkKoHzchUYkFatxY5jY">Simian against khaki background: jaded.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQb2pQbEpaPgbT9Tz6m291U4VGjriqQXd2Fs6QtcLUoYC">	light-goldenrod behind gorilla - appears dismal.</a>
+<a style="color:	goldenrod" href="ipfs://QmQb2pQbEpaPgbT9Tz6m291U4VGjriqQXd2Fs6QtcLUoYC">	light-goldenrod behind gorilla - appears dismal.</a>
 <a style="color:coral" href="ipfs://QmV777nqtBn2vF2Mn3794Vy4zSexvNaWQXEMvFVtpqC9FE">Critter on coral wall: souless.</a>
 <a style="color:	goldenrod" href="ipfs://QmT5UWNi4pF9Y1q2BFSepSy9P3RwYgHhef298fTXUXEDvN">Neutral simian with 	goldenrod color.</a>
 <a style="color:dimgrey" href="ipfs://QmfF69LJWr8SwMv6wA7wkmbVWS5vqZtq8MZhs6UQ5gogpz">Dim-grey with chimp being fatigued.</a>
@@ -998,7 +998,7 @@ done
 <a style="color:slategrey" href="ipfs://QmYhUX5fjigN2HgGmq3AcEtzVjSX3iR4EjKEoWCMTkwb6g">Gorilla seems disinterested against slate-grey.</a>
 <a style="color:gainsboro" href="ipfs://QmbddVDFayPm1Srrd6LrvtjF6JXV4j1K8NRP9MnxtZRVdz">Dull character against gainsboro background.</a>
 <a style="color:rebeccapurple" href="ipfs://QmUJSagpJUbXXUZw3QRgMFCKT7CWb5fTZgiJF9etbqDyUZ">Dude on rebecca-purple field: apathetic.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmcRF4sBRTkPdSLGJqseMhmgEkVfbnTFmXnmBtnmD2zSeR">Light-goldenrod behind creature appearing dulled.</a>
+<a style="color:goldenrod" href="ipfs://QmcRF4sBRTkPdSLGJqseMhmgEkVfbnTFmXnmBtnmD2zSeR">Light-goldenrod behind creature appearing dulled.</a>
 <a style="color:	olivedrab" href="ipfs://QmPTkfWeytRdpttNnFerYZKFXVn1EiRb9ww4CoAuMvvyAE">	olive-drab behind gorilla being sad.</a>
 <a style="color:bisque" href="ipfs://QmU7RQwW1CUUg7ZWJQQ5NtLeK8hBUSS4nMCogCoRz8za7H">Beast seems dull with bisque.</a>
 <a style="color:steelblue" href="ipfs://QmRyLzER5b21Kzez4u7n3d415Gjge8q9M6szQmPcdY3VXL">Primate is glum against steel-blue.</a>
@@ -1014,12 +1014,12 @@ done
 <a style="color:	olivedrab" href="ipfs://QmWyZp7GKMNcATxpw6Ru3kCroDzzADcozeHATJwCRhMbyX">	olive-drab with character being indifferent.</a>
 <a style="color:seagreen" href="ipfs://QmeitGvh12jgeuTyhoDAHkHVsj8mWba5h4VT9Jp1WAuGyS">Sea-green with simian being gloomy.</a>
 <a style="color:coral" href="ipfs://QmX3XhRYaTAq2Lgak6aARKfNFUQ6ubhhCtKFf95ddWZMvR">Coral behind creature being disinterested.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQP4qWKZPESqJQ7BFbh7UH15Mp8z3DzjyoQDXZogqoct7">Dude by 	light-goldenrod color: apathetic.</a>
+<a style="color:	goldenrod" href="ipfs://QmQP4qWKZPESqJQ7BFbh7UH15Mp8z3DzjyoQDXZogqoct7">Dude by 	light-goldenrod color: apathetic.</a>
 <a style="color:seagreen" href="ipfs://QmcmZpUbZe1SeD2GMTL5w4upNoRPnkaT6PbKxJcE5uvopK">Chimp on sea-green wall: worn.</a>
 <a style="color:cadetblue" href="ipfs://QmPH8UuPHsv8ku5fimbmM5PJoaFxt1gqCaAF7zNi1pvXaV">Dulled monkey against cadet-blue setting.</a>
 <a style="color:cadetblue" href="ipfs://QmZhchd6Ldz6V2yKn7w6U5uDUKDyKDY8utzg99MqyN2Ayp">Monkey with cadet-blue background: vacant.</a>
 <a style="color:bisque" href="ipfs://QmNRV3JFk4AVncYxSinNGqJKWmn2PrFeeDqngsDtXobKiW">Critter looks spritless with bisque.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmUNy7j4F2qWKkxzC9nvopVCmKBos62RCUD4sPyUUiixg8">Monkey on 	light-goldenrod field: dull.</a>
+<a style="color:	goldenrod" href="ipfs://QmUNy7j4F2qWKkxzC9nvopVCmKBos62RCUD4sPyUUiixg8">Monkey on 	light-goldenrod field: dull.</a>
 <a style="color:orchid" href="ipfs://QmdmPe3onk36WDsh6VNgG9gnZhFnccStttFyJSHMPGZc9p">Tired beast by orchid wall.</a>
 <a style="color:powderblue" href="ipfs://QmaHqbe7Pzxzzzm6HyeayACgVYz8zvBykfKARa7GqDb69j">Dude being pathetic against powder-blue.</a>
 <a style="color:lightblue" href="ipfs://QmYpdnXoPDYctpi55U5Rvm6tFZgB49P2mdPSxrKenkPeid">Dude on light-blue color: unconcerned.</a>
@@ -1050,7 +1050,7 @@ done
 <a style="color:mediumvioletred" href="ipfs://QmZfEhvL4EyQjoRGKPybTXE5cwrsziw3VAACDD43Bzos8u">Medium-violet-red with chimp being deflated.</a>
 <a style="color:bisque" href="ipfs://QmSV2KEF3izRLixRjH5uZqDvM8qDpa7qhG9HLSexQB1Y9U">Chimp against bisque wall: depressed.</a>
 <a style="color:mediumvioletred" href="ipfs://QmWt7dQ2wqd6Nk9CUqMeEkaqkdxEHtGSYuMNpBfGXeu3Q4">Depressed monkey by medium-violet-red wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmWTJeeVE2E85VCBPY5Vv645vZ8KNpmtp5CgcwX45qBHbU">Dulled primate against light-goldenrod background.</a>
+<a style="color:goldenrod" href="ipfs://QmWTJeeVE2E85VCBPY5Vv645vZ8KNpmtp5CgcwX45qBHbU">Dulled primate against light-goldenrod background.</a>
 <a style="color:olivedrab" href="ipfs://QmXyYx2BAnjBzzmEG2VNcdbVdhSNDcaAmEECko6JT4TBGa">Character appears dismal with olive-drab.</a>
 <a style="color:	khaki" href="ipfs://QmTuZDLv5qcUde4mBh4Wds2djiNQ8k1AgeW5PKpuhSo7i7">Dulled character with 	khaki background.</a>
 <a style="color:cadetblue" href="ipfs://QmdeqrRVrZSZMQdRUrJSVVQrhqGV68L5dwpjSVYcrQ7c7W">Dull critter against cadet-blue field.</a>
@@ -1072,7 +1072,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmYHZycPoKocRdAAtSmoKDDHbuKBwVaANvSeWznJGZ68cw">	goldenrod behind individual being pathetic.</a>
 <a style="color:mediumvioletred" href="ipfs://QmV2fetcBD3rQGFS7PKmnsEsejBHgFLx7xhREyKhMdXRHy">Languid critter with medium-violet-red wall.</a>
 <a style="color:dimgray" href="ipfs://Qma6CCsSpJBwVSofNusrbs4PPGnycV6jZSXGJ2okTN6AMJ">Individual looks unimpressed by dim-gray.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRpzgYLjNuKNnDpNv8kq3NgwqU59h2qbU4gruqrbCPjiK">Light-goldenrod behind critter appearing dismal.</a>
+<a style="color:goldenrod" href="ipfs://QmRpzgYLjNuKNnDpNv8kq3NgwqU59h2qbU4gruqrbCPjiK">Light-goldenrod behind critter appearing dismal.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmZXegMGfT6NuW3Awcqz7ZQrhbKyi5jUAhRqt4AsVYv8vK">Unheeding simian against 	dark-olive-green color.</a>
 <a style="color:steelblue" href="ipfs://QmYpcAfePMSpgCF3pUABHGH8XtckM5uxoaTykc7s8NgQ7F">Steel-blue behind critter being souless.</a>
 <a style="color:paleturquoise" href="ipfs://QmUWuVge75k6EJzRrfm4zCsPQeAcDZ52xx7PQp7K2kQBFD">Pale-turquoise behind monkey - appears insipid.</a>
@@ -1087,7 +1087,7 @@ done
 <a style="color:mediumvioletred" href="ipfs://QmUwFKJmeyVthcog2zJPFGZPQMQZMMs6WYMsECkn8CixUs">Dude looks unconcerned against medium-violet-red.</a>
 <a style="color:palegoldenrod" href="ipfs://QmY2nrwuMD1YDxb3ydDAjBM11tyfSDK3DBEfQXDUGUbb7q">Character appears unexcited on pale-goldenrod.</a>
 <a style="color:mediumvioletred" href="ipfs://QmUBTUNMZMcPq6CFtbD91aWBfNdChgVzSgnTSxXxoVdGF6">Medium-violet-red behind primate appearing tired.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmWNxZLHAE1peMHyfrBP3cgNMSUK8ptD4n65RQ4NMWwCeh">Monkey with light-goldenrod setting: souless.</a>
+<a style="color:goldenrod" href="ipfs://QmWNxZLHAE1peMHyfrBP3cgNMSUK8ptD4n65RQ4NMWwCeh">Monkey with light-goldenrod setting: souless.</a>
 <a style="color:floralwhite" href="ipfs://QmPmLnYJVS4L5yB6bUr2KZaA2DzwW9aas1vbrqCqGBthxe">Simian seems blase against floral-white.</a>
 <a style="color:floralwhite" href="ipfs://QmSaT1qsz4WrKJjDfqjcdkotrJaW1hhyhbWjSkFx3oq5NW">Spritless beast by floral-white color.</a>
 <a style="color:steelblue" href="ipfs://QmZ6LNCnLuENYjiEUehZRzjQDcVCDyH6WDJVQ4KbqUdhpw">Dude looking indolant with steel-blue.</a>
@@ -1111,7 +1111,7 @@ done
 <a style="color:	khaki" href="ipfs://QmSy8Vaw3EqYsjUEcVNT2V7ajp67ysFSdXFrC8mJChhfM4">Simian on 	khaki setting: dead.</a>
 <a style="color:dimgray" href="ipfs://QmPax97r24wR82uUu9kYi6mA1jrwfWWyteX9MHJv3iWVNH">Primate against dim-gray background: dissatisified.</a>
 <a style="color:darkorchid" href="ipfs://QmZmfm2UPoTNXcJwCrwi5n5f6sxFbGzJ1i4fV9dputi9nL">Primate on dark-orchid wall: languid.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmSpkB7LFmxMQtP89qsmbFxpywFtCKSLiTopiJ2PTG2GNZ">Simian seems languid with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmSpkB7LFmxMQtP89qsmbFxpywFtCKSLiTopiJ2PTG2GNZ">Simian seems languid with light-goldenrod.</a>
 <a style="color:skyblue" href="ipfs://QmeDNbdHpYopKnaZAMcucm5A5hkbv5ZYKjhwUReeKJVxAu">Slack critter against sky-blue wall.</a>
 <a style="color:	goldenrod" href="ipfs://QmdNGujv5T6WyzqNJhU6GNMUkWxJpqZiCRabBxpUErPP3a">	goldenrod behind dude being disinterested.</a>
 <a style="color:dimgray" href="ipfs://QmPUyrHvDCgXhyHPeD46bU6vy7k7WoUofauoCxgVtS1E1k">Individual looking fatigued against dim-gray.</a>
@@ -1121,7 +1121,7 @@ done
 <a style="color:skyblue" href="ipfs://QmUhK7jaaavmTWWdUVmjJF9WHAZU1Q9h7LmuYYi3sacQka">Chimp on sky-blue field: sad.</a>
 <a style="color:cadetblue" href="ipfs://QmWdedCoWATQv6WX532XvJFboGiSomP4nX4FgWdaPu2Pc8">Cadet-blue with gorilla - appears apathetic.</a>
 <a style="color:	goldenrod" href="ipfs://Qmf3QKZvPdjFa9Qh5xwEJKTKuo5ToCvEAqncm4c8aK35zd">Simian against 	goldenrod setting: dull.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qma5SSTsUFZweMsUWcY1YiNGTu6RJBGFQNsrDHtVPwumgc">Light-goldenrod behind simian appearing inattentive.</a>
+<a style="color:goldenrod" href="ipfs://Qma5SSTsUFZweMsUWcY1YiNGTu6RJBGFQNsrDHtVPwumgc">Light-goldenrod behind simian appearing inattentive.</a>
 <a style="color:seagreen" href="ipfs://QmSp6oJm3qbqE2uYVs9wB2iZak51kENAn1zRXAF7t3ts8U">Critter by sea-green color: dull.</a>
 <a style="color:khaki" href="ipfs://QmS17qzf2swC56MjRuRJFyQ2BwMQLCNyu6Xpa2hRRumR6w">Khaki with monkey - appears disenchanted.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmeVXZACqxRtaPUJSrFjL4hd453k2DFuRYvhU4ZHBTf5uS">Individual on 	dark-goldenrod wall: impassive.</a>
@@ -1184,7 +1184,7 @@ done
 <a style="color:lightskyblue" href="ipfs://QmQ4gS53NfeJT1KFzUBbUH2LmTDDKoGeU8xTdGiKpibTGk">Souless monkey by light-sky-blue setting.</a>
 <a style="color:lightskyblue" href="ipfs://QmV919S4pAhV8ydRqHcmwPGQ4u7tnZVjPcFZXBema7sTxH">Dude appears down on light-sky-blue.</a>
 <a style="color:goldenrod" href="ipfs://QmSDgXYdcEwiGgS84VyM5iUiWQk9hV5tm9aTfKZaHmn6nw">Individual is indolant by goldenrod.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmfGV9YuuVVVMLc2kXPx2EZSqcG7SVBDXfqy9Tb7kuGPuH">Light-goldenrod behind critter - appears fatigued.</a>
+<a style="color:goldenrod" href="ipfs://QmfGV9YuuVVVMLc2kXPx2EZSqcG7SVBDXfqy9Tb7kuGPuH">Light-goldenrod behind critter - appears fatigued.</a>
 <a style="color:darkorchid" href="ipfs://QmcQpUNdSCH1GKKUeq54fiAZgMB4JVAGDjL52wgkxvMQKw">Creature with dark-orchid field: dismal.</a>
 <a style="color:mediumvioletred" href="ipfs://Qmc1tGDsQ6ZMkvZHzoQoUDud8zXAfQcL7ow241R4CuKiQq">Medium-violet-red behind gorilla - appears glum.</a>
 <a style="color:seagreen" href="ipfs://QmWypHuaDafEKtVK1CBpDSJDN3Tuxu5LAS9BZLFHJm3g4E">Frustrated individual against sea-green field.</a>
@@ -1205,7 +1205,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmVfmSjqxgSBVxDBGVeZPbqryFwXyLN8nuqtYAds3qguvN">Character by 	goldenrod background: blue.</a>
 <a style="color:lightseagreen" href="ipfs://QmUMDzhQ4PGHEHsX5gFRdDowEijmSzCxwUBJNqZX7rUkmg">Dude with light-sea-green setting: pathetic.</a>
 <a style="color:lightsteelblue" href="ipfs://QmWyxqvKsLnffV99XDe7bx5WKkL9wWKp1UBmc8qwEYMmXv">Wearied creature on light-steel-blue background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZrUhgUys9qcdArNF8bjYUhj2rfUFXfShywwoipXpUdWZ">Light-goldenrod with dude appearing frustrated.</a>
+<a style="color:goldenrod" href="ipfs://QmZrUhgUys9qcdArNF8bjYUhj2rfUFXfShywwoipXpUdWZ">Light-goldenrod with dude appearing frustrated.</a>
 <a style="color:moccasin" href="ipfs://QmaC86aDmtPAB12Z4GpRZYFvUg8Ewc7asCpbx3GBUnHUPF">Character by moccasin setting: wearied.</a>
 <a style="color:coral" href="ipfs://QmNtD16BYzzT3CYmY2s4iwm6vrsHgQRumXfXZHYHBC9ccr">Jaded critter on coral color.</a>
 <a style="color:coral" href="ipfs://QmXqARqssHC8xFtg7jUg1PQ9GSLTjXytqB9J2m5iAcR1vq">Torpid character against coral wall.</a>
@@ -1272,7 +1272,7 @@ done
 <a style="color:lightblue" href="ipfs://QmQ7E6Wmu1T1Eho7t96ND6tywvrJkeuTP3cw7ShwT9zcwV">Critter against light-blue field: souless.</a>
 <a style="color:mediumvioletred" href="ipfs://QmVZEsx74R5wWafha9Hi5QoBa3azbBXpPJuQrQ13TVWLC6">Simian on medium-violet-red color: wearied.</a>
 <a style="color:goldenrod" href="ipfs://QmVapn7Wyvnw2rTVuBBdzrYVuBpEui7967QC6uCMazEPZZ">Spritless primate on goldenrod background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmSddAasasLYCttErTQFJY1bCXxx3v3VQY9g24ALVJ5vMZ">Disenchanted critter with light-goldenrod color.</a>
+<a style="color:goldenrod" href="ipfs://QmSddAasasLYCttErTQFJY1bCXxx3v3VQY9g24ALVJ5vMZ">Disenchanted critter with light-goldenrod color.</a>
 <a style="color:coral" href="ipfs://QmS6Wy81SN6y7iGBxcoTS1t6r1rGyjhNGJHumZpKc3z5SD">Creature seems unimpressed against coral.</a>
 <a style="color:skyblue" href="ipfs://QmX8b1a3qLNp4fgMS9sUHQ7oumRiDG4aST61ut22bnG3eH">Critter by sky-blue background: deflated.</a>
 <a style="color:oldlace" href="ipfs://QmfQyi9px3JReETd4ihm6pWqTvdwsAsMh9K4oaSj525xYT">Dull primate with old-lace field.</a>
@@ -1320,16 +1320,16 @@ done
 <a style="color:	goldenrod" href="ipfs://QmZ2UcD74xcdNq2dbNtB2AhJCp2t5NBKieD6BUAMK8xBEo">	goldenrod with monkey - appears slack.</a>
 <a style="color:powderblue" href="ipfs://QmZ5mQaHaifzQGMXgr1ZN5PXqKcnR7MJ9EYf994ebnL22d">Critter is deflated against powder-blue.</a>
 <a style="color:skyblue" href="ipfs://QmUYiDaUSNv96fhNUKsnZcW9e68TW6w1oszpdZXK9S92nW">Critter by sky-blue setting: languid.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmfWpASUxoSDNa9QVdfvMZxQeiaRWLQBVWGXbMhhvJvgSj">Chimp looking oblivious with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmfWpASUxoSDNa9QVdfvMZxQeiaRWLQBVWGXbMhhvJvgSj">Chimp looking oblivious with 	light-goldenrod.</a>
 <a style="color:rebeccapurple" href="ipfs://Qmcyc7tm9sZB9JnvLgejPTwdzjjNjDMiRWCUvaZAfp6cUg">Rebecca-purple with individual appearing blue.</a>
 <a style="color:	olivedrab" href="ipfs://QmNqxNB56bts6jqMuv7UJSH9E6EjcDhHv94cQT426594en">Character looking worn by 	olive-drab.</a>
 <a style="color:seagreen" href="ipfs://QmePr3qTCrsVNBynZQ1pKcdwMAN599NL8kJotzqyKyyVaQ">Sea-green with gorilla being languid.</a>
 <a style="color:skyblue" href="ipfs://QmbkZfTgHvLTRVrTy94RaYjBkor1B74m5Dy8nGHhK33McG">Chimp against sky-blue setting: souless.</a>
 <a style="color:navajowhite" href="ipfs://QmUdVon6wyUY5SiYZpM4jf5Qey2kVQzsZ5QJ9T88bBpjRv">Chimp looks blue against navajo-white.</a>
 <a style="color:lightseagreen" href="ipfs://QmYRMV3pnPheL4PUQwjwGWnqo55W4UdPiGDiTaPgVZpxN4">Uninspired primate by light-sea-green wall.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmWMwPGTEWj2Qo58SezZh4mTAM27EBG7Ci8ij7HDP3c9kf">	light-goldenrod with primate being unheeding.</a>
+<a style="color:	goldenrod" href="ipfs://QmWMwPGTEWj2Qo58SezZh4mTAM27EBG7Ci8ij7HDP3c9kf">	light-goldenrod with primate being unheeding.</a>
 <a style="color:seagreen" href="ipfs://QmTwGjJ65PRTCKXeJkAkCGiidkwf4KqSwttAJToCVC443o">Souless simian on sea-green setting.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZWVzZ1P9w8RcCz8xb6pnsvZQtZ1QGHNUhcpqy2V23BtK">Individual appears miserable on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmZWVzZ1P9w8RcCz8xb6pnsvZQtZ1QGHNUhcpqy2V23BtK">Individual appears miserable on 	light-goldenrod.</a>
 <a style="color:orchid" href="ipfs://QmVkgV41Gb6yEda1YoCTUXNYiv2pTqfrngb1CfAtjLBnx2">Torpid critter by orchid color.</a>
 <a style="color:navajowhite" href="ipfs://QmazeRwVgin5YCmzbRe253ttFWR2oY9LKDLXgqZYRx2mkS">Critter by navajo-white background: tired.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmcxcJ96Kz2YXZQcEfnVFcnRidcy5JXVY7J68xtMRy1d6h">Frustrated individual on 	dark-goldenrod setting.</a>
@@ -1361,7 +1361,7 @@ done
 <a style="color:peru" href="ipfs://QmXXdMxiVr8hTrtRxsgEEjJ4rcQUqugTuBad6xLxLhsCNi">Character being inert against peru.</a>
 <a style="color:skyblue" href="ipfs://QmRUfUK5oHsfSdWtLjfipuCLoXSTmA8xqMTd3TYWhiBsP9">Critter with sky-blue field: pathetic.</a>
 <a style="color:skyblue" href="ipfs://QmVbZn52RgBh9YKAq44UaQcu4oFj96NCMojpCHJ2PaakdU">Chimp looking dead on sky-blue.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmcQyi8RbKDxyX4zGcyvxoXaa6Rvod18sMmSRmZVqPt2rV">Souless monkey against 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmcQyi8RbKDxyX4zGcyvxoXaa6Rvod18sMmSRmZVqPt2rV">Souless monkey against 	light-goldenrod wall.</a>
 <a style="color:pink" href="ipfs://QmTx4nXWyBeoRt6y2f4Hs8yYQ7Nvux5TEH38c3oaP4F6i4">Critter on pink field: glum.</a>
 <a style="color:paleturquoise" href="ipfs://Qmd2NyLM88pAjRNZhxuGZo7AasxuzLsUtc653Zarw6CPMo">Pale-turquoise behind gorilla appearing slack.</a>
 <a style="color:seagreen" href="ipfs://QmTV5vj9b7CFzLjup14LB6ZS7VgCnKS5gpaudExmAHGSws">Individual being blue on sea-green.</a>
@@ -1383,7 +1383,7 @@ done
 <a style="color:mediumseagreen" href="ipfs://QmYYzs7Cd2eh9CsG9fTSVNfX1CWLSz9X19zaAaBbBvGWyY">Unheeding individual by medium-sea-green field.</a>
 <a style="color:seagreen" href="ipfs://QmeGjxqDq7ajLBC2VLYiy8op1dFThgGBk2kjtbB8kfapCX">Sea-green behind creature appearing unheeding.</a>
 <a style="color:violet" href="ipfs://QmcpaMAZSgNYoJ8cqeyxAAhRadzqtExTMaQ5LrreasRHDd">Monkey is sad with violet.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmV7JEWPVgETvLP8TF9i88UX1y3MzuHwq1nDjzBZmNoruj">	light-goldenrod behind simian being frustrated.</a>
+<a style="color:	goldenrod" href="ipfs://QmV7JEWPVgETvLP8TF9i88UX1y3MzuHwq1nDjzBZmNoruj">	light-goldenrod behind simian being frustrated.</a>
 <a style="color:mediumvioletred" href="ipfs://Qmc1SCW2KbdYt3p1xgmHka3d55eTq8upCgKGWsyRVgTaMz">Character with medium-violet-red wall: neutral.</a>
 <a style="color:khaki" href="ipfs://QmR5WWaj65JFHy6QMtcSugcXz3gCvaRxDf4kGfwMxTLm8K">Gorilla looking unexcited against khaki.</a>
 <a style="color:olivedrab" href="ipfs://QmVqEtvYoDEsm6bNrR4RdFjF3x3gPZ4rRfrRdvDx834Rqn">Critter being impassive against olive-drab.</a>
@@ -1426,12 +1426,12 @@ done
 <a style="color:peru" href="ipfs://QmZdDxvCwZZjWW9DiLWj6pz6tF1wDjiQqDfEq5eEa4Srbr">Peru behind individual being worn.</a>
 <a style="color:seagreen" href="ipfs://QmUdAfeSbKhh8pPsGfnMDQvVeZ5dcsHmAj1Xet1YyPo1th">Beast looks frustrated against sea-green.</a>
 <a style="color:lightskyblue" href="ipfs://QmebUeNtFtQCx5f5VUHFoRwV9acuiV11aWpgf6ZdRmdJYa">Light-sky-blue with character being weary.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTMgv5TetBC7RRwh3a1aCfrWbsPxhC8BMHaEkC5QYVnGX">Slack dude with light-goldenrod color.</a>
+<a style="color:goldenrod" href="ipfs://QmTMgv5TetBC7RRwh3a1aCfrWbsPxhC8BMHaEkC5QYVnGX">Slack dude with light-goldenrod color.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmYngyoKUu3RLwwSbUNcWX1z9pKT155mGDmHhn4E4EfY98">Gorilla seems unexcited with dark-goldenrod.</a>
 <a style="color:palegoldenrod" href="ipfs://QmP6rTrYe3AuQPtWsfMkuXsRdsXTiux7YPCD7HnasRcKwp">Beast looking impassive on pale-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmXKY2daWz9yA9LYWCFAT3btueywjx69xPnkqn5BhQthXk">Sea-green with critter appearing deflated.</a>
 <a style="color:lightseagreen" href="ipfs://QmSxtE6WeLDVNsSnmBtADoRDWqdHMEKRSG1MXBhkiRw1jY">Dull gorilla with light-sea-green field.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmNQWetztqkjwyfCWS8QgoMSXg7bcYZDKqNwLLdzT7oehg">Dead critter on light-goldenrod color.</a>
+<a style="color:goldenrod" href="ipfs://QmNQWetztqkjwyfCWS8QgoMSXg7bcYZDKqNwLLdzT7oehg">Dead critter on light-goldenrod color.</a>
 <a style="color:lightslategray" href="ipfs://Qmeg4xyy8dLngRmToCpeMKmECVmv8euCXxAdpfUfkxcwgq">Chimp appears fatigued with light-slate-gray.</a>
 <a style="color:skyblue" href="ipfs://QmWzYrKWhN8DcRyseqHbzcPpdjAYLhdE9D2qoy5VzCnKqY">Sad monkey against sky-blue color.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmeHp2MKfNDCMSkMYqiRV9WbGt3KJSyShKr4nqRjVabkUZ">Character against dark-goldenrod background: apathetic.</a>
@@ -1452,7 +1452,7 @@ done
 <a style="color:olivedrab" href="ipfs://QmUbXoZCKgYU3Xz5StFJYJhKT8BRRHqjY1vmtpbDFtHaM1">Disenchanted beast against olive-drab setting.</a>
 <a style="color:olivedrab" href="ipfs://QmZU31ZNkFhgpqMgaMYRCrzCfNbaz2dbAZo1xn1BiAvFFx">Creature on olive-drab background: unexcited.</a>
 <a style="color:seagreen" href="ipfs://QmVozhVDBwwcVYPpmmuCbBXHuFYLVpdvC42cUfUvBYFAsM">Gorilla on sea-green color: down.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmQx4cCYP7BkLoMJD3qUx1Q6wxHeR6DNEQsPJfUML8hPzK">Impassive monkey with light-goldenrod background.</a>
+<a style="color:goldenrod" href="ipfs://QmQx4cCYP7BkLoMJD3qUx1Q6wxHeR6DNEQsPJfUML8hPzK">Impassive monkey with light-goldenrod background.</a>
 <a style="color:palegoldenrod" href="ipfs://QmQUzaQFMAAnPQtqfgMp8TQJHGXiBCSxzJsZeCMLoaJUQ1">Wearied dude on pale-goldenrod setting.</a>
 <a style="color:dimgray" href="ipfs://QmZqygivqb5is5Qej5M95Xe6GoWDomPEKH7VF7uDMBr2S1">Gorilla on dim-gray setting: slack.</a>
 <a style="color:seagreen" href="ipfs://QmWx32h6biFRrGsasDU8X9aUAHS3h2stBpBXk6KzQ83sjd">Character by sea-green background: blue.</a>
@@ -1504,7 +1504,7 @@ done
 <a style="color:powderblue" href="ipfs://QmS4FL8uZc3FFqpu1KVFRXS19a8eRnBN89BLjpQSAwpCJd">Monkey being oblivious with powder-blue.</a>
 <a style="color:lightslateblue" href="ipfs://QmQdtafgiyfzhPq6bLs9o8TdENnGKdQmwdrMHRxtZsWJfz">Frustrated creature on light-slate-blue setting.</a>
 <a style="color:peachpuff" href="ipfs://QmemoCeJangwY6hzedyVcDJjNJ1eRuXMxQReb9L6KLwFo9">Critter against peach-puff field: uninspired.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qma3miWt14e8u8xCQwNxnGXnJbxQtu9ZmzhmwZyMbUo6t2">Creature seems inattentive with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://Qma3miWt14e8u8xCQwNxnGXnJbxQtu9ZmzhmwZyMbUo6t2">Creature seems inattentive with light-goldenrod.</a>
 <a style="color:	goldenrod" href="ipfs://QmNzR87ygWnvSPGjaT2WLRwRgV99s2ErQPHo4S6fWzcg4d">Apathetic chimp on 	goldenrod color.</a>
 <a style="color:paleturquoise" href="ipfs://Qmbej5K94cYWUSQQLs53KYsTe7TLt9NCA52saPWM3xJi6b">Individual is inattentive by pale-turquoise.</a>
 <a style="color:seagreen" href="ipfs://QmTikCaKBf3bRkSDU3hFfLS99tGk3ELwNjmSaSNPcJJY54">Inattentive chimp with sea-green color.</a>
@@ -1574,7 +1574,7 @@ done
 <a style="color:paleturquoise" href="ipfs://QmYitARWi6bH5wf5fGjjfeH7LmDQNq7YHPcKMB5BGQrxMw">Pale-turquoise behind beast - appears glum.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmTjBtWUpGr68cY8jQEDPq6wuCbZpP4i29cdTgtrjY6vbo">Creature against 	dark-olive-green background: apathetic.</a>
 <a style="color:seagreen" href="ipfs://QmWsappBuBNt4Pxu5TcJyJTHumf6qxokZ5RSxam39u6fQr">Individual by sea-green field: glum.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmcRtEF6ND3NUcqyY1185PeDhn5dNjwYw4JJQy2STCfd6r">Blase individual on 	light-goldenrod background.</a>
+<a style="color:	goldenrod" href="ipfs://QmcRtEF6ND3NUcqyY1185PeDhn5dNjwYw4JJQy2STCfd6r">Blase individual on 	light-goldenrod background.</a>
 <a style="color:seagreen" href="ipfs://QmVwPFWR5x4hC586zfy13Qtm2795HDvuPo29NwERS67BQe">Oblivious gorilla with sea-green wall.</a>
 <a style="color:palegoldenrod" href="ipfs://QmfDixgMfPakgbueuKrdasyywrE7gXrQSQgMcSWh5LXD3v">Simian against pale-goldenrod field: tired.</a>
 <a style="color:skyblue" href="ipfs://QmdytdZcEgbQ78733zUAVVEfeiS3hAMaf9fJDe1hqEjrJn">Sad simian on sky-blue background.</a>
@@ -1604,7 +1604,7 @@ done
 <a style="color:	khaki" href="ipfs://QmZTAjVBtzBw4byh9mvU86THeZoE1gbQU4PLedj2HsyjSQ">Unconcerned individual against 	khaki setting.</a>
 <a style="color:pink" href="ipfs://QmXZoucMNJcbEGz5sq5AaEBkCpSfkkfDRXVhPuGKRnagGF">Insipid critter by pink setting.</a>
 <a style="color:lightslategray" href="ipfs://QmNy6V24UFYAmpbHF258YR3WHZp8uvzDEkfjeSPWJsv3FM">Light-slate-gray with critter being jaded.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmemzVgLevbDGMWAPty27qTLMdHDPBwTLaCTQ7QBKHXrMD">Character against 	light-goldenrod wall: dull.</a>
+<a style="color:	goldenrod" href="ipfs://QmemzVgLevbDGMWAPty27qTLMdHDPBwTLaCTQ7QBKHXrMD">Character against 	light-goldenrod wall: dull.</a>
 <a style="color:olivedrab" href="ipfs://QmQRJjjGpXNCxgSbFAoCYVXUyp9e7HpgiU568mbBSZawFs">Monkey on olive-drab background: deflated.</a>
 <a style="color:seagreen" href="ipfs://QmShFMYZn1nHa5Um7gJ1JcHUc9UaChaqortSJHZZh7WaGB">Sea-green with gorilla being dead.</a>
 <a style="color:	goldenrod" href="ipfs://QmbpVA2bjSkhGrsJiPmcYWHiDshSqakWBsMwta1Khp96bP">Chimp against 	goldenrod background: sad.</a>
@@ -1643,10 +1643,10 @@ done
 <a style="color:dimgray" href="ipfs://QmTsvmVYAQNhqvteyuob3shuPfwYoDXh2WR8pq7bHMf5dG">Neutral simian against dim-gray field.</a>
 <a style="color:cadetblue" href="ipfs://QmP7YCxHRaiM1jfGczTVviHXaWydCxRHAUMaRuZHStcDcP">Chimp by cadet-blue setting: indifferent.</a>
 <a style="color:whitesmoke" href="ipfs://QmYG6rCGj8c66hegKescUYAtwWjvNb9tEuVqQbs1yJB3bC">Insipid character on white-smoke wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYrkPKzHG2pcT4Y1AkyDUN1VXrtukRNGHKJ6UdePqYwzb">Individual on light-goldenrod field: neutral.</a>
+<a style="color:goldenrod" href="ipfs://QmYrkPKzHG2pcT4Y1AkyDUN1VXrtukRNGHKJ6UdePqYwzb">Individual on light-goldenrod field: neutral.</a>
 <a style="color:	goldenrod" href="ipfs://QmWRvr7MpWYWWx5uUbiKJ2fXBBTVUNDo8qi3qxn6rCi7gz">Dude looking dead by 	goldenrod.</a>
 <a style="color:ghostwhite" href="ipfs://QmRzRLp7hyHYzCqiFjeXR1ptJaNYp4LfYcBv2NTQWuqg7T">Individual looking torpid by ghost-white.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmVYC79SR1ipADCiTJTCFSThHrYUHTY3iVxsDuY4xgc8a1">Light-goldenrod behind character appearing blue.</a>
+<a style="color:goldenrod" href="ipfs://QmVYC79SR1ipADCiTJTCFSThHrYUHTY3iVxsDuY4xgc8a1">Light-goldenrod behind character appearing blue.</a>
 <a style="color:cadetblue" href="ipfs://Qmd6QatjHdPrUsjSBywXEewv8SNkM6L4dzsekkTrKc5yaB">Simian is miserable with cadet-blue.</a>
 <a style="color:moccasin" href="ipfs://QmYk3xDMaEe8kzqM3e5pANBX39nbaxUtrQifyNWag6EQMf">Critter with moccasin wall: frustrated.</a>
 <a style="color:oldlace" href="ipfs://QmPSKoQHk8kXtXuSosA6NfMbKPQrtcy2Z2HbbPnCZQHZLJ">Indolant simian with old-lace field.</a>
@@ -1673,7 +1673,7 @@ done
 <a style="color:palegoldenrod" href="ipfs://QmabJfzoZgTrJp2w448q6NePPskWJEtfQg5U48z36k3yej">Character against pale-goldenrod background: oblivious.</a>
 <a style="color:	darkgoldenrod" href="ipfs://Qma4kpxqJCqFyVWSDpKCBiLhZFVU6mASsaJifQXpDj9e2T">	dark-goldenrod behind chimp - appears disenchanted.</a>
 <a style="color:khaki" href="ipfs://Qma8EWGeCitb98sbjWzCAxArYk7bsGCQRsqQJQ2UveLDTf">Depressed chimp against khaki background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmfBn7PQ3VqTVJUjtVwyBfT6TBkbRj3pG1ny28SCQbkdwe">Chimp appears glum against light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmfBn7PQ3VqTVJUjtVwyBfT6TBkbRj3pG1ny28SCQbkdwe">Chimp appears glum against light-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmRap87P6xRo8XTEZ459etKVeQv7CxyZ8cQNHSqPVWaC7K">Spritless beast with sea-green field.</a>
 <a style="color:	goldenrod" href="ipfs://QmatvnhwENifdKQpKTmyxskVQt6aJWgea5XAFTpq1Mjaqm">Gorilla seems insipid on 	goldenrod.</a>
 <a style="color:seagreen" href="ipfs://Qmbae8t4tiJZ7soSq3A31deHijYfqX4h5BrZFmNxvF7E5u">Dismal critter on sea-green color.</a>
@@ -1789,7 +1789,7 @@ done
 <a style="color:seagreen" href="ipfs://QmTnttQVnKfJEbA2wWUnMLutarqw7jKcEboc56oykMkmLE">Dude by sea-green field: gloomy.</a>
 <a style="color:	olivedrab" href="ipfs://QmYmvDjfqYErtEVmGZoSQjZGyRussU4MBZVf8yf8jFiwYW">Monkey appears unheeding on 	olive-drab.</a>
 <a style="color:khaki" href="ipfs://QmZs89K6qYnZbxh9ogfnpcRF3SumqjcgCzJv188q5cD3Ks">Insipid chimp by khaki setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYdiwjuQSxTUrT7CGhfon2Z4GPAzqbVs2r8DQ6XeRMEQ7">Critter against light-goldenrod color: dissatisified.</a>
+<a style="color:goldenrod" href="ipfs://QmYdiwjuQSxTUrT7CGhfon2Z4GPAzqbVs2r8DQ6XeRMEQ7">Critter against light-goldenrod color: dissatisified.</a>
 <a style="color:mediumorchid" href="ipfs://QmeveSxwWaH5RnJcVVZR32RzDVrzdTHq5r8tUNzrJJkmeP">Medium-orchid with simian appearing dull.</a>
 <a style="color:peachpuff" href="ipfs://QmaP7xCguJMYn6w5dkzUjcPdwbAiUHJ2QRawW5j8QuFkkR">Monkey on peach-puff setting: inert.</a>
 <a style="color:olivedrab" href="ipfs://QmcbJLMn3REsdtMfXZT6HVwUUoH1Qt8ggTth4JqfzkuUgT">Individual with olive-drab setting: slack.</a>
@@ -1956,7 +1956,7 @@ done
 <a style="color:olivedrab" href="ipfs://QmNbTpErxUYTvPah8MyzAoduSZKj7y4Wu5Kr23tbZPxYrE">Olive-drab with critter being indolant.</a>
 <a style="color:goldenrod" href="ipfs://QmaSVSDTXK6bLsXEgSQ9jj8cZxjZ1y4BUe9c7ThKEiBX7D">Monkey by goldenrod field: fatigued.</a>
 <a style="color:peachpuff" href="ipfs://QmVgPKmf7SQJXhMQ1MioxbD7C7jpWB9zyenaq2wNda4Ke9">Chimp against peach-puff wall: weary.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmX8eQryaXbyZuUh5pmbqe9YRASTpg5DF6KEv2MoLhkNYM">Apathetic character on 	light-goldenrod setting.</a>
+<a style="color:	goldenrod" href="ipfs://QmX8eQryaXbyZuUh5pmbqe9YRASTpg5DF6KEv2MoLhkNYM">Apathetic character on 	light-goldenrod setting.</a>
 <a style="color:lightseagreen" href="ipfs://QmfCnDgH9niSc6j2Jovr58bER4EkmduJ9DMpHhaeY6MUiw">Blase simian with light-sea-green wall.</a>
 <a style="color:seagreen" href="ipfs://QmUHg7h5NhUDobA1NqWF5gdxbiXcTjvvs3HZscvrEV5Ses">Dulled primate on sea-green background.</a>
 <a style="color:peachpuff" href="ipfs://QmYCC98YZGdFc2XcczAE2qEBnQ7CKv5DhcHC23utob6obz">Individual looks neutral by peach-puff.</a>
@@ -1985,7 +1985,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmabtcQaHTtXw1JPBoXTVJnsngba5hrziyd82Wr31YAAuq">Character appears indolant by 	goldenrod.</a>
 <a style="color:steelblue" href="ipfs://QmSDBWZBumBbuTnnk58LYGeiExNBVWxd7wCLopMamnTxwf">Gorilla looking unexcited on steel-blue.</a>
 <a style="color:	goldenrod" href="ipfs://QmVCkcCxm9YES5fSHTQGCs1ZAGE6J3p9TSY8U5hChc6urw">Dude looks disenchanted with 	goldenrod.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYQVUARVrmm96rzFxbJdHFpGfLEwAef8RyzNU6btSJe7u">Monkey is slack on light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmYQVUARVrmm96rzFxbJdHFpGfLEwAef8RyzNU6btSJe7u">Monkey is slack on light-goldenrod.</a>
 <a style="color:mediumaquamarine" href="ipfs://QmPDx2byXarPrkoF1ayztdRCkUDN36iUUL8rtjZfZHTKyK">Languid simian by medium-aquamarine field.</a>
 <a style="color:lightskyblue" href="ipfs://QmUpXjZwXt3CTPmxfYtKDgRFYHsB9PNva8TMWthU95K7BT">Character by light-sky-blue field: torpid.</a>
 <a style="color:cadetblue" href="ipfs://QmWTtj3Uni3Rttakci8TvFnsJqXo3QAKajBogsh3JSvbj8">Inattentive monkey with cadet-blue field.</a>
@@ -1994,7 +1994,7 @@ done
 <a style="color:mediumvioletred" href="ipfs://QmNugTbynyenVaH84nebNQzz9ooTbhyCgkUTiQS7J5U2Na">Worn chimp with medium-violet-red color.</a>
 <a style="color:lightslategray" href="ipfs://Qmdn9JgF68cb7pkHjmwNFqL1CfBbt93qB5UwSSEB38d8m4">Simian by light-slate-gray setting: jaded.</a>
 <a style="color:steelblue" href="ipfs://QmNWm1qkjGQEeNWqXs4hxXfm3T7qEaSTiDndqoCsBhGGau">Individual looking souless with steel-blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTUdcToB67MGDRsRG5o99w4cemp7skXcUm1VeH33iST64">Dude on light-goldenrod field: uninspired.</a>
+<a style="color:goldenrod" href="ipfs://QmTUdcToB67MGDRsRG5o99w4cemp7skXcUm1VeH33iST64">Dude on light-goldenrod field: uninspired.</a>
 <a style="color:olivedrab" href="ipfs://QmaJRWa8h2srbZRHDhbxYETrKreURbJ3LcC1BMM9eDDyTU">Monkey appears unconcerned with olive-drab.</a>
 <a style="color:	goldenrod" href="ipfs://QmYAB1LmcCTbbsxJ52dVa4aHmJRie8J7LYVL2A1wDCEkGG">Individual seems disinterested on 	goldenrod.</a>
 <a style="color:lightseagreen" href="ipfs://QmQSFmPXuRGqWhqPKwtiqJAXcGoUX12h7SZ64coRjH2Ga3">Light-sea-green with simian - appears tired.</a>
@@ -2094,7 +2094,7 @@ done
 <a style="color:	khaki" href="ipfs://Qmcu8r2wLcaYhA6oztdLook2NGGW8xFX8LjDgeV9xdfiNp">Beast seems wearied against 	khaki.</a>
 <a style="color:navajowhite" href="ipfs://QmSm2E6vSN1TujUthwG8TkJuuZDhxis1ddzNjadZhcpTPQ">Monkey with navajo-white wall: glum.</a>
 <a style="color:olivedrab" href="ipfs://QmcLWmqvGzyWVEKKPyxgKb8gstn9NJmB7ThrYZ3R8uXUFV">Monkey looks worn by olive-drab.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTULs94WCQqh6bWkMriay3qPwGzNak8Pg39bUT2r2LAV2">Gorilla looking wearied on light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmTULs94WCQqh6bWkMriay3qPwGzNak8Pg39bUT2r2LAV2">Gorilla looking wearied on light-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmWcKYUrbvMCL5SiKp8rD2mrCwcvfQsosE96ks3rcokwrr">Critter looks languid on sea-green.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmaEco1LX3ctjQM5gJJn2NVzTiRoGXh36nJRwGMJhHCd4C">Apathetic beast by dark-goldenrod wall.</a>
 <a style="color:seagreen" href="ipfs://Qmcvrr68fG2b4TSAc3jXTXv5Bm94QDmHjsfUwGaHY8oCmF">Monkey is dull on sea-green.</a>
@@ -2173,19 +2173,19 @@ done
 <a style="color:olivedrab" href="ipfs://QmVvgv4Y1yHTDA4QgTX6ogNkYngDh2Ggg86ygh3w2ZcDFL">Primate is vacant against olive-drab.</a>
 <a style="color:coral" href="ipfs://QmUYZRcX9rxvCHu4R5BjmzahfizxqYgPh3L9Q3S5qdVCZX">Blase dude by coral setting.</a>
 <a style="color:coral" href="ipfs://QmUr4wja18FScbSPmw3FuQHW5rJLZyupRR4bfkjPuiaTf9">Coral with character - appears miserable.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmQk1PYukt6evGABQHpNG5GW6H2V2QTXvmx4NokapR24GW">Light-goldenrod with dude - appears indifferent.</a>
+<a style="color:goldenrod" href="ipfs://QmQk1PYukt6evGABQHpNG5GW6H2V2QTXvmx4NokapR24GW">Light-goldenrod with dude - appears indifferent.</a>
 <a style="color:skyblue" href="ipfs://QmbSDMtjeNubTZ94hAD3GNGG3T1ZRzPMHPoJc3mDro6HvY">Sky-blue with dude - appears unexcited.</a>
 <a style="color:slategray" href="ipfs://QmbVc38YRuz8P183JCZGhkjr6B7WxBxPPuR6Bawj6cpJAF">Slate-gray with beast being depressed.</a>
 <a style="color:navajowhite" href="ipfs://QmcYScaMpXUKP4yT5NmYo4i3vcf2y22Yc1uzi9UF377vRE">Oblivious individual by navajo-white color.</a>
 <a style="color:goldenrod" href="ipfs://QmP833WM1giA1F469VKy1vEqZszxqCSQgCX98vf5CwXGeH">Goldenrod behind chimp being languid.</a>
 <a style="color:navajowhite" href="ipfs://QmXqrUBLqtvxpY6Jr2j3uvQa5KYL14kHHyRB4FwEbowc9i">Navajo-white with critter being inattentive.</a>
 <a style="color:whitesmoke" href="ipfs://QmSwaS23HQkNCzTeh1HB3FMv722SZkan4bJde7uy99hirs">Monkey with white-smoke setting: slack.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmNutroLnDFCHVNBb6b3KgEB2AdYaVUvEWbMPo9iX9vLdL">Monkey is torpid on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmNutroLnDFCHVNBb6b3KgEB2AdYaVUvEWbMPo9iX9vLdL">Monkey is torpid on 	light-goldenrod.</a>
 <a style="color:cadetblue" href="ipfs://QmQc82KCRPbaNcwczsuoYYgS2fSpSYhNKGSuRQtFFBL6vf">Monkey appears indifferent on cadet-blue.</a>
 <a style="color:chocolate" href="ipfs://QmWScschwb4WMsRrEPVzuXELsou8e2TnRXGxBW7H95GMac">Critter appears spritless with chocolate.</a>
 <a style="color:sandybrown" href="ipfs://QmTehuZjnCQeYdsB1UAnGj4gaWLMBbLmoEAVcrFtEURBXz">Critter looks indolant with sandy-brown.</a>
 <a style="color:cadetblue" href="ipfs://QmNTmSZ3UbJqsJHgFzdHnGTfxCRoMuBk7p7syniiDaJNR4">Dead gorilla against cadet-blue wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZpxnqf31zmq4EsrMbPZDKYd2dB9qpbV1AocXDoG6XDre">Individual against light-goldenrod wall: unconcerned.</a>
+<a style="color:goldenrod" href="ipfs://QmZpxnqf31zmq4EsrMbPZDKYd2dB9qpbV1AocXDoG6XDre">Individual against light-goldenrod wall: unconcerned.</a>
 <a style="color:moccasin" href="ipfs://QmcZQ246tr2hEhkUBxo3fvLjKmbksaD5Tc2iQvstmHGdju">Primate on moccasin field: frustrated.</a>
 <a style="color:mediumseagreen" href="ipfs://QmcfjFmAFqAHm3CNX9HUKwnWNKYQQy7fUoeSDLY8vx4ov3">Weary simian on medium-sea-green background.</a>
 <a style="color:seagreen" href="ipfs://QmX8bdyCvLJqK5BeQqvKu7tswcnG4eokKdQGYSiLETTtfr">Sea-green behind monkey being unheeding.</a>
@@ -2212,7 +2212,7 @@ done
 <a style="color:goldenrod" href="ipfs://QmX1xwyysjDKcG1e8BCRJZxo4fVLSCKDA6ouzAaKiE98Dd">Monkey on goldenrod field: down.</a>
 <a style="color:steelblue" href="ipfs://QmRCUPrEH2zhS1GJHTUaJUWZR7Cc2A9AhtBKL8NiJmeKbR">Steel-blue behind beast being souless.</a>
 <a style="color:darkorchid" href="ipfs://QmVnnUUboxJfxG6trZLnAW5eWHWY442FuTtf3J5FFodQht">Chimp with dark-orchid wall: pathetic.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPSuXqwPf1TDyNL4ZHW7UxduJBD6P1Nr66sBxEEWGFmhY">Simian against light-goldenrod field: unimpressed.</a>
+<a style="color:goldenrod" href="ipfs://QmPSuXqwPf1TDyNL4ZHW7UxduJBD6P1Nr66sBxEEWGFmhY">Simian against light-goldenrod field: unimpressed.</a>
 <a style="color:navajowhite" href="ipfs://QmQpqfnzsez8AajHmqiiQPhc4KwcA2b2wPvGdpMrMq8t6S">Blase dude against navajo-white background.</a>
 <a style="color:steelblue" href="ipfs://QmUeU2pnRZyd3G2C1d5hJjvBeKe7AWGqYNYwzgUrm6YDtx">Dude appears unheeding with steel-blue.</a>
 <a style="color:bisque" href="ipfs://QmXoTACDwXGkZHsFu3ThrYb2J79RJZHCsKsKY5SVybHZMS">Character looking indolant against bisque.</a>
@@ -2249,7 +2249,7 @@ done
 <a style="color:navajowhite" href="ipfs://QmZf993E6WNADHtwUbtCB7rjQsEh8x7FDTn91T1k64cqBa">Monkey against navajo-white color: gloomy.</a>
 <a style="color:chocolate" href="ipfs://QmbVAqAdHgSYYCcgbTE4BWPxdkMuY8pGenntvfNKNFFoZ2">Torpid primate by chocolate field.</a>
 <a style="color:mediumseagreen" href="ipfs://QmRZZ2YvB7eJPVFQA6YtkDaFXaMAtzxuZzGWLFzSvk4YLT">Creature looks uninspired by medium-sea-green.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qma5bujq8tJWWAPe5fsoBgmn3pCcPun5aqg8Tvb4uEhhAL">	light-goldenrod with monkey - appears sad.</a>
+<a style="color:	goldenrod" href="ipfs://Qma5bujq8tJWWAPe5fsoBgmn3pCcPun5aqg8Tvb4uEhhAL">	light-goldenrod with monkey - appears sad.</a>
 <a style="color:cadetblue" href="ipfs://QmU73exfHhhT4gCJ2xpofakEYE1a4ZmHCjmf7fPLcz9paF">Insipid creature with cadet-blue wall.</a>
 <a style="color:navajowhite" href="ipfs://QmRNW3oLAoaxqoE1hw9uVR2cnrhBXky5k5GFp64EdXNhbk">Disinterested simian by navajo-white wall.</a>
 <a style="color:paleturquoise" href="ipfs://QmP6nk6U6jt9nKXQNxHXEfLZy3EMWcxgJLC1LpqMG5xzr1">Wearied character by pale-turquoise field.</a>
@@ -2270,7 +2270,7 @@ done
 <a style="color:navajowhite" href="ipfs://QmYUe53ufTUyEevJQCpn2emLfgnd7BvxRTdh1G6qkJK9xy">Creature seems vacant against navajo-white.</a>
 <a style="color:mediumseagreen" href="ipfs://QmNopLVLUYR9XZcSNpZAb4x9pAMsQKGjJ9Swb935Mc6WXA">Medium-sea-green with chimp being frustrated.</a>
 <a style="color:peru" href="ipfs://QmSd2evwNxP6nGL989RGuKoEGRAuJmE7D1298fhB8HwwPh">Frustrated simian by peru wall.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qmcjhr9gUmktikH6ykgSLA1BtMMeDVGwG7n9Ses3jrRbsB">Oblivious primate with 	light-goldenrod setting.</a>
+<a style="color:	goldenrod" href="ipfs://Qmcjhr9gUmktikH6ykgSLA1BtMMeDVGwG7n9Ses3jrRbsB">Oblivious primate with 	light-goldenrod setting.</a>
 <a style="color:lightskyblue" href="ipfs://QmaZp2C7SYbnmLcUaD73YLQHawVR3oYEAxRt9wERUTEfwG">Light-sky-blue with critter - appears dismal.</a>
 <a style="color:powderblue" href="ipfs://QmWWPyp6sUBcvji6NRKuWjfxWrhdEijeXjU5evqJBqYPwm">Unheeding character on powder-blue color.</a>
 <a style="color:peachpuff" href="ipfs://QmQmLT5NR1vwk3bwzoxnBykeYfXQo7rSfx8W5hVVrKqUKt">Disinterested gorilla by peach-puff setting.</a>
@@ -2294,7 +2294,7 @@ done
 <a style="color:seagreen" href="ipfs://QmZpaKo1BADuoNSUjtbBJ4BgL9LWXxat6bLTcYcsN4CWHS">Slack creature on sea-green color.</a>
 <a style="color:mediumvioletred" href="ipfs://QmZmbHquVwPEXefpKVQywDfoL6GzAaR1u2JVcvMpkm9iP6">Character on medium-violet-red background: frustrated.</a>
 <a style="color:powderblue" href="ipfs://QmRG1LG99syUzKWo3QFtiHPvEQEe9sHDVnCkdGXqxeiiXc">Powder-blue behind monkey - appears frustrated.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmcRTc1txJt1XFS8aE482e8bBAbNGtY8Dat1nATPdEG57c">Dude on 	light-goldenrod background: fatigued.</a>
+<a style="color:	goldenrod" href="ipfs://QmcRTc1txJt1XFS8aE482e8bBAbNGtY8Dat1nATPdEG57c">Dude on 	light-goldenrod background: fatigued.</a>
 <a style="color:mediumseagreen" href="ipfs://QmNwL2mCFR8euVfz7ouVJ6BdZTNtmwAy354HFJ62MTw8Rp">Character being slack with medium-sea-green.</a>
 <a style="color:olivedrab" href="ipfs://QmSmKrdnf7rcPVdvjiZeadLXbfSNYLpz5e9T8xKTNocmb7">Primate being unimpressed on olive-drab.</a>
 <a style="color:skyblue" href="ipfs://QmTzAMmyQVwpmq8TwtPJEutC8spNrMCvBfE2Qw17MiAvxM">Inattentive individual on sky-blue field.</a>
@@ -2309,7 +2309,7 @@ done
 <a style="color:seagreen" href="ipfs://QmQt4cGCGYXXyYCWZpANn4W7h3SJVxz2Lfo2brsJNYyJTe">Dull simian by sea-green field.</a>
 <a style="color:	navajowhite" href="ipfs://QmRrc4u3dNjg524NtcanhRZ8WHdQEx2g91t5DUcKJF1rk3">Gloomy primate with 	navajo-white setting.</a>
 <a style="color:paleturquoise" href="ipfs://QmVsEtZzQaV3AAaUfJ8i35rMEv7ZKS4gyesYJBEoGEne7T">Dissatisified simian by pale-turquoise background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZFcHuwb9nNjrheKP9jh6Nj5VYLjGpp1WRwzcHvWesK9Z">Simian being souless on light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmZFcHuwb9nNjrheKP9jh6Nj5VYLjGpp1WRwzcHvWesK9Z">Simian being souless on light-goldenrod.</a>
 <a style="color:khaki" href="ipfs://QmTtj1oMnAC6h7Bk4X1JqdoXpVR57rb2DRL8AwEh8oY7TU">Chimp with khaki setting: jaded.</a>
 <a style="color:seagreen" href="ipfs://QmQe6HtZf9sY7ME23DqPPaj63DBBCBieDFqgwQV7hBDLPb">Creature on sea-green wall: gloomy.</a>
 <a style="color:floralwhite" href="ipfs://QmP7EZZAkj9HfJwEW1MykJ8dNBe5yvgUwHLJrHihUgzTtM">Floral-white behind simian - appears worn.</a>
@@ -2421,10 +2421,10 @@ done
 <a style="color:peru" href="ipfs://QmXUBDGzeRrdD5Arijg7GFWEWsUof3DGMQHrE6yPby9r9F">Primate by peru color: depressed.</a>
 <a style="color:lightskyblue" href="ipfs://Qmcjoa3gcW3kcet6RaAD4gB8R2WUi2WRzn6ij9knUcZNYU">Monkey being depressed on light-sky-blue.</a>
 <a style="color:mediumvioletred" href="ipfs://QmeR42Sw6Gemx88BxwmXm8erBMPFmGB5fT6eh694UwNxjv">Beast by medium-violet-red color: disenchanted.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmfKvikHqYhXWLW5bJSYfZHGEfJoF6QEVWEiU3BHPwk5kS">Light-goldenrod with critter appearing glum.</a>
+<a style="color:goldenrod" href="ipfs://QmfKvikHqYhXWLW5bJSYfZHGEfJoF6QEVWEiU3BHPwk5kS">Light-goldenrod with critter appearing glum.</a>
 <a style="color:olivedrab" href="ipfs://QmbgUiyXSCj7V2dA7vqAg5yyKgG2mYVgbPcpr7LnnrNb8j">Olive-drab behind monkey being dull.</a>
 <a style="color:coral" href="ipfs://QmdNhEaGTQcxBLYBXEHFE8kczNVCTiJR6YBywgrdpThSL9">Dude with coral setting: disinterested.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmbYm71GLhkaBeFSX7VE2i3ZbkiK8LvH7U3SfRQGCtfdW2">Monkey against light-goldenrod wall: sad.</a>
+<a style="color:goldenrod" href="ipfs://QmbYm71GLhkaBeFSX7VE2i3ZbkiK8LvH7U3SfRQGCtfdW2">Monkey against light-goldenrod wall: sad.</a>
 <a style="color:bisque" href="ipfs://QmNtJzv6We466yWzomcgkBWWmMs7gEdeJ92xWLTiLtY51d">Bisque with dude being dismal.</a>
 <a style="color:aquamarine" href="ipfs://QmZs1QoCacnipWSSWw49G1KUnjmENNELJ5u9MkX9Rkodwr">Dude by aquamarine wall: dissatisified.</a>
 <a style="color:peachpuff" href="ipfs://QmZTFZFwW5urJZB3ZWL2a1DoEuNf9DcRdgTf6StYjQEcRE">Apathetic critter against peach-puff wall.</a>
@@ -2489,7 +2489,7 @@ done
 <a style="color:bisque" href="ipfs://QmXQFHpJocDRbN38CUam7AzvEjSbKAPoJdQAjkDWEe6f3Z">Bisque with chimp being neutral.</a>
 <a style="color:mediumseagreen" href="ipfs://QmevEESX3kunGq14jbmf9gRT5JjYvwZvT1RvpxTGvFdi5g">Chimp on medium-sea-green setting: disinterested.</a>
 <a style="color:palegoldenrod" href="ipfs://QmQv9TsMmvE7XsM5T7Fa4atpqxpXoG7zEtSHJ8vnCuiLp4">Pale-goldenrod behind primate appearing inattentive.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmSpRfE1izwgkPpBuCtwCxtM8wfXBZKTiE9Sch2AbygVh6">Simian appears unheeding on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmSpRfE1izwgkPpBuCtwCxtM8wfXBZKTiE9Sch2AbygVh6">Simian appears unheeding on 	light-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmeuuLtVzMixVukwALvmL9yBbiCiJnRmtKaNXPbzqZukQv">Dull gorilla with sea-green wall.</a>
 <a style="color:powderblue" href="ipfs://QmXiz4HL1GL7vAY88xCcygSafWgk3wQJGnTDcZoNeWaJ4j">Gorilla against powder-blue background: frustrated.</a>
 <a style="color:lightblue" href="ipfs://QmXSHset8yrnHvwLXTdJ9tEusLD2FaBLeLsWwqJkWCpDKJ">Depressed creature on light-blue background.</a>
@@ -2519,7 +2519,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmUggAs1zfmpYdPYTWFyeoPKbPr9R2VcRM2Qdmvkz8wuGQ">Dude on sandy-brown background: souless.</a>
 <a style="color:mediumseagreen" href="ipfs://QmXTHpzHbBvp5a3YduS7KzHPdF2xEfFyqX6irLDiEV61Kr">Depressed simian by medium-sea-green wall.</a>
 <a style="color:	goldenrod" href="ipfs://QmXf1Jn1TqmJubrjksDE9naUi5gzYJKvFUQzo68t9qXQeg">	goldenrod behind character being indolant.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRWhQSNEw3ECMo62YQp3u32iNC7XWHWcU4rSqb7BuEV8z">Character seems indolant against light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmRWhQSNEw3ECMo62YQp3u32iNC7XWHWcU4rSqb7BuEV8z">Character seems indolant against light-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://Qmf5BUGM2ETo5Yrh1nnaQHFfZpCeiGJDGj2Aq8dQJ14p6M">Sea-green with chimp - appears frustrated.</a>
 <a style="color:	olivedrab" href="ipfs://QmRjRdAPifGrGmwVjgM3aPfiH79HheqAWaQnEKFBVPFKmM">Individual against 	olive-drab field: wearied.</a>
 <a style="color:sandybrown" href="ipfs://QmSjG9Rn8BzBqDY7vpdnFTXNp13GaYp4Ntk5FJB8qFr3cg">Dead creature against sandy-brown wall.</a>
@@ -2528,9 +2528,9 @@ done
 <a style="color:	darkgoldenrod" href="ipfs://QmVnkFR6Toy1Jjur2osRDr3JXh9o56PvUpNUChRoXPp5Mx">Simian with 	dark-goldenrod wall: dismal.</a>
 <a style="color:palegoldenrod" href="ipfs://Qmd9HF9v3MCFGGJ3jyHrsbP9tpR7oqt8U5mppceRxerP9M">Critter by pale-goldenrod wall: down.</a>
 <a style="color:sandybrown" href="ipfs://QmVMsPoZbSNjPaY8GE418aW1D8ELFgVuL6w4JRK7qL8J6x">Chimp appears unimpressed on sandy-brown.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmaCvAwzxKRCzKYvgezAeB4KNtpA36tNHL3QA9pu2Pi4QD">Critter by light-goldenrod color: insipid.</a>
+<a style="color:goldenrod" href="ipfs://QmaCvAwzxKRCzKYvgezAeB4KNtpA36tNHL3QA9pu2Pi4QD">Critter by light-goldenrod color: insipid.</a>
 <a style="color:powderblue" href="ipfs://QmfQbALjxmQPtTe31rJTsSWtdkXAMrworAsZpD2hvNYLZB">Blue beast with powder-blue background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRqCDsB8JRgEVbH7Aemj8yNNMSSwKHA14XrM8ZN7JsE5V">Beast with light-goldenrod setting: sad.</a>
+<a style="color:goldenrod" href="ipfs://QmRqCDsB8JRgEVbH7Aemj8yNNMSSwKHA14XrM8ZN7JsE5V">Beast with light-goldenrod setting: sad.</a>
 <a style="color:darkorchid" href="ipfs://QmcguoBjsBWmgtVatECziQ7yAas1VPqd7aEVYP4kdAdBYh">Critter is jaded with dark-orchid.</a>
 <a style="color:mediumseagreen" href="ipfs://QmexHGPYPjLGjKEXGgR9kqQGd7c4BKjdvT2h6pU3Ze4Xwk">Blase simian on medium-sea-green setting.</a>
 <a style="color:rebeccapurple" href="ipfs://Qmd4KFMaTdDKL6xxssBGpQBDyB6qiYKczKsXUTyci6jbNa">Disenchanted simian against rebecca-purple wall.</a>
@@ -2541,7 +2541,7 @@ done
 <a style="color:slategrey" href="ipfs://QmXywETv3szuKEU25fzvhyzmxJ1hbzD5UUx9DkBHwh6QRy">Jaded primate on slate-grey color.</a>
 <a style="color:seagreen" href="ipfs://QmXuTQuW4vzWpVaH9gVJkAA8zRJyrhUvyeic3MgUJYVUC8">Monkey looks disinterested against sea-green.</a>
 <a style="color:peachpuff" href="ipfs://QmStqHVUbg9SRXnyEo4tqJN4i6kys29amtB5hRv2AZQHbe">Miserable individual on peach-puff background.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qmajb2oLAWq1kPZxXBCzUW36jvBZR4Mdqi5zVu2uCRcp3k">Dude is inattentive with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://Qmajb2oLAWq1kPZxXBCzUW36jvBZR4Mdqi5zVu2uCRcp3k">Dude is inattentive with 	light-goldenrod.</a>
 <a style="color:steelblue" href="ipfs://QmRZA3Bf1nJAYEGJYGsxZEWPfjpX2hpeS4fmdGaK5SdB5b">Miserable monkey by steel-blue wall.</a>
 <a style="color:peru" href="ipfs://QmRC8Up8m9vSzEkxxkUNXBZdzfezCvW6h8YoeS7Kz1VFqJ">Monkey against peru setting: indifferent.</a>
 <a style="color:darkseagreen" href="ipfs://QmXPFzJFKxbXFYgDNsMKtYe8qxU2WyyWJAGicLUm5FfLK6">Critter on dark-sea-green color: languid.</a>
@@ -2575,10 +2575,10 @@ done
 <a style="color:peachpuff" href="ipfs://Qmdy96kZuzy9Yo9SFAFp49GAT5T2iKNuf5thZjcFHFzYaK">Dude looking fatigued with peach-puff.</a>
 <a style="color:bisque" href="ipfs://QmTSVbRSdJkFkhafusDGsEmdgwJxUro7ypmfoJxxU8zjuw">Chimp by bisque background: indifferent.</a>
 <a style="color:skyblue" href="ipfs://QmcGDTioJdUq4Kr3SC5DPbVPdffgCgUk95MgrGRGtqRaFH">Gorilla is spritless by sky-blue.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZqySaoYL51Vhofhv83XBYymsrE4VoA3331prjgiHgvwh">Chimp appears frustrated with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmZqySaoYL51Vhofhv83XBYymsrE4VoA3331prjgiHgvwh">Chimp appears frustrated with 	light-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmVe1nDeMvjJPvH3MQpJNuiKaeFkFKTJFMukLYRMuENwGb">Wearied simian with sea-green wall.</a>
 <a style="color:mediumseagreen" href="ipfs://QmRXb3tQRepTknjKPBVdHnCauVc4zox6kjttoq9BZPt3cc">Simian being uninspired by medium-sea-green.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYFQfSgy4rtyJTCnURBPsMqJi22DnrPpSGtJkXXXMCGCN">Character against light-goldenrod color: unexcited.</a>
+<a style="color:goldenrod" href="ipfs://QmYFQfSgy4rtyJTCnURBPsMqJi22DnrPpSGtJkXXXMCGCN">Character against light-goldenrod color: unexcited.</a>
 <a style="color:mediumseagreen" href="ipfs://QmawcbBbuyK37H4Tf25Dn61SShQrHgdH1s7STaJJYbRuo8">Frustrated beast on medium-sea-green field.</a>
 <a style="color:seagreen" href="ipfs://QmcGLEBYwzEK6v1d8LtxhP8dr29o5YX29RskiiR5pttNaq">Primate appears apathetic against sea-green.</a>
 <a style="color:sandybrown" href="ipfs://QmcLxbs875ziDqjVdQAHZ5axdUBC6DcmrPCz61ph184AYq">Individual looks worn on sandy-brown.</a>
@@ -2727,7 +2727,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmbDqpybZF8KSGQTu7oVKYq39qHts7W4zfJcaEBysPcqmF">Neutral beast by sandy-brown background.</a>
 <a style="color:snow" href="ipfs://QmaoxCoRVzicK55WRu3pASAA9DHsjSyCgQFaasKnd9iUBY">Primate appears slack on snow.</a>
 <a style="color:	goldenrod" href="ipfs://QmV4iuP2sty6NaUH1Fimx8csYMVfkZSWAzBPHwMmMcTMvb">Wearied monkey against 	goldenrod setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmX9Zo1pcna7JPqiZhVvGBzjd5xGVWqmd1YoU8cyJRiEZT">Light-goldenrod behind individual being dismal.</a>
+<a style="color:goldenrod" href="ipfs://QmX9Zo1pcna7JPqiZhVvGBzjd5xGVWqmd1YoU8cyJRiEZT">Light-goldenrod behind individual being dismal.</a>
 <a style="color:lightseagreen" href="ipfs://QmXhkP8Y4PnJjSKVH3Hi738b3fqVPxUsc5VmPP3WbaCBNj">Light-sea-green with critter being glum.</a>
 <a style="color:navajowhite" href="ipfs://Qmcfuf7xrwFb6sQiD3xfAXCiwmLEnaeqbRSx6qVx6kfyc3">Creature with navajo-white color: fatigued.</a>
 <a style="color:lightskyblue" href="ipfs://QmNXte7sYTrBWxbvyY145THedSmeWvqKSFWYkcRzYuYBgv">Monkey appears disinterested by light-sky-blue.</a>
@@ -2772,13 +2772,13 @@ done
 <a style="color:moccasin" href="ipfs://Qmf33fMsftdWWAQdBmuKBcMxUzZ1mQgu8WK8feV8ZEQM8t">Individual appears disenchanted against moccasin.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmWQpbGyRGft9L3PkGQGrrGKtD93tKi88zHBPTVJXRPV1x">	dark-olive-green with critter being oblivious.</a>
 <a style="color:	goldenrod" href="ipfs://QmTUB5xqExaiF7AAKyb5iTsXUNnw6P63nHz1Z2E4Sc4bdv">Down individual with 	goldenrod color.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmWcNSmChawNfWHhXMQmVhLdKqANc14SFRKMzPn74baWHv">Chimp looks indolant against 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmWcNSmChawNfWHhXMQmVhLdKqANc14SFRKMzPn74baWHv">Chimp looks indolant against 	light-goldenrod.</a>
 <a style="color:	goldenrod" href="ipfs://QmYeRao9hdurAyHKpaV6L62HD3mYSFdh9NQVQD6ygr4Mwb">	goldenrod behind chimp - appears deflated.</a>
 <a style="color:peru" href="ipfs://QmYZ7QaCrnCD4WWJxyDPwG8opJBwh4zm7qukMxTdRdLReE">Simian with peru wall: indifferent.</a>
 <a style="color:pink" href="ipfs://QmPjiZXMKHNgftYqqTeFs2WWeUWbqdkTbE26wqCArRv6aS">Monkey by pink color: apathetic.</a>
 <a style="color:olivedrab" href="ipfs://QmZkjQRuJzuoreEPG93YyAG7UACQDHdUy8kWPxRLFHtpu3">Souless primate on olive-drab color.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmVsRNzYndYgqoQVzVjZwuSEdZYrQEJhZkwsuFvPzbdmb2">Individual with dark-goldenrod wall: unheeding.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmNwx8AgiKW3jFxn6EijX5Xfk7gsCqWF76FwM6kjDbYtCA">Disinterested chimp by 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmNwx8AgiKW3jFxn6EijX5Xfk7gsCqWF76FwM6kjDbYtCA">Disinterested chimp by 	light-goldenrod wall.</a>
 <a style="color:lightseagreen" href="ipfs://QmYSxTxDCYDSzBovEp5kQJtoeDMuSwavMZ2oz3ewjCBpLa">Light-sea-green with individual appearing glum.</a>
 <a style="color:powderblue" href="ipfs://QmXqvxMji3Fsr5mg8jQg23dryjEn7q3bhfASFK4CyFCCXb">Languid creature on powder-blue setting.</a>
 <a style="color:paleturquoise" href="ipfs://QmXQx7rjoG2RwM9fwXp9tocUCCrQnj3dqcvExk4cxpLzMX">Dude appears glum with pale-turquoise.</a>
@@ -2851,7 +2851,7 @@ done
 <a style="color:powderblue" href="ipfs://QmQqn7P3er1YgscYzcHW3DPFkT81tFFXctTGeh7nUghU8v">Dude on powder-blue color: dissatisified.</a>
 <a style="color:paleturquoise" href="ipfs://QmXcoivCbA9DcKRwMuXYUcrKofXZoyTQSuEfD659oH5wLn">Chimp being indolant against pale-turquoise.</a>
 <a style="color:navajowhite" href="ipfs://Qmc8kSCaoD3bw9A2n83atP2xRKR7WWrJZFNMBgrpT1dehV">Navajo-white behind character - appears indifferent.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmcrTc5rnqaZk4Nk7tVRtmKr9Lx1SggtXuMjRSMfvU9e2i">Character on light-goldenrod wall: unheeding.</a>
+<a style="color:goldenrod" href="ipfs://QmcrTc5rnqaZk4Nk7tVRtmKr9Lx1SggtXuMjRSMfvU9e2i">Character on light-goldenrod wall: unheeding.</a>
 <a style="color:palegoldenrod" href="ipfs://QmZRRoo4EAvGD7zqNsqtDaqBewnD4PdxTEHoen7xa9GFek">Pale-goldenrod behind primate appearing languid.</a>
 <a style="color:chocolate" href="ipfs://Qma58yKFv5GMuEi5LX4T4v95MDDUYdetPhUS86QJ3r4riS">Chocolate with character appearing languid.</a>
 <a style="color:lightseagreen" href="ipfs://QmT9PweBiVmhbcGT6zyHMJ1WzXkM4MEKxJ4M9wyTrP6mRC">Simian appears worn with light-sea-green.</a>
@@ -2870,7 +2870,7 @@ done
 <a style="color:lightpink" href="ipfs://QmWjGxDV9rmqA3Z3tD3pTdHjKMMCtNgcMJDQEqi5iHsEJG">Beast on light-pink setting: spritless.</a>
 <a style="color:pink" href="ipfs://QmYegY7E6Syei78BqNtdF94Bdb4fdNhkkhiCrbcooyui2i">Pink with gorilla appearing dull.</a>
 <a style="color:seagreen" href="ipfs://QmQcKuZ9tkjwPUyoLSK3prsYueC4AQ6MrbfURCWByjTnR5">Sea-green with individual appearing unheeding.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmSQAiJks67MVwNa6nSsehbZ4wnp1TWUBoqjHFFWStBiTi">Monkey by 	light-goldenrod field: blase.</a>
+<a style="color:	goldenrod" href="ipfs://QmSQAiJks67MVwNa6nSsehbZ4wnp1TWUBoqjHFFWStBiTi">Monkey by 	light-goldenrod field: blase.</a>
 <a style="color:dimgrey" href="ipfs://QmWPfpjGMFfPrQtfy75UegCWSh6kcNTFDJ1Kqvcde3NX9t">Dim-grey behind creature being glum.</a>
 <a style="color:peachpuff" href="ipfs://QmV3Q8qqoK9Mnpr66qo22hLXJjTdZPBwFxhVmjVDe15EeB">Dude on peach-puff setting: souless.</a>
 <a style="color:mediumseagreen" href="ipfs://QmdetGNizZhJXHUtX7GwaaWAvzQoXo8inMFWN9YFPDuFSk">Down beast against medium-sea-green color.</a>
@@ -2899,7 +2899,7 @@ done
 <a style="color:moccasin" href="ipfs://QmVBeLn3JqmYV49a7bYnqNKvkwj15t6ZC19vro1f1T7xXr">Primate looks slack on moccasin.</a>
 <a style="color:palegoldenrod" href="ipfs://QmY4ee4vG3P9zT5kUDJVAMzs4MGxoQgxmi78b1L4AEstsy">Pale-goldenrod behind gorilla - appears weary.</a>
 <a style="color:lightslategray" href="ipfs://QmTwuh7EFPQH2zryNFNSUWtjxibHW5AHbHVAwUuACRSvfi">Creature is blase against light-slate-gray.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRfdFvavNBbC6YWhPdcnpyxL2qrvM9aRNRYQhBm6QxwLB">Light-goldenrod behind primate appearing unexcited.</a>
+<a style="color:goldenrod" href="ipfs://QmRfdFvavNBbC6YWhPdcnpyxL2qrvM9aRNRYQhBm6QxwLB">Light-goldenrod behind primate appearing unexcited.</a>
 <a style="color:mediumseagreen" href="ipfs://QmT3Mn7FBJwTqs9DmdyGvvzCNFNhthC3iB2mKU3ivU1KNo">Medium-sea-green with monkey - appears pathetic.</a>
 <a style="color:chocolate" href="ipfs://QmRh3u6WMn2iS55YuNtXLaePDxFiH1C8uHQc7fq6F42S7e">Chocolate behind chimp being inattentive.</a>
 <a style="color:sandybrown" href="ipfs://QmPHrnVQXd4hGMs1LuJtJzFj7fGNPuy2ZEFgf55Z1YCjfr">Beast with sandy-brown setting: miserable.</a>
@@ -2907,7 +2907,7 @@ done
 <a style="color:peachpuff" href="ipfs://QmWasND4X2KLPinejJhkyovjqwSfHix5W7jgHjC4wWTfa8">Languid chimp with peach-puff background.</a>
 <a style="color:lightskyblue" href="ipfs://Qma25NutZvvshuXa9VWKUybUwUvwApyn9HbTzeD7VmCifn">Light-sky-blue with simian appearing impassive.</a>
 <a style="color:	khaki" href="ipfs://QmQNj8ZLt6QBTJMLD1SosmLiPGpezrrCj8YKPqLkTuE3Ng">Chimp looks fatigued with 	khaki.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPS4nHhVaHiGhVZZ3SBP97e75PrwaQjSa45MTp8CAy9RC">Chimp being unimpressed with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmPS4nHhVaHiGhVZZ3SBP97e75PrwaQjSa45MTp8CAy9RC">Chimp being unimpressed with light-goldenrod.</a>
 <a style="color:lightslategray" href="ipfs://QmU53eP5SpcSLZf1RAiNvKB2wc4wXbirK3czrkZV8qfXkP">Light-slate-gray with monkey being frustrated.</a>
 <a style="color:	goldenrod" href="ipfs://QmWGcX5AZmboZoYaPyMKLtwof7Y6QWC5ks8aBRbAxhEnPg">Critter looking insipid on 	goldenrod.</a>
 <a style="color:slategray" href="ipfs://QmaNd8sZCj8i1c6TUkxK3ZVMwYqRUADWPwMyraY7ECAaZM">Individual by slate-gray background: impassive.</a>
@@ -2966,7 +2966,7 @@ done
 <a style="color:steelblue" href="ipfs://QmfWiR1VpjZe1Zhvj5Vny4UmJRMK5cA9adksPy358Z9cJ2">Dude looking oblivious on steel-blue.</a>
 <a style="color:bisque" href="ipfs://QmZfYUq3YnVzp4qRUh4YMNncJh9A2G21JSjJQDDWTtQhpT">Bisque with gorilla being dissatisified.</a>
 <a style="color:palegoldenrod" href="ipfs://QmdtQcEop5ZNWtN3z1MFQryoqxjhmXnsdwxyH7JSRHyB6h">Individual against pale-goldenrod wall: blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYr6wknxoz7uwFfUvJjJGq57L5axtwpGDiAacC3gMhBrK">Character by light-goldenrod setting: apathetic.</a>
+<a style="color:goldenrod" href="ipfs://QmYr6wknxoz7uwFfUvJjJGq57L5axtwpGDiAacC3gMhBrK">Character by light-goldenrod setting: apathetic.</a>
 <a style="color:bisque" href="ipfs://QmUwqiogPjHSEeT7Ai8387cGM6WpzBkEpV5h3afzGxuzN4">Down critter with bisque wall.</a>
 <a style="color:khaki" href="ipfs://QmYMbccM2MHfuN1V6JnikhFqArREXMfXs5AR3hRzS2hRa1">Dissatisified chimp on khaki wall.</a>
 <a style="color:slategray" href="ipfs://QmZgXV6ftWwNyz3jSYToYLw6ngpfw8jwV7WZJgzXJz49xt">Critter by slate-gray color: impassive.</a>
@@ -2987,12 +2987,12 @@ done
 <a style="color:cadetblue" href="ipfs://QmdR9JCnHgujrJvy4bKMv4NiFwr79Eim2aLk3EWYFuUNp9">Inattentive chimp with cadet-blue wall.</a>
 <a style="color:paleturquoise" href="ipfs://QmcP5q4PtEAYs8sneoWrvrNnEhipynUECjF3zgwTV41Mv6">Dissatisified character against pale-turquoise setting.</a>
 <a style="color:skyblue" href="ipfs://QmZ3Pqg5NjVDJBmZiMnY8AowEMFgZiSNDsY5x5FoRPa8AA">Sky-blue behind chimp being blase.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qmc7MFviTxeNUV6NjJZiCSXEkGv46sYEsC7ZLN9FQagJtq">Character seems slack on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://Qmc7MFviTxeNUV6NjJZiCSXEkGv46sYEsC7ZLN9FQagJtq">Character seems slack on 	light-goldenrod.</a>
 <a style="color:floralwhite" href="ipfs://QmSkDLAke8P1DcFsSw4xD6xTo22KKbbiraWWgTEoiGwuCw">Dude is jaded on floral-white.</a>
 <a style="color:olivedrab" href="ipfs://QmUEM63LjcVukjNV8Lg9gNR8iqjKwqMDDVAmvJDPQfK16j">Individual appears souless with olive-drab.</a>
 <a style="color:darkorchid" href="ipfs://Qmbmrgzciex4KDDMjbNCUnz9LF8DDB9vSb8dEoSpCNjzen">Primate with dark-orchid color: souless.</a>
 <a style="color:peachpuff" href="ipfs://QmRkSLUu3T85dB4hSHf7s4LuVZ84uavWMvJ4kaVWHiHAdg">Peach-puff with primate appearing miserable.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRESAZbTsJvRM1D96aBqgVFmjAkPCpfbvbMrkYN83eRXH">Beast against light-goldenrod field: neutral.</a>
+<a style="color:goldenrod" href="ipfs://QmRESAZbTsJvRM1D96aBqgVFmjAkPCpfbvbMrkYN83eRXH">Beast against light-goldenrod field: neutral.</a>
 <a style="color:steelblue" href="ipfs://QmUsBhLZTQHChk3SifhNRQNMJwDGRvywAjpfrreg56sCz5">Inattentive simian on steel-blue color.</a>
 <a style="color:lightblue" href="ipfs://QmXt9wPuGE63jCWvxAnPaKLaBKfFJHWj3KJcDisYoWTiKE">Critter by light-blue color: souless.</a>
 <a style="color:navajowhite" href="ipfs://QmYCK6nXr94oRLbdGroGG9hcJnuie2gVFF8iMHRztWWs32">Navajo-white behind primate appearing vacant.</a>
@@ -3010,7 +3010,7 @@ done
 <a style="color:palegoldenrod" href="ipfs://QmUHZtM5MB4zasf88F9G5HFkooP5BtG64xhSjooSz9gUm2">Pale-goldenrod behind gorilla - appears inattentive.</a>
 <a style="color:lightskyblue" href="ipfs://QmdJUkvzrhJ7RJ3QTG7EfbrttFVphkjgRHpccVyWVSKNnZ">Inert character with light-sky-blue color.</a>
 <a style="color:	goldenrod" href="ipfs://QmdAdxGH9PdwgEkh5X3hr1XJbHqKMayKvb7BgJ35gde26G">Creature looks weary on 	goldenrod.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZ7s679B9H81HcjuSP4pPBe4CsbJraQUZ6aNqts19oRxo">Apathetic creature against 	light-goldenrod field.</a>
+<a style="color:	goldenrod" href="ipfs://QmZ7s679B9H81HcjuSP4pPBe4CsbJraQUZ6aNqts19oRxo">Apathetic creature against 	light-goldenrod field.</a>
 <a style="color:mediumvioletred" href="ipfs://QmZtUBc9CES2TcTvek1KGtjmwbjM36MpKvwynKArU67WYt">Primate appears indifferent with medium-violet-red.</a>
 <a style="color:mediumaquamarine" href="ipfs://QmWL7M59WC7uyDpBrLYZqPEGWLLkaq8kDDUzXR29kmYf1M">Unconcerned gorilla against medium-aquamarine color.</a>
 <a style="color:lightblue" href="ipfs://QmYy1A8R9wacMjsVhbfn2mbnz3FHufyGvszVUZJBNWGyzL">Beast is languid by light-blue.</a>
@@ -3019,7 +3019,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmPKoVh1sALucVS3McFcxhbn48mDWned9RaksbkyZG5HMb">Creature looks miserable by sandy-brown.</a>
 <a style="color:moccasin" href="ipfs://QmTwPk9gT2E8ZHR2i2wmeVr6pivKXY6aR9YFHxcwaP2hiC">Moccasin behind creature appearing spritless.</a>
 <a style="color:	goldenrod" href="ipfs://QmSwBDZGujtVVUr7qAs4P3xeVY29TgSV2rPhUtCH9Ut8WK">Inert gorilla with 	goldenrod background.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmWeSP1ADHSax87bfj2FchtkxTwjZjJAnZrjwT1Wfvi41a">Character appears blase on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmWeSP1ADHSax87bfj2FchtkxTwjZjJAnZrjwT1Wfvi41a">Character appears blase on 	light-goldenrod.</a>
 <a style="color:khaki" href="ipfs://QmSZ8WrE7RXVAQU1e6uEByXVB2wYF4ELEA39BDkTjfJjmh">Beast against khaki wall: apathetic.</a>
 <a style="color:steelblue" href="ipfs://Qmdz4xXYGjS2Cv6pAedpVRFbTdbdkCMW3dSg9s8wbciid7">Monkey by steel-blue background: apathetic.</a>
 <a style="color:palegoldenrod" href="ipfs://QmarGryNwyMh1a7D6eZmjJdRFiX1x8w8rYy3nWpvLSv616">Chimp with pale-goldenrod background: impassive.</a>
@@ -3033,7 +3033,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmWyxMB8ovD4A9TxXsM6omoWWs1oPhMHmhZP7UfZGhid5S">Dead beast on sandy-brown setting.</a>
 <a style="color:steelblue" href="ipfs://QmaM6Yv5y2AitbpMtnvaP65PgZvwNED8aBKnfzvrLzQxFN">Steel-blue behind character being unconcerned.</a>
 <a style="color:oldlace" href="ipfs://QmbJrbXzDmcNhw1jhKCdEZDAvcFkw7LB6V7xFV6PBERsum">Individual is pathetic with old-lace.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPgfhDoRbwXGvhN1JQedBUUSvUvX41wgPVR8VrAw2kXjm">Creature seems blase against light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmPgfhDoRbwXGvhN1JQedBUUSvUvX41wgPVR8VrAw2kXjm">Creature seems blase against light-goldenrod.</a>
 <a style="color:oldlace" href="ipfs://QmXenjLJYd3cHgwCakHt9HZjMkb7DcNtLjHSp6sAjUCryN">Sad beast with old-lace setting.</a>
 <a style="color:navajowhite" href="ipfs://QmS5fTKxUtvuyLUp421o36A5cjF71TQaWkga9PM33AhbQ9">Dude with navajo-white field: blase.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmdgG5JDN2xd39wyvzt8o6rxrNChQs5fgSi93K5fQXp8FM">Dude being frustrated against 	dark-olive-green.</a>
@@ -3060,9 +3060,9 @@ done
 <a style="color:dimgray" href="ipfs://QmXgYCNfxPEN3gp1L2opsu7hE6Fgqg8TPN4F3LgUx6hTZi">Beast against dim-gray color: languid.</a>
 <a style="color:	goldenrod" href="ipfs://QmU1uAX6LzNz6EmdCWadhGHa5zSerGWgxpHdf4X5pcySTm">Dude appears weary with 	goldenrod.</a>
 <a style="color:skyblue" href="ipfs://QmTjY3h5beVWMUbWkfSyPf9LCjAzdK3aNkD9LPkUgsZgU7">Sky-blue behind critter - appears inert.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmWDsxc9vwhoGw6xP6CKi3awW2iQ6fdN7NRDx5aseH8wuC">Light-goldenrod with chimp being unexcited.</a>
+<a style="color:goldenrod" href="ipfs://QmWDsxc9vwhoGw6xP6CKi3awW2iQ6fdN7NRDx5aseH8wuC">Light-goldenrod with chimp being unexcited.</a>
 <a style="color:slategray" href="ipfs://QmQ8nBBXDjycSVi6VhjrWTaQFeX1yAWfUpjMmJG1ShkJej">Critter on slate-gray color: blase.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQ66Ap8h9s5uJbqg5s541UyUoJt4Tj19Yj3aq4AkXBi9B">Gorilla on 	light-goldenrod wall: spritless.</a>
+<a style="color:	goldenrod" href="ipfs://QmQ66Ap8h9s5uJbqg5s541UyUoJt4Tj19Yj3aq4AkXBi9B">Gorilla on 	light-goldenrod wall: spritless.</a>
 <a style="color:powderblue" href="ipfs://QmSuBNy9zbs3oANG2sjcgobzMuAEqwGB83fh6tdkFTGNLF">Dude being jaded on powder-blue.</a>
 <a style="color:rebeccapurple" href="ipfs://QmP6VENrPMZBeGVB7ytWtSDY6RUyesorgvRzvx7K7ZQ2pJ">Rebecca-purple with creature - appears frustrated.</a>
 <a style="color:mediumvioletred" href="ipfs://QmVsE8sgZ9G6x7S9jDugyZRTGcf75HLWQLTbXnfiWQEgLj">Medium-violet-red behind character appearing indifferent.</a>
@@ -3183,7 +3183,7 @@ done
 <a style="color:	darkgoldenrod" href="ipfs://QmdeE1JASHNTUDXxxWs2oWQymwF3bA8tW66LTGF5LWm14X">Fatigued simian against 	dark-goldenrod background.</a>
 <a style="color:sandybrown" href="ipfs://QmU5QDRcTRNspXTsTvD5HusiyK4NnezZKsjfQF41CKpfeh">Gorilla looking frustrated on sandy-brown.</a>
 <a style="color:paleturquoise" href="ipfs://QmPt2vP5vCp9h1mTkFFsR8XY27q9MGPSHo6XjGrcZYJWXV">Pale-turquoise with monkey appearing inattentive.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmQ8WfJfvs7dwmqJwx3NYX9iyvYdrtNV1DEUtJwH2Yu57R">Neutral dude against light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmQ8WfJfvs7dwmqJwx3NYX9iyvYdrtNV1DEUtJwH2Yu57R">Neutral dude against light-goldenrod wall.</a>
 <a style="color:powderblue" href="ipfs://QmNYH8T9bpK3Se49t35UZrqajfwZxUuUqkbXr4ZKCqgnuU">Critter is blue by powder-blue.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmfJQLVA5eewXtjcdoy8bDzsMKncZYyVWoW1TkcTxDUpNR">Monkey looking dissatisified by dark-goldenrod.</a>
 <a style="color:lightblue" href="ipfs://QmRk11KJ1qnLE3d2Z33XpGX1pBTk68HxxCbUqf2H5rSYDL">Light-blue behind beast being depressed.</a>
@@ -3193,14 +3193,14 @@ done
 <a style="color:navajowhite" href="ipfs://QmP1RrQaRE26bMjTx5572Wm98ZxQAn8eA88PeUccaKAfWU">Individual seems unconcerned by navajo-white.</a>
 <a style="color:cadetblue" href="ipfs://QmRm317bBKvSNfKmSY6eYGR9iNNxnTHC8pw5phfcdhiFBc">Cadet-blue behind simian being pathetic.</a>
 <a style="color:	goldenrod" href="ipfs://QmVarBZ51kkFojkuX4aynyjFhTaLm2r3cGNTACXWugWGk4">Individual being worn by 	goldenrod.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmTj6qUFYbvSmx9bv3SzEYHpHFGW4fn8HW3HG7C5CMi4Ny">Creature looking unheeding by 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmTj6qUFYbvSmx9bv3SzEYHpHFGW4fn8HW3HG7C5CMi4Ny">Creature looking unheeding by 	light-goldenrod.</a>
 <a style="color:pink" href="ipfs://QmXYprKKMDqWtWyGQx31RS9oAo2o9jC1e5c2U9m7dyxqfK">Creature on pink wall: torpid.</a>
 <a style="color:skyblue" href="ipfs://QmXaxzzdKLhoLtTmDu7J5pRvoYLayjKtrZoLviVMYbWiZY">Indolant simian against sky-blue field.</a>
 <a style="color:goldenrod" href="ipfs://QmNfDT9zpdWLTvTdKkyMUzATVugrUmnbsnkeEnafpdZE4V">Goldenrod with dude - appears inert.</a>
 <a style="color:	goldenrod" href="ipfs://QmYRvyHWm5T148PJQtnn6Ve36H89MRoZ2PDgTrKF4KCxxX">Primate being dead with 	goldenrod.</a>
 <a style="color:	navajowhite" href="ipfs://QmTEB6bW6tuDKgrqxvtkURaSSPKuicGLnMrwZckG9kX1Pr">	navajo-white with critter appearing languid.</a>
 <a style="color:seagreen" href="ipfs://QmV6oc3Pxcdjp2siSFikanWfoBik6SKSNLQQY1qnVbAkFs">Sea-green with chimp appearing unconcerned.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXSyCURGnvvf52nCUwuQoK8wufSbKSJeWXV4wgw3o1tME">Simian being frustrated on light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmXSyCURGnvvf52nCUwuQoK8wufSbKSJeWXV4wgw3o1tME">Simian being frustrated on light-goldenrod.</a>
 <a style="color:peachpuff" href="ipfs://QmeCemzDC3h66KH9oba7J2akWD3cibPgyZ2k9ZCRAm62aw">Peach-puff with creature appearing inattentive.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmZ5em2zJMsrkLFqHufqYeDNXd4rMoQ9wpmWDVLBQJh2mf">Slack critter on 	dark-goldenrod setting.</a>
 <a style="color:lightblue" href="ipfs://Qma7NjTVdd7MCmfEoYaYQdAMwhf24aK5kjcxPGdjaKFeRE">Gorilla being unexcited by light-blue.</a>
@@ -3217,7 +3217,7 @@ done
 <a style="color:lightseagreen" href="ipfs://QmTt9tLb91M488qyjNXynftzfSFJUrQAm7GMEvsaqG49wT">Monkey seems inattentive by light-sea-green.</a>
 <a style="color:steelblue" href="ipfs://QmTGXNfvz98Por6oiG9yABacR8jUZLs39meXjihEvBAYPB">Creature is jaded with steel-blue.</a>
 <a style="color:goldenrod" href="ipfs://QmUbAjZFwoqx4Q42bSsas7h48iRDEdYSNtMVYFbyC5FMWs">Goldenrod with simian being uninspired.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmfYxpNEGFkkfRLGz7Z8UTMe8ibSHwsKmJ6Vn8BwsEk2wx">Gorilla is spritless by 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmfYxpNEGFkkfRLGz7Z8UTMe8ibSHwsKmJ6Vn8BwsEk2wx">Gorilla is spritless by 	light-goldenrod.</a>
 <a style="color:cadetblue" href="ipfs://QmP7zsyCeABEfjLcfnEpp3Bj3jZiZ6t3rgguvr1SHH9Lag">Neutral chimp with cadet-blue setting.</a>
 <a style="color:peru" href="ipfs://Qmc3PMpXbm1tphgVqfNQNPiHsWHbH6UQYGU1ZeebE8iHRr">Dismal monkey against peru wall.</a>
 <a style="color:ghostwhite" href="ipfs://QmZCpVtxUm5X29X9jPMQsb4QEPzgBscp8hpqZH6WrSCiTf">Primate being dismal against ghost-white.</a>
@@ -3243,7 +3243,7 @@ done
 <a style="color:moccasin" href="ipfs://QmchjX8GZq11GnB7rNE5kpqe1r2Kc7SXkXyPzhUZPXLGrt">Moccasin behind simian - appears languid.</a>
 <a style="color:sandybrown" href="ipfs://QmXqywkJqH56JoSZWuYoiBmPBXUm2hko97UvRrHpQuf5yZ">Oblivious primate on sandy-brown color.</a>
 <a style="color:olivedrab" href="ipfs://QmRkNGkqwKjbdVBy9ayJW9f8Mk2WK4GnHvkwoSGq8FiwJU">Olive-drab behind chimp appearing miserable.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZvT4dst53Cxui41fZqeciFj9FRKyVLTe6ob5SJLFsjao">Blase creature with 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmZvT4dst53Cxui41fZqeciFj9FRKyVLTe6ob5SJLFsjao">Blase creature with 	light-goldenrod wall.</a>
 <a style="color:coral" href="ipfs://QmVe9rpBX69qjKR5nhszoW86j4CYzJhV2rQLiFZcmpz7fV">Coral with beast - appears blue.</a>
 <a style="color:palegoldenrod" href="ipfs://QmRbMfLj5eVYtoP3ewPxAfz3mtPiafeYP9ECm4cuAACQe7">Pale-goldenrod with character - appears glum.</a>
 <a style="color:dimgray" href="ipfs://QmbHQqubvhm1ftJ2AFQ7fRYxRrtH6nRDwp8SvGPsRe8TdT">Character is wearied on dim-gray.</a>
@@ -3260,7 +3260,7 @@ done
 <a style="color:seagreen" href="ipfs://QmPVcYRpoYpbXuEtBUKrShU5koSix6cTgQnasHNzzw1jjs">Primate seems pathetic with sea-green.</a>
 <a style="color:lightblue" href="ipfs://QmeHGZTFBq1xtz4W5cMMzWVppTTvGEv6rF4L1AcsTwr3qU">Individual on light-blue setting: weary.</a>
 <a style="color:seagreen" href="ipfs://Qmc1MTxPkUYXRZDLbDq9CV3DNtWZCG2X9J7MYQVrsvb6v7">Sea-green behind beast - appears languid.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmfNaZfGnafibw77C4494bysSrnf4S92xU7br6cAtN48DF">Neutral chimp against 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://QmfNaZfGnafibw77C4494bysSrnf4S92xU7br6cAtN48DF">Neutral chimp against 	light-goldenrod color.</a>
 <a style="color:	goldenrod" href="ipfs://QmQkHxwFsADsBNuyPrH9fQqhjvkuQat34iyWY93yfUvAfF">Gorilla on 	goldenrod wall: dissatisified.</a>
 <a style="color:orchid" href="ipfs://QmSEowbD9XoyoHpsMy6TpV1za5WDqZvPW5bUzGAhJ98T59">Critter by orchid wall: sad.</a>
 <a style="color:darkgoldenrod" href="ipfs://Qmf8LAdfppLVdtinWMMqne9gAAxpCEr2r3A6AUdoiMBYR4">Individual being fatigued against dark-goldenrod.</a>
@@ -3345,7 +3345,7 @@ done
 <a style="color:skyblue" href="ipfs://QmSJAf6JVaY1aMKWuTT9zNQXdxpABHWXLYnpSTiqHkMZ5z">Dissatisified individual with sky-blue field.</a>
 <a style="color:lightblue" href="ipfs://Qmb4oL79xY6Rf6JJzEBmeFfUForKgxqBD2nFyoEFXSkL9A">Critter seems dismal on light-blue.</a>
 <a style="color:dimgrey" href="ipfs://QmUtfPXBN21dWz4As6mnfsKiNShHyUmYwnpH8z9DfuMdF8">Simian by dim-grey setting: dead.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmNmyQLD7kXYPANovqv5phakh4U6Y4jv2EtC2ThjH9dFJY">Dull gorilla by light-goldenrod color.</a>
+<a style="color:goldenrod" href="ipfs://QmNmyQLD7kXYPANovqv5phakh4U6Y4jv2EtC2ThjH9dFJY">Dull gorilla by light-goldenrod color.</a>
 <a style="color:skyblue" href="ipfs://QmP5LGckSWAVLU5GVxF4bztcYkgqBBhMteNQ9GBfgVGbsE">Primate being souless against sky-blue.</a>
 <a style="color:steelblue" href="ipfs://Qmbi4K1PCe1Hu2jHC34kbWEXVuTTqjiget6sZAXWv99X5J">Languid beast by steel-blue color.</a>
 <a style="color:powderblue" href="ipfs://QmZxEVv916DivuBz3nqk8Jx9estrTHwbKtqdxfHDMjGfrt">Powder-blue with monkey being glum.</a>
@@ -3354,7 +3354,7 @@ done
 <a style="color:rebeccapurple" href="ipfs://QmP9LBc7npEfRG9quk7iCZhjJq3v7h4GcZf1uEmW7eia2w">Dude is indolant by rebecca-purple.</a>
 <a style="color:olivedrab" href="ipfs://QmPQej5rbZFSoVdQcymk4CjtYSKAcKSZggp8pdhcAF8JLX">Jaded beast by olive-drab color.</a>
 <a style="color:goldenrod" href="ipfs://QmVS1oiQ9KFBkuSVuS77WCKi5ChL4DTDBY4nPeet8kjPmk">Dull character on goldenrod wall.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmcC3aRUvvS2gL6ZUXFMnrDWfKuTYMqk7eU6HQgLShrocA">Souless primate against 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmcC3aRUvvS2gL6ZUXFMnrDWfKuTYMqk7eU6HQgLShrocA">Souless primate against 	light-goldenrod wall.</a>
 <a style="color:	goldenrod" href="ipfs://QmRbRRyiSjFvtPafSVvLn6RPB3FNE1uoZnQo2NSpsf8T5D">Monkey seems unconcerned by 	goldenrod.</a>
 <a style="color:mediumvioletred" href="ipfs://QmXDqotm6DamxnpdBN3Arr31p5sKPeSRVuQ7CCzAzARHwC">Primate with medium-violet-red color: spritless.</a>
 <a style="color:skyblue" href="ipfs://QmPGDbKqfX1WPvjPgwWok1txayMrMoXQVPvCzGzPmKVpRP">Wearied simian against sky-blue color.</a>
@@ -3379,7 +3379,7 @@ done
 <a style="color:lightskyblue" href="ipfs://QmaW2gwpc4d1njTf141DqBpPi42GvHY4UmeZGXkf1zqHfB">Light-sky-blue with monkey appearing languid.</a>
 <a style="color:sandybrown" href="ipfs://QmQswGG4zAzX9gCcf1hWYf9c35DLu8nhXeCEow92HjxzC7">Souless individual on sandy-brown background.</a>
 <a style="color:paleturquoise" href="ipfs://QmR5JKEsuX4r8ERub4EeMDP8iL7BaKTZTLJkDrauPz89BJ">Character by pale-turquoise color: depressed.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmNgfiAyLUXZ5X4yCfq1P5UeGu285LmZUfYKBYWshFjZcF">Critter against 	light-goldenrod setting: uninspired.</a>
+<a style="color:	goldenrod" href="ipfs://QmNgfiAyLUXZ5X4yCfq1P5UeGu285LmZUfYKBYWshFjZcF">Critter against 	light-goldenrod setting: uninspired.</a>
 <a style="color:skyblue" href="ipfs://QmX4RrR8jAAbPWQr9tT2NrKV6pUXvzFYim6kYZLhjAqvWN">Dude on sky-blue color: blue.</a>
 <a style="color:darkorchid" href="ipfs://QmSHejatTUdL3PjXv9LP1z1NbQQkLvxwvn14dhnXyJgGrf">Indifferent primate on dark-orchid background.</a>
 <a style="color:	khaki" href="ipfs://QmQFWja6DGuFSrNMUa876DS23xwc8J8nsDK2b3Kb18HDLc">Inert critter with 	khaki setting.</a>
@@ -3410,7 +3410,7 @@ done
 <a style="color:oldlace" href="ipfs://QmPjqECxgk2Zc7PEFrGXp8SQAh3B6cAzXPyGJWzhRh988V">Tired critter by old-lace setting.</a>
 <a style="color:dimgray" href="ipfs://QmRFRyLSN38kq1FXqVqrt9PCTWLDa7NuYMAxCkK3pnSi9w">Dim-gray with monkey - appears unimpressed.</a>
 <a style="color:	goldenrod" href="ipfs://QmYr7kidWBpwGbxBhDuUM9aLoaeC6VnQGEGVJhmi7JgNeK">Indolant dude against 	goldenrod wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qme8DB6tydviLEwqQzsgE1GiwkM18bqBDKjZYPWLQxt9yX">Torpid beast on light-goldenrod background.</a>
+<a style="color:goldenrod" href="ipfs://Qme8DB6tydviLEwqQzsgE1GiwkM18bqBDKjZYPWLQxt9yX">Torpid beast on light-goldenrod background.</a>
 <a style="color:cadetblue" href="ipfs://QmbuptZcYxNZ5EvdYH3iPkm1vyLfe4sydkvuRXGbNw3fEX">Monkey being down with cadet-blue.</a>
 <a style="color:seagreen" href="ipfs://QmcfZAJQj3o9UvcPVC9cZvCW6RZXXEv9ffSoSAz6T44u7E">Monkey is pathetic by sea-green.</a>
 <a style="color:paleturquoise" href="ipfs://QmUKJp957Hk9gpqGYDsHVBVKowjxapqAVP5UwUHH7Sa9JS">Individual is dissatisified on pale-turquoise.</a>
@@ -3447,7 +3447,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmXcSBUCyz6LdSaPA19v7yMLUY8Wm2wXJDnwGCbiXakGqU">Monkey by sandy-brown wall: dismal.</a>
 <a style="color:lightskyblue" href="ipfs://QmfSqT8ALTKT7Pwc5V7fX8yLXYWFHWovbFnrgKpTGgQkUH">Monkey is inert by light-sky-blue.</a>
 <a style="color:mediumorchid" href="ipfs://QmcgTngXPEN6xGHxaSd6kmSgoeJM42dtPFBHyq4B92mJGH">Medium-orchid behind creature appearing frustrated.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmS3K1VrrWex2vhPYFoaHn9HLmJ7udSGGeRMYRsVUiWn58">Down primate against 	light-goldenrod background.</a>
+<a style="color:	goldenrod" href="ipfs://QmS3K1VrrWex2vhPYFoaHn9HLmJ7udSGGeRMYRsVUiWn58">Down primate against 	light-goldenrod background.</a>
 <a style="color:rebeccapurple" href="ipfs://QmZqK7zNuz9Jizv6575XTbCNXp9gbHVTcfVkaVHAEhq6AK">Monkey being uninspired by rebecca-purple.</a>
 <a style="color:snow" href="ipfs://QmT7RKqjRhWNU9eQCVPHJSiseS8GHuzg2vJxPWz2bW7g4H">Worn primate with snow wall.</a>
 <a style="color:ghostwhite" href="ipfs://QmRhf63uYLpYhu74T5kr5D2n6LUoSmi9FK2gCTHLseeJxz">Individual by ghost-white color: souless.</a>
@@ -3461,7 +3461,7 @@ done
 <a style="color:slategray" href="ipfs://QmcQeNsNjXr3nopHatQu8DnhW5K2spPcMgzxKo8mmZrnyD">Simian by slate-gray setting: indifferent.</a>
 <a style="color:mediumvioletred" href="ipfs://QmTinKrgnW1vWyNK17mu6vYQs4UYPBt9CrKh8Fgaqc7fuc">Deflated primate on medium-violet-red field.</a>
 <a style="color:lightseagreen" href="ipfs://QmTMuYYawWonDiMDG4d9N87hDqu1k7kA33FbLi6L6XjhNE">Light-sea-green behind monkey - appears gloomy.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmaPTrQGhxQNrJM1ECBM4M7GKhhSg7Fc3VyxP6aVckhcK5">Monkey seems jaded with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmaPTrQGhxQNrJM1ECBM4M7GKhhSg7Fc3VyxP6aVckhcK5">Monkey seems jaded with light-goldenrod.</a>
 <a style="color:palegoldenrod" href="ipfs://QmNNHsVgyfaZW6UT6ZxBJKgpuU1Ye9cF4W53d12bnPxvBw">Pale-goldenrod with creature appearing torpid.</a>
 <a style="color:cornflowerblue" href="ipfs://QmVJUNY1SQJEjQhSC7Sjy1yXgMdkZf5isujJWRrsJqxwmr">Character being spritless by cornflower-blue.</a>
 <a style="color:palegoldenrod" href="ipfs://QmPA71oTwKQxToDNnHgjupGaQYecptXwFrrANX1Uf1tm2k">Critter being indifferent on pale-goldenrod.</a>
@@ -3495,14 +3495,14 @@ done
 <a style="color:whitesmoke" href="ipfs://QmXzdaUSp1xaum2z8NbkyCP62eRXBQnWu4GiRHLWcWGNab">White-smoke with gorilla being neutral.</a>
 <a style="color:skyblue" href="ipfs://QmehbaoS1s3T5prY2b9r2xzADJisC4JHsdspDLWG6xhdYx">Critter against sky-blue wall: indifferent.</a>
 <a style="color:cadetblue" href="ipfs://Qma9qBUMTV7CP6mdRXiE8n7GcJvu4eCnwiqadyStiVmgiH">Languid beast against cadet-blue wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmW2yL7cSKVTMa5AHYNxGxpPX7cLy2t9ij1wuJuXWXgA4s">Dismal creature against light-goldenrod field.</a>
+<a style="color:goldenrod" href="ipfs://QmW2yL7cSKVTMa5AHYNxGxpPX7cLy2t9ij1wuJuXWXgA4s">Dismal creature against light-goldenrod field.</a>
 <a style="color:slategrey" href="ipfs://QmR3oLgtQUQyziy3WQubNQMUTKg73p8MmR8aAd93gCE527">Critter by slate-grey setting: souless.</a>
 <a style="color:whitesmoke" href="ipfs://QmNjtxhfsCFD5aGgH4fabge8kcQkytYgJoJ7KoRzBdLEDK">Indifferent character by white-smoke background.</a>
 <a style="color:floralwhite" href="ipfs://Qmdgcu6xttPzye4XctB2rUnukuu3u6iBKgXKB85759RKoK">Unconcerned gorilla against floral-white field.</a>
 <a style="color:navajowhite" href="ipfs://QmPMFdEeHdYsnLaN9jTFPKwVpNjVwDeL1Ey2u5zUxewnQS">Impassive creature with navajo-white setting.</a>
 <a style="color:steelblue" href="ipfs://Qma5XgFzUXQc8bgGuPDLxpc5Z8U4RZ8Q8UR71H3QCLdUot">Simian by steel-blue background: insipid.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmNWQksWsNFbgbQP1e2TdXbrFJqaLGS2ytfRs57xMMPtVc">Simian by dark-goldenrod background: gloomy.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmcSjeqkuKhvkuNFcL1hvXg1TvkjVrpGa9LwxUqtc3cq4M">Unimpressed beast on 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://QmcSjeqkuKhvkuNFcL1hvXg1TvkjVrpGa9LwxUqtc3cq4M">Unimpressed beast on 	light-goldenrod color.</a>
 <a style="color:powderblue" href="ipfs://QmTSqixpYbiK1aGeL5X2iyUPrGghXjvrDB6iBY9XmFikyY">Powder-blue behind critter being wearied.</a>
 <a style="color:peru" href="ipfs://QmUcTyVufAheD7nYrnj3kC8o4nqR1zM2aFgPhNEUJ1BUzX">Peru with critter being insipid.</a>
 <a style="color:powderblue" href="ipfs://QmVuASnq6w9gC4CW1QMdcwtwe9UUbwX35k24WsYt3Km8kw">Apathetic individual on powder-blue color.</a>
@@ -3517,7 +3517,7 @@ done
 <a style="color:lightseagreen" href="ipfs://QmWu17CGZR9vn3wQFKJRJPsFcK8nmdJebybQTxCx63xNKE">Creature on light-sea-green setting: deflated.</a>
 <a style="color:steelblue" href="ipfs://QmebSaLEjbcztJZLnTg2VBckFWj4SAAVDkVWnrqS67BBCB">Steel-blue with character - appears vacant.</a>
 <a style="color:seagreen" href="ipfs://QmZwufVkqPMPs5KC2vDy1CJzzmhGnh3jbrqqNM4YgHLbr4">Dismal dude against sea-green wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXuvQkYfZGs3vkkpvwtZgiikCGJFexr6zrVPYv1z7EmBy">Oblivious primate against light-goldenrod color.</a>
+<a style="color:goldenrod" href="ipfs://QmXuvQkYfZGs3vkkpvwtZgiikCGJFexr6zrVPYv1z7EmBy">Oblivious primate against light-goldenrod color.</a>
 <a style="color:powderblue" href="ipfs://QmVpoK5j1H5ZxdieE1HcQ8PwCdBUzLBQTacF9Gz1CQDEfG">Unheeding beast with powder-blue wall.</a>
 <a style="color:lightpink" href="ipfs://QmWfSXGSQvDk9goPJC4oe6Ju3zRkhbZrBUsTDMnyL2HGGt">Dismal chimp against light-pink background.</a>
 <a style="color:bisque" href="ipfs://QmazZ9GnV2nQ7nTSsxu8eYsasDEiUo3qV2qPY9dsT883QR">Souless primate on bisque setting.</a>
@@ -3529,7 +3529,7 @@ done
 <a style="color:mediumorchid" href="ipfs://QmS1kf9qqRqZHSR9eVTptTuu2Ked4zxJfmnezNShPhFKjB">Creature looking souless by medium-orchid.</a>
 <a style="color:lightblue" href="ipfs://QmezBq8QUkqqGpjgKBofhDVBGqJDX2DG7EdzepQ9uhFtTJ">Monkey being indolant with light-blue.</a>
 <a style="color:mediumvioletred" href="ipfs://QmcvNrQYefyLNQ6TomJDGCquHpZPK1gGzesqWfrSrox2NK">Medium-violet-red with beast being disinterested.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmeKss48uN4dq36P6pv5Z1fKiG9nyNsQqDjQJBuyfg3oh5">Monkey being glum with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmeKss48uN4dq36P6pv5Z1fKiG9nyNsQqDjQJBuyfg3oh5">Monkey being glum with 	light-goldenrod.</a>
 <a style="color:steelblue" href="ipfs://QmarKioPXdSNDDB5ktqfereYAsz5cXcUA1abBP41hrFz9r">Chimp on steel-blue setting: dissatisified.</a>
 <a style="color:navajowhite" href="ipfs://QmY2mMXgMz7zcSPg932fP2avn4qnLUqmahyT3QqSnaqBCW">Creature against navajo-white setting: blue.</a>
 <a style="color:snow" href="ipfs://QmR78b6GgGLyXJvSfCFeAjFPafmQojjxAcfaLhhHh4LxGV">Chimp with snow setting: torpid.</a>
@@ -3581,8 +3581,8 @@ done
 <a style="color:sandybrown" href="ipfs://QmSkjNLdpEQdjeb99zSMSXG9xPSk9TfxaPKKBWjQmaux9D">Depressed monkey against sandy-brown background.</a>
 <a style="color:seagreen" href="ipfs://Qmci1pGaUmvb6StPxdGp1WqfK9QjPjdf43nCbY5LJ9y1MY">Critter by sea-green color: vacant.</a>
 <a style="color:	goldenrod" href="ipfs://QmeY7JmJc3jqq5HH5zhN3WVr38YWb5BW19Wwwx43GyQgA3">	goldenrod behind beast - appears disenchanted.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQUUHTmbAEothvjt4HR7dVodUWd69AKt2BunBLuu3Js97">	light-goldenrod behind beast appearing insipid.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmWp7te4dssbR5YviEukf7C9Pep6zduoS2EiaA6eotzFuS">Impassive individual by light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmQUUHTmbAEothvjt4HR7dVodUWd69AKt2BunBLuu3Js97">	light-goldenrod behind beast appearing insipid.</a>
+<a style="color:goldenrod" href="ipfs://QmWp7te4dssbR5YviEukf7C9Pep6zduoS2EiaA6eotzFuS">Impassive individual by light-goldenrod wall.</a>
 <a style="color:	goldenrod" href="ipfs://QmeWzw6h3QJTGaWzPZ7usftMsjmDbDmmE4oHyaW8U8pN7u">Chimp looking jaded with 	goldenrod.</a>
 <a style="color:floralwhite" href="ipfs://QmPRsyhX6aMzrWWSiENzpfTczrx7XQa98ruGJkQvD1F63C">Languid character with floral-white field.</a>
 <a style="color:cadetblue" href="ipfs://Qmb4hZdJH5dQzvr9wV5zHnGMCvXX473H61rgivyAYthh5R">Languid beast by cadet-blue background.</a>
@@ -3595,7 +3595,7 @@ done
 <a style="color:	darkolivegreen" href="ipfs://QmcJxxtLfJMWx1ianY2w9ufQhj74QwHqJq6Fcz9UUJBGgv">Beast being apathetic on 	dark-olive-green.</a>
 <a style="color:powderblue" href="ipfs://QmcauSvtfi7fyv6Zu9jrsvEXX18e5q9tJFcTCyx4itxVNS">Dulled gorilla by powder-blue background.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmVuoMry7oCgBidPeMSDWiXzSucyHondEFxnNAJc3XiLBL">	dark-goldenrod behind gorilla being neutral.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmW2k9GjbLekxfihS9JkkVgXF4mUNxSaxYMknTj9hj2HuD">Indifferent chimp on light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmW2k9GjbLekxfihS9JkkVgXF4mUNxSaxYMknTj9hj2HuD">Indifferent chimp on light-goldenrod wall.</a>
 <a style="color:khaki" href="ipfs://QmT2PeMocm1KnWpXjmMYZnbTRxpuUAMeTC6p3K165qGBPE">Khaki with creature - appears sad.</a>
 <a style="color:bisque" href="ipfs://Qme9MBBGCcSVft5VDGk4ZdAVjeKr1MocAVVV5oMPSZPwmK">Creature being jaded with bisque.</a>
 <a style="color:lightpink" href="ipfs://QmZYJXGTTcmQx9J3xXJibNyY5Sj4tpTapRaMNEHJuT3JxF">Character by light-pink background: disinterested.</a>
@@ -3607,11 +3607,11 @@ done
 <a style="color:	olivedrab" href="ipfs://QmQzDJpXf5EGd18AKXNkgxVcjPSC5ML5dDJbmmgopvhN4x">Wearied gorilla with 	olive-drab color.</a>
 <a style="color:sandybrown" href="ipfs://QmWRS2rHbUh2pqai8wupV2Yu9Q9jdpXRcGAkvTH8zLpj3P">Apathetic gorilla by sandy-brown wall.</a>
 <a style="color:skyblue" href="ipfs://QmQWUdF24wx8LvTDHaV3A3uX3r62vev5VstEaPk2nNubzY">Dude on sky-blue background: frustrated.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmV1zTCoCQ7xNBtnedWaMZzML2yLiMPJ2PQMxkmVxHzWzG">Creature on 	light-goldenrod field: souless.</a>
+<a style="color:	goldenrod" href="ipfs://QmV1zTCoCQ7xNBtnedWaMZzML2yLiMPJ2PQMxkmVxHzWzG">Creature on 	light-goldenrod field: souless.</a>
 <a style="color:peachpuff" href="ipfs://QmUuGisN1JqS6ndW4nNEn77Qe2i2XiMXrBh5utwQq4UupF">Character against peach-puff wall: blase.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmP2ZvdpUmMekVikqsQsWvmNpSdpbHKf3JDEB67r2TAsd4">Vacant chimp on 	light-goldenrod setting.</a>
+<a style="color:	goldenrod" href="ipfs://QmP2ZvdpUmMekVikqsQsWvmNpSdpbHKf3JDEB67r2TAsd4">Vacant chimp on 	light-goldenrod setting.</a>
 <a style="color:peru" href="ipfs://QmXndh5kDSYQR2Qdj7sgMTCAJnbbZfhJJpbuMUdHG2hzeh">Peru with primate appearing inattentive.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXo3HG9kXYE57nmnywRaJ4xoaagkDitSBymCttuA9WwoW">Creature against light-goldenrod background: jaded.</a>
+<a style="color:goldenrod" href="ipfs://QmXo3HG9kXYE57nmnywRaJ4xoaagkDitSBymCttuA9WwoW">Creature against light-goldenrod background: jaded.</a>
 <a style="color:powderblue" href="ipfs://QmST8bYyKhdPiDefup2ekSAbnXiScqd5NqGT216ahuzXeL">Dude being dead with powder-blue.</a>
 <a style="color:coral" href="ipfs://QmWufCJWVYX7BreZSZsXq1Te4imVm7UGeovZMgH9PLFBL6">Character with coral color: slack.</a>
 <a style="color:palegoldenrod" href="ipfs://QmQ6e9XomKacYDySMge7v7jktdjMqkPEBJCGmfon9Fg44T">Blase gorilla by pale-goldenrod background.</a>
@@ -3627,7 +3627,7 @@ done
 <a style="color:lightseagreen" href="ipfs://Qma9hYRQjmrj59fiPx37CQoJn6TBXHMX8tJ9PwXCq2ZnCF">Light-sea-green with beast - appears blase.</a>
 <a style="color:peachpuff" href="ipfs://QmQAMk6pA4Lk6czawBDeXTEn5qShr9njV5gRA6r1jjMequ">Monkey on peach-puff wall: unheeding.</a>
 <a style="color:steelblue" href="ipfs://QmWYqghZsKLuiKtuUSsxhEkvhBmgVMSXG9TA2aTpc6EaYz">Primate against steel-blue wall: depressed.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmY7yFcKniC3VyGEJuDKG2uCZSaUuTWpKdT725EYVZ8fm8">Creature with 	light-goldenrod field: glum.</a>
+<a style="color:	goldenrod" href="ipfs://QmY7yFcKniC3VyGEJuDKG2uCZSaUuTWpKdT725EYVZ8fm8">Creature with 	light-goldenrod field: glum.</a>
 <a style="color:seagreen" href="ipfs://QmTaNfeKFsEkvsCMaLHxaFNRvtoXNZD74oMT1bEpgjz5cP">Sea-green with primate - appears inattentive.</a>
 <a style="color:seagreen" href="ipfs://QmQiTNbYsAmj78FKp1S2hbLXBi5FxxTLkX1sbnY4eBbVta">Critter by sea-green field: weary.</a>
 <a style="color:mediumseagreen" href="ipfs://QmfUC8zc3baJnvsnDzgPNTod9suQZfk2jrQAGRkBrToscq">Medium-sea-green behind critter - appears vacant.</a>
@@ -3646,7 +3646,7 @@ done
 <a style="color:goldenrod" href="ipfs://QmYHCKWvCkHTTSdwKMxH4rk3SWpP1rPPuWQKV5duAKBtrF">Goldenrod with character - appears dead.</a>
 <a style="color:	goldenrod" href="ipfs://QmczYTPAJKhzU1LTMPYubYXeR6tVMb2jLUdcYeGyWEQgkn">	goldenrod with gorilla appearing dissatisified.</a>
 <a style="color:peachpuff" href="ipfs://QmQ2EqYrWcq8JnoNckWouJi1CZD5mqRCNqspMdsENA6z72">Peach-puff with primate being down.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmRXAx7qakm2HcQD2cuuKjTdn3LmYwite62ejHvwmowon3">	light-goldenrod with critter appearing blase.</a>
+<a style="color:	goldenrod" href="ipfs://QmRXAx7qakm2HcQD2cuuKjTdn3LmYwite62ejHvwmowon3">	light-goldenrod with critter appearing blase.</a>
 <a style="color:seagreen" href="ipfs://QmbTdM2APquB2cn14ZfUeu8pgDPZZ8w47SrEw36Dh6k5Dx">Sea-green with creature being unimpressed.</a>
 <a style="color:powderblue" href="ipfs://QmSyspcpZmnsAF2hrHGvsgoMttSHpqK4aGCm55vPKYrknd">Critter by powder-blue setting: worn.</a>
 <a style="color:darkgoldenrod" href="ipfs://Qmf6hi1AaHUkRVXcoQiMDVfRreBw1YNogvz5Jfs2sMn8TW">Primate against dark-goldenrod wall: fatigued.</a>
@@ -3738,7 +3738,7 @@ done
 <a style="color:seagreen" href="ipfs://QmWvUHfMtehTKh4AqTG3XrpW3sq1K1WEYk3uyNv2fuwruj">Blase creature with sea-green color.</a>
 <a style="color:khaki" href="ipfs://QmWs6vet8gGQL9Mb4FD7LUcH4u8c4y1uNQmLfATHMaxrMf">Critter looking vacant on khaki.</a>
 <a style="color:honeydew" href="ipfs://QmWNn5fdEGw7rt5GtyZhFtd9vCc7GRvBim6C1Fp9Aa6N9E">Apathetic primate on honeydew wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmdxvYAxNWmo2HueYQBrLB7Q15TRCNyFkAyDGZ2Fx6y1g5">Dulled individual on light-goldenrod setting.</a>
+<a style="color:goldenrod" href="ipfs://QmdxvYAxNWmo2HueYQBrLB7Q15TRCNyFkAyDGZ2Fx6y1g5">Dulled individual on light-goldenrod setting.</a>
 <a style="color:coral" href="ipfs://QmSJU7NQXrAPSi2Ykca7VDWLd7DPR6ZbQJExXCaCxEX1Gg">Simian against coral field: blue.</a>
 <a style="color:seagreen" href="ipfs://QmZJj2sYWCmBZxxoMR3WJduNWnUfg64cyxhPPjwHcdhffk">Sea-green with dude - appears gloomy.</a>
 <a style="color:lightskyblue" href="ipfs://QmeH6BUJqLWUFxoXKE64wyLYe964gx8xvzDsJMBtuGELTR">Gorilla on light-sky-blue setting: souless.</a>
@@ -3829,7 +3829,7 @@ done
 <a style="color:powderblue" href="ipfs://QmUGQCZsPKX7mHCv4MbNihfRna6KPhLfoxgVXVnert54V1">Powder-blue behind critter being oblivious.</a>
 <a style="color:palegoldenrod" href="ipfs://QmTNQmBvesm6AddnWLpLpBSJtrr1zmsnqManP1sC4DLWBk">Frustrated individual on pale-goldenrod wall.</a>
 <a style="color:skyblue" href="ipfs://QmYjfFkB1hnvFTaCdV5aTd9s25xEeWA22PqVHgTihfn6os">Sky-blue behind primate appearing dulled.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmcDUnU3vQMCg8tZtCaJdA5bEfrpHgoGMZU8NjwLMbrZYg">	light-goldenrod with primate - appears down.</a>
+<a style="color:	goldenrod" href="ipfs://QmcDUnU3vQMCg8tZtCaJdA5bEfrpHgoGMZU8NjwLMbrZYg">	light-goldenrod with primate - appears down.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmWswHq58qxHjKXcn4LicRZtWvXStgHhgjwufYfGZo32bx">Critter looks pathetic with dark-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmVeLbaMa4qeRXCGW3hY8wCSUCLqzUrEQXBMLUSfB7dsjh">Dull individual on sea-green wall.</a>
 <a style="color:lightblue" href="ipfs://QmfR7YYpYAZ5a49isbEhN2nWtDibxcyFAKddEfMLruunXL">Apathetic simian against light-blue field.</a>
@@ -3847,7 +3847,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmXPfymDmpcwX2VN7gtZcCEKDoLWzs7SV4b18t6z4boTVA">Beast by sandy-brown wall: torpid.</a>
 <a style="color:peachpuff" href="ipfs://QmNuvQVoZyDgU5epWDEx7hcsVTdRx1DyncBft1SdzvWyvL">Chimp looking inert with peach-puff.</a>
 <a style="color:sandybrown" href="ipfs://QmauVUDZkKJattzxmsNysWmtd9PdemTKdQ9tsvdDuB8qN7">Beast against sandy-brown wall: pathetic.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXXsAUShr3Aj84E34GfpX1JGgGujLU9qjhEYje7fbncgy">Gorilla seems fatigued by light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmXXsAUShr3Aj84E34GfpX1JGgGujLU9qjhEYje7fbncgy">Gorilla seems fatigued by light-goldenrod.</a>
 <a style="color:goldenrod" href="ipfs://QmYUirbwC8vKgHqkYxexbkKr9mZ2H2oTiEHxGHtsH6wEw3">Pathetic simian on goldenrod color.</a>
 <a style="color:paleturquoise" href="ipfs://QmSBKWf1g26pZeQ6codZJEv4nXYPskdG5ix2LamGNomaMf">Pale-turquoise with individual appearing indolant.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmRgwnq1Dxw1PBaVeVDbPa3GUUHh7AjxdumCpmob3WgKab">Critter by 	dark-goldenrod background: unexcited.</a>
@@ -3877,7 +3877,7 @@ done
 <a style="color:lightseagreen" href="ipfs://QmP3uy8HjNaT6KEApomhGpXfec3H8YaV743yW6fLXYn4Uu">Critter being unconcerned with light-sea-green.</a>
 <a style="color:	goldenrod" href="ipfs://QmPo1a5gEqp2LTQcHSzZMAaDf5kahaTP5pMnanxbiKm76B">Character seems inert by 	goldenrod.</a>
 <a style="color:dimgray" href="ipfs://QmdaYavHrBCmJGSvVLonoLdDqJKjbSzQM4Uoa8BRs8pCZw">Individual looks pathetic against dim-gray.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmUgpPzUERTyK8K6NpsuptknwDjnGjdXtGCrtRN9hELcAC">Tired chimp by 	light-goldenrod setting.</a>
+<a style="color:	goldenrod" href="ipfs://QmUgpPzUERTyK8K6NpsuptknwDjnGjdXtGCrtRN9hELcAC">Tired chimp by 	light-goldenrod setting.</a>
 <a style="color:peru" href="ipfs://QmWYXcdU6Y6mFsNH2cyJC7FAw6deJjCvfapjTRu2vz49sL">Peru with character appearing disinterested.</a>
 <a style="color:	goldenrod" href="ipfs://QmPPj3ybHtAQZA2wLH3mU8Ki3N9xrZwLpd8VkLd9Lpy4pk">	goldenrod behind creature - appears fatigued.</a>
 <a style="color:dimgray" href="ipfs://QmT3jDYo4PZhtYXQt3VcDdDq8dShHFjopNtB21JyhutiLD">Dim-gray behind gorilla appearing dull.</a>
@@ -3891,7 +3891,7 @@ done
 <a style="color:ghostwhite" href="ipfs://QmWwrez38SYEgKcSzsiQzB7T5geDjrgyi7g7iepftoCRRS">Ghost-white with creature - appears unheeding.</a>
 <a style="color:skyblue" href="ipfs://QmQLncbR52YdnkL4JmiZoYrKPxcP8iTPEZMAqFmvKH7jqo">Indolant primate with sky-blue wall.</a>
 <a style="color:oldlace" href="ipfs://QmUETh6bYqsvKb7CkfH4ZLuQgq8fE8sR6SPUkLQP33DNxX">Creature by old-lace wall: dull.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPaX8TtbD2ABwSfRc5nmbZdGPTLkKpYe9DkwHiUjDpG2y">Vacant monkey with light-goldenrod background.</a>
+<a style="color:goldenrod" href="ipfs://QmPaX8TtbD2ABwSfRc5nmbZdGPTLkKpYe9DkwHiUjDpG2y">Vacant monkey with light-goldenrod background.</a>
 <a style="color:lightseagreen" href="ipfs://QmNP1AT3w26EpJawayJ9TTti9dRf42VuDyJ7c2WRUcFBMz">Down primate on light-sea-green wall.</a>
 <a style="color:seagreen" href="ipfs://QmbybucgFUqnHjZzJBj3nLkb4VChkCbu2ToTAwHEVHB7hC">Souless critter on sea-green setting.</a>
 <a style="color:lightseagreen" href="ipfs://Qmb8G11yjF4cejsifCPLJD5VZkUK2Yv2yy72S9MCJ1bycE">Character is inert on light-sea-green.</a>
@@ -3910,7 +3910,7 @@ done
 <a style="color:bisque" href="ipfs://QmbrQAbDoaEqpv28oTjoN1HweNZi5487nGTNMqAgxbmM9E">Dude on bisque wall: neutral.</a>
 <a style="color:mediumseagreen" href="ipfs://QmefHqXc6aEWMHAwa75HL6gBx5Qm4dPzG3rbwaZ9zELA6t">Indifferent chimp against medium-sea-green wall.</a>
 <a style="color:	olivedrab" href="ipfs://QmNqUcDGQpmUipqSy9nu3BWPm552ncu89HnthgwMUNFXkY">Gorilla against 	olive-drab field: depressed.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmS9eT6JFMFixAjDXCBjWWbsJUhFf4hFtQHrtzdpQRjM8K">	light-goldenrod behind critter appearing pathetic.</a>
+<a style="color:	goldenrod" href="ipfs://QmS9eT6JFMFixAjDXCBjWWbsJUhFf4hFtQHrtzdpQRjM8K">	light-goldenrod behind critter appearing pathetic.</a>
 <a style="color:slategray" href="ipfs://QmPLTVVZoByFDX9VBVFZM7uLbXnup7P2qoDUoEWES52BDS">Slate-gray with gorilla appearing sad.</a>
 <a style="color:rebeccapurple" href="ipfs://Qmdif2tRz8FPTja8jtPCHqNTjmNdMRJHRyPsVAwcX3iQUA">Primate against rebecca-purple field: deflated.</a>
 <a style="color:coral" href="ipfs://QmakQZeQCxW62n92Dpps89Xgd2aWqm4PQ6EP172vo1gTD2">Critter on coral background: slack.</a>
@@ -3959,7 +3959,7 @@ done
 <a style="color:peachpuff" href="ipfs://QmbmxNfwukpqjVjwr8zwkXZsfPXspqSB35BA48YALzVBJc">Peach-puff behind dude being dull.</a>
 <a style="color:steelblue" href="ipfs://QmWVuBYuXDPVhJae3o1mTM8KaatWTgLb3cu1BJsFu1hrKz">Miserable monkey by steel-blue field.</a>
 <a style="color:paleturquoise" href="ipfs://QmYk2QwmpwQTRn34eqpp8sXCtViqvGLJMXEvLv3naGXRMj">Simian with pale-turquoise wall: neutral.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmTqb84X2VhduCGR5z2nzTG9C8Se6WJT2zT6CQYWrR6P5K">	light-goldenrod behind beast being sad.</a>
+<a style="color:	goldenrod" href="ipfs://QmTqb84X2VhduCGR5z2nzTG9C8Se6WJT2zT6CQYWrR6P5K">	light-goldenrod behind beast being sad.</a>
 <a style="color:paleturquoise" href="ipfs://QmNrBVcLPHP5xnv3zqAsG6kejRLxQcNHEyhPDkbD8uYAyN">Frustrated chimp with pale-turquoise wall.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmV5hGfEoiinHR9cm97qoPhu9BdHFvmNsvjqwP4aQ23tJH">Simian on 	dark-goldenrod field: souless.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmSsvb1NzN8BZni8ZivEHTRXzQMu5DULwatWScVm2PmtZ7">Dark-goldenrod with simian appearing slack.</a>
@@ -3979,7 +3979,7 @@ done
 <a style="color:moccasin" href="ipfs://QmUGuyRS19TXWT8odFwXEvy4BwQf6gBvBGY8ptBtXNDZUH">Individual on moccasin wall: blase.</a>
 <a style="color:lightpink" href="ipfs://QmXF46GPBsyRJsDd4MHhEWPKSBpPiAEd3xjrBbka7MdpNp">Indolant individual by light-pink background.</a>
 <a style="color:seagreen" href="ipfs://QmUnycGGzMnz5fDBpDQuuxzua7Dz6tsi7R7uKurBSRbxkW">Creature with sea-green color: weary.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmSqxXW6EHMQKVXDFrCWxATDaTvhJwdUBCWLLCKAkQsB34">Disenchanted critter with light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmSqxXW6EHMQKVXDFrCWxATDaTvhJwdUBCWLLCKAkQsB34">Disenchanted critter with light-goldenrod wall.</a>
 <a style="color:seagreen" href="ipfs://QmRsf9pvDcTWQfVZdBvMhdujmUHJsU3m2TsCQSRu3B6Cm9">Dude is insipid against sea-green.</a>
 <a style="color:sandybrown" href="ipfs://QmX55YUjcpW3AnbPT6Ys75i4kxm6imKPTKsSYJK69iRfoJ">Beast looks gloomy against sandy-brown.</a>
 <a style="color:seagreen" href="ipfs://Qma8cQjz4UJe4LXAwtSTGBo75tWuukWNHArndq3noXj6pU">Sea-green behind creature - appears unconcerned.</a>
@@ -4014,7 +4014,7 @@ done
 <a style="color:navajowhite" href="ipfs://QmSesoJGFqbFrQhz3u9PfwcwJW2p5shVxicLB7SN2NwARv">Primate with navajo-white wall: depressed.</a>
 <a style="color:mediumorchid" href="ipfs://QmTc8Q5vvpsCG5DsDC19ZuZPBA7JGGFRQBja3YjMo2GXJa">Medium-orchid behind critter appearing inert.</a>
 <a style="color:coral" href="ipfs://QmUyfevK6sNeFhS69czCm2RSgAjUP7MZUEy5CydmFGLAmz">Dude by coral field: inattentive.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmT65JqYJXWBaLuEoqvynoHvgzTgj3DDG5BCYZUb1DYxwg">Light-goldenrod with beast - appears neutral.</a>
+<a style="color:goldenrod" href="ipfs://QmT65JqYJXWBaLuEoqvynoHvgzTgj3DDG5BCYZUb1DYxwg">Light-goldenrod with beast - appears neutral.</a>
 <a style="color:cadetblue" href="ipfs://QmfVmB38pNb6vE9PB6qzzgfRxbYMRLf6U9BUCmexXWjA43">Individual appears languid with cadet-blue.</a>
 <a style="color:mediumorchid" href="ipfs://QmXXXGLPngzhb5qYnZrw2ztqQf1Um7NFkaxbrtnGRR2dQT">Medium-orchid behind monkey appearing impassive.</a>
 <a style="color:sandybrown" href="ipfs://QmTDsgKkdSFRC7dedzjVXpy53erLRMzvK2GinrY3oU2icw">Individual appears frustrated with sandy-brown.</a>
@@ -4032,7 +4032,7 @@ done
 <a style="color:mediumseagreen" href="ipfs://QmUDMtKyaX8HXY3Po2tMfBtp2AAtefW86EaRqUT8oFocU1">Medium-sea-green behind dude - appears unexcited.</a>
 <a style="color:	olivedrab" href="ipfs://QmNYc8Ddkcnir6hys2S4srno6qM1ieoPwx9gb6EmQenGu7">Monkey being dismal on 	olive-drab.</a>
 <a style="color:peachpuff" href="ipfs://QmVamK2Vjzj42KDjb2s2ZYCQXuGB6RvfzbCnQ3CLcATBqs">Primate looking dulled against peach-puff.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmV9nb8Amh8NFTbnoHkpohzRXSB7x5MmudvWANoXH1a65i">	light-goldenrod with beast - appears indolant.</a>
+<a style="color:	goldenrod" href="ipfs://QmV9nb8Amh8NFTbnoHkpohzRXSB7x5MmudvWANoXH1a65i">	light-goldenrod with beast - appears indolant.</a>
 <a style="color:peachpuff" href="ipfs://QmdYs5XuAVyGRMtWbqMeRCUp6NWENjGSCU1qTSKSeK3sky">Character by peach-puff field: blase.</a>
 <a style="color:	olivedrab" href="ipfs://QmeQtYVoFfgmPwpNNXHEsBsj9cR6jkSC5s7NaioVmihhnG">Creature being vacant on 	olive-drab.</a>
 <a style="color:olivedrab" href="ipfs://QmbJWL2cbxyfCuaws4D25oCuQNAVBdqtMWhife1VqwVgUk">Olive-drab behind chimp appearing blue.</a>
@@ -4068,7 +4068,7 @@ done
 <a style="color:lightblue" href="ipfs://QmWQPyEEARv6bnwsAm8TxzHzxUQ7uiRcpZBQTsWveUToQx">Inattentive individual by light-blue field.</a>
 <a style="color:paleturquoise" href="ipfs://QmRZtb1zWV33iX8WYXt6Qpu1e4XjAaLzEiLGvkGW3o6Wg3">Creature being gloomy against pale-turquoise.</a>
 <a style="color:sandybrown" href="ipfs://QmZbEQUnJenVCNNcWv5952abTfh1BhqsUxg57hzqbBbkPH">Sandy-brown with character - appears dulled.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRtFS3X5SDm41hzUevZhFX7dz5wamKLkBtxgBEPfbtaRq">Critter is languid with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmRtFS3X5SDm41hzUevZhFX7dz5wamKLkBtxgBEPfbtaRq">Critter is languid with light-goldenrod.</a>
 <a style="color:chocolate" href="ipfs://Qma6sb6MQvdKj3EZAg9Kv3ErG5xUmUcUojajzuT6FkB3R9">Beast appears neutral by chocolate.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmdEU8EPwkmvvyme7NRhKmYktCaBQmo8Bc8UXNvABKhnWv">Critter on dark-goldenrod field: impassive.</a>
 <a style="color:moccasin" href="ipfs://QmQnYvvH5nGJ2xPNasbkki9ZNetmuPibiheKdejyM8Hgxj">Chimp looking disinterested by moccasin.</a>
@@ -4089,7 +4089,7 @@ done
 <a style="color:darkorchid" href="ipfs://QmVES97KD2V1auouTYLfMuEBbmMhTAYi8ZQ9g77soHu3HW">Dark-orchid with monkey - appears dissatisified.</a>
 <a style="color:skyblue" href="ipfs://QmWvuooF5A8hAFjEvWeqjCqGKqHTRJZmyoE6WDB31RRkwq">Blase beast with sky-blue background.</a>
 <a style="color:rebeccapurple" href="ipfs://Qmc4szpMVSTWDUBJ6ieUjTifBRAfDHjyL18vHQatE98nQf">Dead beast by rebecca-purple wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXYMEpEiPUGqywL6CGFEoKAcM68ReFenWqdKRngiSecWc">Miserable creature against light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmXYMEpEiPUGqywL6CGFEoKAcM68ReFenWqdKRngiSecWc">Miserable creature against light-goldenrod wall.</a>
 <a style="color:lightsteelblue" href="ipfs://QmaCX2a3mYi1QGHeUMAT5H8r8GkH6iyjRiwHi9Hipras93">Apathetic creature by light-steel-blue background.</a>
 <a style="color:mediumseagreen" href="ipfs://QmbPVrzu39m3XBK2QG1fotcCiLPFoL8af8obSQiSNYQftF">Dude on medium-sea-green wall: inattentive.</a>
 <a style="color:lightskyblue" href="ipfs://QmPLfypGNmZzFXLQbngv4gi1JMJQoxoJPRoREzE2EnF86c">Tired simian by light-sky-blue color.</a>
@@ -4101,7 +4101,7 @@ done
 <a style="color:lightskyblue" href="ipfs://QmPtdwRDt9L29DJBbjfrSavfoHgjzzRAE9iYYHjjvZjczm">Monkey is inattentive with light-sky-blue.</a>
 <a style="color:steelblue" href="ipfs://Qmej4suVESu6s1uMbZtpyab2wGmaMghuieVKNdDGM8rHtB">Wearied monkey by steel-blue wall.</a>
 <a style="color:navajowhite" href="ipfs://QmWMF2hoATq2G6WhDUTnC8pHh2b1Xhxf8KrYK7gKAfU6ve">Oblivious primate against navajo-white setting.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmYkZFFesRVp8Hs7myjSMuqLhpEhRMnKJDbmyc8BzeXkYU">Primate being inert on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmYkZFFesRVp8Hs7myjSMuqLhpEhRMnKJDbmyc8BzeXkYU">Primate being inert on 	light-goldenrod.</a>
 <a style="color:	olivedrab" href="ipfs://QmQCc9Jrz1ZXb3NbauEoP4qaEh2Uz93ckiwTdKNmzqmeBL">	olive-drab with chimp - appears deflated.</a>
 <a style="color:seagreen" href="ipfs://QmdeTmoHgcnEVdw3bXiZnMHsLCVv7ddCWx57J8Vf8y772T">Creature being blase on sea-green.</a>
 <a style="color:	goldenrod" href="ipfs://QmRN3xeuTBr1cHf7mvVwtrAc6KGxCF2ebrUtr99n7WPvoY">Worn beast on 	goldenrod setting.</a>
@@ -4111,13 +4111,13 @@ done
 <a style="color:khaki" href="ipfs://QmVgBujHKppEQfRkZ5quQenZDQC9Di4C5bTsGruUyhp2zo">Dude seems blase with khaki.</a>
 <a style="color:skyblue" href="ipfs://QmeJAkL22L1AXkuKzRgYZQKJY1xbs1Msf5iiNLv3wFe8dt">Sky-blue behind simian appearing unheeding.</a>
 <a style="color:paleturquoise" href="ipfs://QmWkhYQRg9S8Xf6RqY6HfQ9ybp9ipLnVnyon6eEsW7Mjb6">Simian looks fatigued with pale-turquoise.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmaLig1WWXjicnJokhnJgFm4vUkahSyEpA3duANwCJDkbR">Unheeding chimp with 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://QmaLig1WWXjicnJokhnJgFm4vUkahSyEpA3duANwCJDkbR">Unheeding chimp with 	light-goldenrod color.</a>
 <a style="color:seagreen" href="ipfs://QmctBkpKvwSqetizYRN7XQ8CNJfTAzDvP5Z77ZCZTxEQd7">Sea-green with dude appearing oblivious.</a>
 <a style="color:mediumseagreen" href="ipfs://QmRE3ub783HSCezueLGHSEZm2fCStgCKR9nYGVAjLoJknR">Medium-sea-green behind monkey appearing vacant.</a>
 <a style="color:darkorchid" href="ipfs://QmeoCyei8zTmVQRxDD6UvDsj11aqWMWdfHGrokPt4HbBzs">Languid critter against dark-orchid setting.</a>
 <a style="color:lightblue" href="ipfs://QmXf8EXhTM3wkaqriRyLkBUb8ViW6GuNvtDwnaiNMZr5er">Unexcited beast with light-blue setting.</a>
 <a style="color:paleturquoise" href="ipfs://QmYnJPtMnAjrxb7taCEAqjrAJXxGr6RSseMXCzu3e51EpC">Simian on pale-turquoise field: unimpressed.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmXS8fTRD2t9znn9UnMuwcnEkaA77X7yxtuHdbgvCQwx44">Dead primate by 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmXS8fTRD2t9znn9UnMuwcnEkaA77X7yxtuHdbgvCQwx44">Dead primate by 	light-goldenrod wall.</a>
 <a style="color:mediumpurple" href="ipfs://QmRu7FEpyezdAh2YwaQvXgf9iW3Y45TYK18YYVg2ftED7q">Primate being blue against medium-purple.</a>
 <a style="color:	goldenrod" href="ipfs://QmcwvA46et7d6gZUDoVVPod3b7ZhWxwQ631vrtWsoQ914G">Primate seems dull on 	goldenrod.</a>
 <a style="color:	goldenrod" href="ipfs://QmRVNWaMr9eFgmCGvxMJ3G2tR8y9SfWci4AMq8TYVv4rad">Critter looking apathetic with 	goldenrod.</a>
@@ -4157,7 +4157,7 @@ done
 <a style="color:darkgoldenrod" href="ipfs://QmdxsdPA7KGHhHcH4mLRkryGS5vQt2ibHe3J4UFJKHiVwt">Dark-goldenrod behind chimp appearing tired.</a>
 <a style="color:mediumpurple" href="ipfs://QmeyKZ3RDgJiNKrkjTDi9g348QB5tUfsHVPu8jorvVxinU">Individual looking gloomy against medium-purple.</a>
 <a style="color:oldlace" href="ipfs://QmS7KDfDY96phG3jcwXWPi17tPR8rZCY4CoGvmywJ6zuY8">Insipid creature by old-lace color.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmbgxqePkiZZ9CZTj4aE3VRBs19VA19VSxbLxoJBHYv88P">Dissatisified character by light-goldenrod background.</a>
+<a style="color:goldenrod" href="ipfs://QmbgxqePkiZZ9CZTj4aE3VRBs19VA19VSxbLxoJBHYv88P">Dissatisified character by light-goldenrod background.</a>
 <a style="color:mediumorchid" href="ipfs://QmREx7oqz595GJYhShZMW14dSUiJ2GjHSHJqrZ7PmrevRj">Character on medium-orchid setting: tired.</a>
 <a style="color:seagreen" href="ipfs://QmbWGuJFUMofE8cFhw4vTRcD7xcwfaCbQhjn3KX5Ym4gqQ">Sea-green behind monkey - appears neutral.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmSX58Pqx6af8gssd1gi4FaXTEjDaDiFHrpAPDFffkKHoh">Monkey on dark-goldenrod wall: spritless.</a>
@@ -4232,7 +4232,7 @@ done
 <a style="color:oldlace" href="ipfs://QmUK9cmc74ZhXmEMoYeEDcxcmPAr2Ywc2iqBFipTP5z4rS">Dull character with old-lace field.</a>
 <a style="color:lightblue" href="ipfs://QmTjPRn58NnJbhS9HvS4ZAMWMB2MyoEVbeSA8dipQcGV5N">Light-blue behind character appearing oblivious.</a>
 <a style="color:seagreen" href="ipfs://QmSMuDwvoLAhXdwkPLvHbQP8bYBBa1ikx2oQdaS1W3Qnhp">Dude looking torpid on sea-green.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmWEoqR7fv3ERYkHMEDnoF9gxnNXL8DsdxVW9zUozZPdTy">Dude looking impassive on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmWEoqR7fv3ERYkHMEDnoF9gxnNXL8DsdxVW9zUozZPdTy">Dude looking impassive on 	light-goldenrod.</a>
 <a style="color:paleturquoise" href="ipfs://QmTBTBFLDavRatXnKr4LuL9aXtVYHmkr34F6r741mszyDu">Primate on pale-turquoise field: down.</a>
 <a style="color:snow" href="ipfs://QmSATJN3pu52gcjtu2ApucY2dju8aa9NxEBvXg1aYTDqsr">Individual is unheeding against snow.</a>
 <a style="color:darkorchid" href="ipfs://QmT6FdMXEEcrcn6B3pmZSUdaV7qBZxnxdsJpNfbAG5xkUV">Individual seems worn with dark-orchid.</a>
@@ -4293,7 +4293,7 @@ done
 <a style="color:powderblue" href="ipfs://QmcHBSAzUvbN8FMUvxko6CkPUCRBuaLXaCAzbAPBWCXbBb">Disenchanted primate by powder-blue background.</a>
 <a style="color:sandybrown" href="ipfs://QmNo68FKR9tyGPgR1w8KfqmieUZaHdpyPYU8gzNYra6ZTm">Simian by sandy-brown setting: slack.</a>
 <a style="color:paleturquoise" href="ipfs://QmSbQsZoLmVhXwWSj26QYtCM8Npg38USeHwfuy8DrCDQnX">Individual looks languid against pale-turquoise.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmfTsEdeEFGBz5RoVz1NNK7s6AfB2heuTN1tnvgJkXk6mX">Light-goldenrod behind creature appearing sad.</a>
+<a style="color:goldenrod" href="ipfs://QmfTsEdeEFGBz5RoVz1NNK7s6AfB2heuTN1tnvgJkXk6mX">Light-goldenrod behind creature appearing sad.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmXYuxgWCyuMJPZpjYKjKqXEPfq6V8uBnHELZXpXBSf97v">Indolant chimp against dark-goldenrod background.</a>
 <a style="color:goldenrod" href="ipfs://QmcP8nsbwvhuVeqyrnoJEzmGdWmdEo6gd3jeFKv38BWNFH">Goldenrod behind dude being slack.</a>
 <a style="color:slategrey" href="ipfs://QmfQ86Akbrguio4d7PebXSrFZgutnwRtcmRsAoQ3GNuBH5">Unexcited primate with slate-grey setting.</a>
@@ -4370,7 +4370,7 @@ done
 <a style="color:darkorchid" href="ipfs://QmabhUqg85TuzteSaicGTvyXLG6CinAbgxZv1X531BEBHA">Critter seems dismal with dark-orchid.</a>
 <a style="color:rebeccapurple" href="ipfs://QmXaeXmP8wEF6BnuekZjqgnTATurBdCJy1QbqTUUscpjxj">Rebecca-purple with simian - appears fatigued.</a>
 <a style="color:palegoldenrod" href="ipfs://QmRa9swC4JcP9y6jvk3qzwYtMw9iSUUuuARcLehEk8F8xj">Character with pale-goldenrod wall: insipid.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPS55qcqVvCZqjF3UN529tctzuUwV2DL7j94QkMhvBxvZ">Light-goldenrod behind primate appearing vacant.</a>
+<a style="color:goldenrod" href="ipfs://QmPS55qcqVvCZqjF3UN529tctzuUwV2DL7j94QkMhvBxvZ">Light-goldenrod behind primate appearing vacant.</a>
 <a style="color:floralwhite" href="ipfs://QmU41qUrvhnnDEJ1iuwBjCVvi2eETC5KKkjqacXae8jugy">Floral-white behind gorilla being glum.</a>
 <a style="color:slategray" href="ipfs://QmdtHH981436PmX9jhz6nnNFUSWrB8QLFiavwaccoktJDj">Character by slate-gray field: dead.</a>
 <a style="color:ghostwhite" href="ipfs://Qmbijgmi1APqH2UaMVPkwoAKyNiBEHUjap54s3MAifKta6">Chimp appears souless on ghost-white.</a>
@@ -4396,7 +4396,7 @@ done
 <a style="color:lightblue" href="ipfs://QmTjzcgRB7Hizxa2cryZKjTi2xZ4LcDh2tCkKxi2ZXcykj">Critter by light-blue background: pathetic.</a>
 <a style="color:coral" href="ipfs://QmRDr73fhxiMJBXKwZiGLVxYqjeqSm4esUb4t5c4nxSrsi">Coral with primate appearing disinterested.</a>
 <a style="color:olivedrab" href="ipfs://QmUnTMD2ARzf2rurw7D2Kc8kwiobFdUCCWykAYQQYHkrPF">Chimp on olive-drab setting: dulled.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmYryo1adYmiEsdJPJtoveMjjH627Wytn9EfjDZ5LyESQH">Pathetic character on 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://QmYryo1adYmiEsdJPJtoveMjjH627Wytn9EfjDZ5LyESQH">Pathetic character on 	light-goldenrod color.</a>
 <a style="color:paleturquoise" href="ipfs://QmYJkxa7CqibmscCPAgrNPg4dTsqvj7Y67KxBbFCaT2hFT">Down gorilla with pale-turquoise background.</a>
 <a style="color:seagreen" href="ipfs://QmdWoAe7WHa1ZxmhEVmFs8E5yhfG3cqMVdxpBV7ExMX2zd">Gorilla being dulled with sea-green.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmWajNMp6bMgUnaax184P6y7QBs7keC66sHQ9FsG4tABQJ">Dark-goldenrod behind simian appearing dull.</a>
@@ -4424,7 +4424,7 @@ done
 <a style="color:seagreen" href="ipfs://QmR3zDV8yn6N6Qg2khWzRtmjidYyowk4L7voxEKRVJL76o">Sea-green with individual - appears blue.</a>
 <a style="color:seagreen" href="ipfs://QmUaVzFG4S5y7zwDkMxKKJGUuSpjg5qRB4XXuPR4FYYGuA">Individual on sea-green wall: languid.</a>
 <a style="color:rebeccapurple" href="ipfs://Qmb8VRkz4Ygrcr1AJaPdeH2tiPY9Pmdbg6d9AoedRz2Mx8">Primate looking vacant against rebecca-purple.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmfKMGB44r2XYMdybSgaeiesZudb95VTpLgRpt31N5TQQc">Light-goldenrod with critter being frustrated.</a>
+<a style="color:goldenrod" href="ipfs://QmfKMGB44r2XYMdybSgaeiesZudb95VTpLgRpt31N5TQQc">Light-goldenrod with critter being frustrated.</a>
 <a style="color:peru" href="ipfs://QmdzPthFZXDqHT891nm8y5Rm4ZbnpLoaUXHCSNvDgQXmRa">Gorilla looking disinterested against peru.</a>
 <a style="color:coral" href="ipfs://QmYxQMzf2zvp48QJRWcPNGWsMiVstMTtVA74zbCZUQ9FsG">Unexcited critter against coral field.</a>
 <a style="color:palegoldenrod" href="ipfs://QmRdgKDNeKUbYGPvmBBbUq6gPGPQ72ZHA5SbcQBUnqXexs">Dude seems unheeding with pale-goldenrod.</a>
@@ -4434,7 +4434,7 @@ done
 <a style="color:navajowhite" href="ipfs://QmYJZoRobBY4pXxaxRZktH9K5gPWaNxBpTJyQtcBuPSRFu">Navajo-white with creature being depressed.</a>
 <a style="color:seagreen" href="ipfs://QmTDcn13BrRy7arcPVSMmmijS2tLgfj7m5aqioCzkkVGcx">Individual looking fatigued with sea-green.</a>
 <a style="color:steelblue" href="ipfs://QmaK6khxMnG2cddBLpsxidwYEfzcD6XX1oVpTrDHBuu76U">Creature on steel-blue wall: inattentive.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZrdpmTJAKu4Yocrhx6zQG4ByVhKP5bACnSGCU3BRNv5r">Light-goldenrod with monkey - appears miserable.</a>
+<a style="color:goldenrod" href="ipfs://QmZrdpmTJAKu4Yocrhx6zQG4ByVhKP5bACnSGCU3BRNv5r">Light-goldenrod with monkey - appears miserable.</a>
 <a style="color:powderblue" href="ipfs://QmcSY6LKVkEe6YSedP74eescDV7t1zZGHHcPr3FA4t7PD9">Simian against powder-blue color: languid.</a>
 <a style="color:cadetblue" href="ipfs://QmPx62W1XzTRi1FPvTgRspyo2nsk2dQJhSziVSEoonUcE4">Cadet-blue with creature appearing disinterested.</a>
 <a style="color:olivedrab" href="ipfs://QmQgai418JY5R8Et6V2qZwkVbrd5pEQAdFJ3qCATDgu3jS">Inert gorilla with olive-drab setting.</a>
@@ -4527,7 +4527,7 @@ done
 <a style="color:paleturquoise" href="ipfs://QmXTsfqfLQMMZM4LBJG4stwqBqBUzUzxkR2SMAKJux2vJg">Gorilla against pale-turquoise wall: impassive.</a>
 <a style="color:darkorchid" href="ipfs://QmNs41r2B4cPmzesoR6ML3c6Ng6YNZ9Z4JC3j2ssu8YnNa">Creature on dark-orchid field: unimpressed.</a>
 <a style="color:lightseagreen" href="ipfs://QmZteqGEJur81DVWjjVoyafMdqu9LAyvjJgBXy1U6d7Vjt">Light-sea-green with simian being unconcerned.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmcwQ3u9RXQLi62oXe23KyAKY6CgiuiZ3A2A8aSU4WwK2f">	light-goldenrod behind individual being dulled.</a>
+<a style="color:	goldenrod" href="ipfs://QmcwQ3u9RXQLi62oXe23KyAKY6CgiuiZ3A2A8aSU4WwK2f">	light-goldenrod behind individual being dulled.</a>
 <a style="color:peru" href="ipfs://QmTZtS7TebzGF4ZKCrB38MvTGRCWPTP3w6Sr9aytGqDhfh">Character appears worn with peru.</a>
 <a style="color:rebeccapurple" href="ipfs://QmPpEj8NsASN2UutkFmorzurLFynUJGhupb4AGbBQUDWRg">Gorilla on rebecca-purple field: jaded.</a>
 <a style="color:peachpuff" href="ipfs://QmcpmT6UyDtPFTowtfErUjr9j2seMXTWP4qJie3rrQMBau">Creature with peach-puff setting: indifferent.</a>
@@ -4586,10 +4586,10 @@ done
 <a style="color:seagreen" href="ipfs://QmSVGB8nMf7Rn1fMZcQgRTen3FSWUeigZxjyx6qNhQzBXe">Simian on sea-green background: unconcerned.</a>
 <a style="color:seagreen" href="ipfs://QmRbNyq78mPkq69mDeaSs32jZ3kBhZ5bcQLa8pipmFK96J">Pathetic critter by sea-green wall.</a>
 <a style="color:mediumseagreen" href="ipfs://QmUcbmWussyScFm8p7hmjwsDY2kcDFNF33nxfRrLvnAWgv">Medium-sea-green behind monkey being sad.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmSEH4U5mykEsYiWjspS6QtCu4PrnemtvuL4E3ReB1PrKx">Chimp on 	light-goldenrod field: dulled.</a>
+<a style="color:	goldenrod" href="ipfs://QmSEH4U5mykEsYiWjspS6QtCu4PrnemtvuL4E3ReB1PrKx">Chimp on 	light-goldenrod field: dulled.</a>
 <a style="color:goldenrod" href="ipfs://QmetVMWXu6WxbyJMrLcQxnmUYTzrkN8urbnz9pX8YxntLo">Goldenrod behind beast appearing uninspired.</a>
 <a style="color:sandybrown" href="ipfs://QmfVZ8DRGgrRKnwDjoAgWgmQ1ajQB1fEpMNHAgd9ymEfpR">Beast is spritless against sandy-brown.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmU59EewTTVoFRj45PKFi5pNzwH1M231mfRC4USV4WwzhM">Light-goldenrod with chimp appearing apathetic.</a>
+<a style="color:goldenrod" href="ipfs://QmU59EewTTVoFRj45PKFi5pNzwH1M231mfRC4USV4WwzhM">Light-goldenrod with chimp appearing apathetic.</a>
 <a style="color:mediumseagreen" href="ipfs://QmTDA4eRY86tcDiFkSx3R296Sxxj3pwa6wx3xrY2HBjb8g">Medium-sea-green with primate appearing impassive.</a>
 <a style="color:coral" href="ipfs://QmYYYNp8eyxMViGf4WtCbbPZQxk7ycDdBHUMnDB8CRnpBB">Coral with monkey appearing dismal.</a>
 <a style="color:powderblue" href="ipfs://Qma62DKFPZF8hqJALR5LQ45C5si5g49cxtp4Wx5sHsbaKd">Vacant creature with powder-blue color.</a>
@@ -4615,7 +4615,7 @@ done
 <a style="color:lightblue" href="ipfs://QmNyRtj7KFv3PPm1RFrasGpon8JJXPNKRTdJbTwK87NjUx">Dude against light-blue color: uninspired.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmTAEHyuTKASjUFQEc2F7Vp1VSyhTD6vXMxkrmcZ1LP7Ck">Chimp appears indifferent with dark-goldenrod.</a>
 <a style="color:mediumseagreen" href="ipfs://QmTFxVd2NnJUUsjrDx3aQaXxkGkU7QDWMyiZuYbUY21WUY">Beast on medium-sea-green background: languid.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmNo3sNLhZSNy8D5dUzrQuneLFDkTGUKWTXk4T21QnhxiT">Unconcerned gorilla on light-goldenrod field.</a>
+<a style="color:goldenrod" href="ipfs://QmNo3sNLhZSNy8D5dUzrQuneLFDkTGUKWTXk4T21QnhxiT">Unconcerned gorilla on light-goldenrod field.</a>
 <a style="color:powderblue" href="ipfs://QmPBco5uqUiFThkDZJ5crJMfvLLes5T6Fp8iGhLP3vLv56">Gorilla against powder-blue color: frustrated.</a>
 <a style="color:bisque" href="ipfs://QmVCLaiSKkhACLn2gBKg47Bs6c2XCTs22ZWC3GtegbaBAo">Bisque behind gorilla appearing tired.</a>
 <a style="color:rebeccapurple" href="ipfs://QmajPkT87grF39R18A3KFd7eH7gSvB4HqGVXj7QmgzR3yn">Rebecca-purple behind monkey - appears wearied.</a>
@@ -4649,7 +4649,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmZqVuEPDUk5h1WAihaBJDRLkUBip8gKhHSLt9jyLNxjBx">	goldenrod with critter being jaded.</a>
 <a style="color:mediumvioletred" href="ipfs://QmVxkx27tQRzfhrHzm9BJpcftTB9V7LWazgkXitu3Kmp9X">Medium-violet-red with beast being oblivious.</a>
 <a style="color:seagreen" href="ipfs://QmRAiySfgPfQk3K8LyHRxfgq8VdoGZ2y11ujYaZFYydMsW">Gorilla looking unexcited with sea-green.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmVgYopq7bGN8X8Q9cHBoEQ84rhw6CCWGGqcixaj7NtUuF">Light-goldenrod with critter being tired.</a>
+<a style="color:goldenrod" href="ipfs://QmVgYopq7bGN8X8Q9cHBoEQ84rhw6CCWGGqcixaj7NtUuF">Light-goldenrod with critter being tired.</a>
 <a style="color:olivedrab" href="ipfs://QmYmy8PeA1hgnrWTKYZoPU2kACrjF4zYiSCeXfuqzhSfJF">Simian against olive-drab color: dissatisified.</a>
 <a style="color:ghostwhite" href="ipfs://QmagwYatUjSzc5SbDCrSeypF6Ep4HiAkAYVwqgDgMCEMa4">Pathetic simian with ghost-white background.</a>
 <a style="color:seagreen" href="ipfs://QmQAZKY6f6MjW85Ewxp4bweFr16pJXGFdo4rqsoBEEAWXi">Oblivious individual against sea-green background.</a>
@@ -4691,7 +4691,7 @@ done
 <a style="color:paleturquoise" href="ipfs://QmZSdRKdkVNKZtU9xBFByQWA3vF9evDYivGfGqMcRCdi8A">Simian looking apathetic against pale-turquoise.</a>
 <a style="color:lightseagreen" href="ipfs://QmZuc79T8gjVVaD76K8dhJJLeXHQDy7Cfha82RVr5ed58t">Gorilla on light-sea-green setting: apathetic.</a>
 <a style="color:sandybrown" href="ipfs://QmT15v8u1DiDDetFUXz3wCn2piTLws7VPsV6P4Aqch1rth">Critter with sandy-brown background: fatigued.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYY4VSssJyR1tg5Yt1TVmKACBywLQTgn6fwVeLTfbUpif">Gorilla on light-goldenrod wall: dead.</a>
+<a style="color:goldenrod" href="ipfs://QmYY4VSssJyR1tg5Yt1TVmKACBywLQTgn6fwVeLTfbUpif">Gorilla on light-goldenrod wall: dead.</a>
 <a style="color:paleturquoise" href="ipfs://QmZpGsRwqbWR6Q7Y41DQSXsty9gFs3j8EHeAczzHJMiyoA">Pale-turquoise with gorilla being indifferent.</a>
 <a style="color:mediumorchid" href="ipfs://QmccjVqnTzk7KFAABkeAftgJq5X6ksCcXjMbiCwd9BubT2">Indifferent dude by medium-orchid color.</a>
 <a style="color:	goldenrod" href="ipfs://QmYVFysLmQQXGBofxKXytZ2bbGfXMpdGAsiHSeoRMhpRZS">Individual appears souless against 	goldenrod.</a>
@@ -4805,7 +4805,7 @@ done
 <a style="color:seagreen" href="ipfs://QmNSr21WgZzE4Vt4fFw5u6WCKKJc2JDYWFMH9UPZRMyBbL">Individual against sea-green color: wearied.</a>
 <a style="color:lightseagreen" href="ipfs://QmavwZZLUcudbdBidTivN7pQTyyZKdmXXbYv4Z7vPjaBMa">Dude seems souless by light-sea-green.</a>
 <a style="color:	goldenrod" href="ipfs://QmbAEXjwwd8LGbxSGM8xAa8mGJQZmxfsJ9JZEb2wcWvrkr">Primate looking miserable against 	goldenrod.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmXA9VUvMwYhZq2XeMb42L531jLnzcXZ6mYYaAw66egBUR">Slack individual on 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://QmXA9VUvMwYhZq2XeMb42L531jLnzcXZ6mYYaAw66egBUR">Slack individual on 	light-goldenrod color.</a>
 <a style="color:peachpuff" href="ipfs://QmSFo5nv5hZHznGtG87kjQmYdh82zvboyVdqjxkT4w7YkG">Peach-puff with chimp being down.</a>
 <a style="color:peachpuff" href="ipfs://Qmc4xVv29kEteKJoK8MvWvksjJVv4wsFFbpCJpGxe3nshV">Souless primate by peach-puff field.</a>
 <a style="color:lightblue" href="ipfs://QmRX6ceNMNv7iXxSVuzBXJK31uHjf5KtpQUTiHYUP7nkrn">Oblivious individual on light-blue field.</a>
@@ -4936,7 +4936,7 @@ done
 <a style="color:	darkolivegreen" href="ipfs://QmWeZfzk51Ya3xsvzdh7cb2yinHRy45RUnm5FumtXLEBnB">Gorilla appears impassive on 	dark-olive-green.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmYuZ4zf8Zc2dJtwZ4j9EYwE8bWrg95YHk1n9eJopYc5wU">Slack beast by 	dark-olive-green setting.</a>
 <a style="color:chocolate" href="ipfs://Qment6F42AJmBvCUj67pQ2H3JWoMNhZ6ekY2zw7dt2Re64">Character appears unconcerned against chocolate.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYNjEjCjbPrcRhgc88TZJirPpQFAaGt1xKg8umU945VpP">Light-goldenrod with beast appearing pathetic.</a>
+<a style="color:goldenrod" href="ipfs://QmYNjEjCjbPrcRhgc88TZJirPpQFAaGt1xKg8umU945VpP">Light-goldenrod with beast appearing pathetic.</a>
 <a style="color:cadetblue" href="ipfs://QmSv45xAgtFmS7a6t2DeZxUzqCMPaD7y2xbPCujHwkzqST">Cadet-blue behind simian - appears unconcerned.</a>
 <a style="color:seagreen" href="ipfs://QmRaxm3rkJGf6wP3kEcrVdTCxchN2pCkrrKU5Jnc6HYuGx">Primate with sea-green background: glum.</a>
 <a style="color:steelblue" href="ipfs://QmSjY6p7DDgVuGNncrTQJQpsoSNxaSLY3QQ8sTz9xBT2Yy">Monkey looking torpid with steel-blue.</a>
@@ -4961,7 +4961,7 @@ done
 <a style="color:seagreen" href="ipfs://QmZjhoUE4H1yjJCpK6uv29n1AvFYT4yx5N3xeatctwr1zc">Gloomy chimp against sea-green background.</a>
 <a style="color:olivedrab" href="ipfs://Qme8zLMjss4pZewTZe4DB8NceQtfbmUR8pHEFVNwiaWR5B">Character against olive-drab setting: wearied.</a>
 <a style="color:lightslategray" href="ipfs://QmQqhjYA4k5adji6ssKmmJzJWatqXYwo8za4xxLfBiGRA3">Chimp by light-slate-gray field: blase.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXYmQYve9qgz2W25WmgD2sLw3t3m4zaTVLQqA961DRtTJ">Dude is unexcited on light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmXYmQYve9qgz2W25WmgD2sLw3t3m4zaTVLQqA961DRtTJ">Dude is unexcited on light-goldenrod.</a>
 <a style="color:navajowhite" href="ipfs://QmdfS5L9mRaLc7k35UPvz94LDsbWuxHxQ5i8AWsMUDaa2d">Navajo-white with chimp being glum.</a>
 <a style="color:lightskyblue" href="ipfs://QmStXmKamQ4cnAY5T99ufXk37MHcuLGcijDQcJZQ9CQ4iJ">Creature appears indolant by light-sky-blue.</a>
 <a style="color:goldenrod" href="ipfs://QmXunruVBgJ1Qgxioqs2x9npZvmWuQdmuySsyozLwyMtKa">Simian seems frustrated against goldenrod.</a>
@@ -4985,7 +4985,7 @@ done
 <a style="color:steelblue" href="ipfs://QmVaqofKyVBau9UFRo59EvfSY2p2GyDs2hFMiuEGpK1LA9">Steel-blue with critter being miserable.</a>
 <a style="color:lightseagreen" href="ipfs://QmTWVEcBLmkys3ZvkstsfgcCRDvqKZ5k3Zxrkutd8KPFQ6">Monkey by light-sea-green background: unheeding.</a>
 <a style="color:pink" href="ipfs://QmZf1gkZsYbvnqxNoX2yU4GSXpfFJgVnhwhimvCX4kSe1D">Chimp looking inert with pink.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmbxedJB63sLLB1sRpixKb9uSAgNWKZxRRmzAvGmFEFhVV">Chimp looking disenchanted on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmbxedJB63sLLB1sRpixKb9uSAgNWKZxRRmzAvGmFEFhVV">Chimp looking disenchanted on 	light-goldenrod.</a>
 <a style="color:lightskyblue" href="ipfs://QmShzzm6Vr9EAL5Z27VAq9BrnrQU5qhkZwHXusMsK9h7Cm">Light-sky-blue with primate being unexcited.</a>
 <a style="color:lightblue" href="ipfs://QmScbynniQ26o25AURaJL72WdfYPt1FWT3gRECfWBM6xUs">Beast with light-blue field: disenchanted.</a>
 <a style="color:lightblue" href="ipfs://QmWhtpd7Eqx7kFRV8jsSBHahXZuoobXvRrk2mi6w9upkMU">Light-blue behind simian being sad.</a>
@@ -5016,20 +5016,20 @@ done
 <a style="color:ghostwhite" href="ipfs://QmPeUm7Av3EYRFd263E9EWhhmtyMANChLEMUcBbrcwHtNg">Disenchanted dude against ghost-white background.</a>
 <a style="color:dimgray" href="ipfs://Qmce48WgSd86prof4ELMzeyar3SAq4Bcn6W2Ppeursiwjn">Creature on dim-gray wall: frustrated.</a>
 <a style="color:powderblue" href="ipfs://QmUgPjzPkqyJzUz9wbaU2UvpTf2SbFG9rfkhuUHRe2pEBT">Individual against powder-blue color: dull.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmTntfjtffwdikQ4BoWvmJ7izRVjENC2C7ct3R7qX5CAez">Dude with 	light-goldenrod field: inattentive.</a>
+<a style="color:	goldenrod" href="ipfs://QmTntfjtffwdikQ4BoWvmJ7izRVjENC2C7ct3R7qX5CAez">Dude with 	light-goldenrod field: inattentive.</a>
 <a style="color:navajowhite" href="ipfs://QmYErpKQqncoVzKoCwc6nRyCgmWp7ZtgC4Cp9BMsGL7Uy6">Sad individual against navajo-white wall.</a>
 <a style="color:floralwhite" href="ipfs://QmWE2Lxq6urZu7DPuHuiMiWUNDk44bfyYpntAeWf2kkdkr">Impassive simian against floral-white wall.</a>
 <a style="color:paleturquoise" href="ipfs://Qmbv2gr8FHMY5PeyVVSFzwMJZUP3GADUHakaDkS8kvbDDV">Character being indolant with pale-turquoise.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPu2X5L3f9PcrYzA1FEh73jhgTWbUTBYPGz8epBoFhsBc">Vacant beast against light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmPu2X5L3f9PcrYzA1FEh73jhgTWbUTBYPGz8epBoFhsBc">Vacant beast against light-goldenrod wall.</a>
 <a style="color:rebeccapurple" href="ipfs://QmNYcEo24B5bNvmnzV6N9nTuBxbCeFVKrGEKJhJYDndPHR">Spritless critter on rebecca-purple background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRr6aHthbBKsmD68Sx2bDtM5BNJEPr4GFMe9BiXo1NZae">Light-goldenrod with chimp - appears frustrated.</a>
+<a style="color:goldenrod" href="ipfs://QmRr6aHthbBKsmD68Sx2bDtM5BNJEPr4GFMe9BiXo1NZae">Light-goldenrod with chimp - appears frustrated.</a>
 <a style="color:cadetblue" href="ipfs://QmT4YaUzWm8qL7BXHecNgtYYbgeQaC6wwJkk5yVsbvnF6U">Creature appears neutral with cadet-blue.</a>
 <a style="color:lightseagreen" href="ipfs://QmR3S2tMbd1LMwT78PQ1f6V2T3Riq17TLrFbV2yUtGCbjk">Light-sea-green with primate being unimpressed.</a>
 <a style="color:paleturquoise" href="ipfs://QmaUXGH7ACCQfb3Bs7AP9t3m2fq4n8LFuCCm5hYgnFvPW6">Individual against pale-turquoise color: sad.</a>
 <a style="color:powderblue" href="ipfs://QmRfWoGBCQZ1AkbW7p3KCBfxSH2DF3Rmirtr2Tn3D5KpzA">Powder-blue with primate - appears unheeding.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmfBTswSbzMrFprLJdBnCFhpGBviVDFC3jJLFHTV3mkHqT">Individual by dark-goldenrod color: weary.</a>
 <a style="color:	khaki" href="ipfs://QmVRHadVjMhdTcoVzpDwXTHzQtSXddJEQfT3QnwGSoRnyP">Critter looking disenchanted against 	khaki.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmNYfUB6FXApMovAvZBJ6dUeBHZRPWn68dnYMRwk97o2vy">Beast on 	light-goldenrod background: dull.</a>
+<a style="color:	goldenrod" href="ipfs://QmNYfUB6FXApMovAvZBJ6dUeBHZRPWn68dnYMRwk97o2vy">Beast on 	light-goldenrod background: dull.</a>
 <a style="color:steelblue" href="ipfs://QmX6BzKvpkR5vorHhP4rZYFjEXxCD3jwzE2Bj3n7CTuuEP">Slack monkey with steel-blue color.</a>
 <a style="color:sandybrown" href="ipfs://QmciYePQDQD3tznFe2mvhU1z8PDiZdS9SnBTgABgVgh4di">Individual on sandy-brown background: unexcited.</a>
 <a style="color:seagreen" href="ipfs://Qma4kVuSoNDy9ZGvbRAN7s2Z65JLCYpRgHgrD1EsWSvnqq">Dissatisified gorilla with sea-green wall.</a>
@@ -5040,7 +5040,7 @@ done
 <a style="color:oldlace" href="ipfs://QmWDP4B7QCMmDyvq1ZxnpvqppfkRBCcRMRtxAYUmNgxEwz">Chimp on old-lace color: indifferent.</a>
 <a style="color:seagreen" href="ipfs://Qmeqf9F6YRRHGWudh6hLRKiPYNqo49Vcfg3TyQdtP9kaKf">Simian is inert against sea-green.</a>
 <a style="color:steelblue" href="ipfs://QmZhoN3rRrGteBCigtWCQ5iygm8tHKofHz3ddZydmp67xC">Steel-blue with critter - appears blase.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmTeMuCbXRK9ZLyeQE6B5GywioybsadnDd9htJi9Vg6ndF">Chimp is fatigued on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmTeMuCbXRK9ZLyeQE6B5GywioybsadnDd9htJi9Vg6ndF">Chimp is fatigued on 	light-goldenrod.</a>
 <a style="color:floralwhite" href="ipfs://Qmbtfy4Cna5goAWq6N76LvEGzw2XZMZtfn8J3o2qmwPGMF">Character against floral-white background: torpid.</a>
 <a style="color:peachpuff" href="ipfs://Qmds7AHKhzK3CG2KCqEDoJRG7D3XzdgtzjAXfZV9vUSDHD">Chimp against peach-puff field: dead.</a>
 <a style="color:skyblue" href="ipfs://QmWVNJFQcBh3kiEvLBjW7JKPsLadMSVtHMGP68a7nojLU8">Beast appears disenchanted against sky-blue.</a>
@@ -5054,7 +5054,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmRH8cspHWbU3QX14Yn8KJeg55Ru6G6DmzpSmkhf5J1SmT">Oblivious character with 	goldenrod background.</a>
 <a style="color:lightskyblue" href="ipfs://QmeEW9SE9EYbQaiKdzpn1PVvR4XEZZTBegQfy2uVZk18ma">Simian looks unconcerned by light-sky-blue.</a>
 <a style="color:	navajowhite" href="ipfs://QmRFxbYQ3NvnmgK5AzSvvPX9KyjezzSJt7Wk7eHzGHnu4k">Gorilla is depressed against 	navajo-white.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZTuQjquFSReV522idHbMd5Ri5jgcQdY4mSGcDCzseegB">Chimp with light-goldenrod color: inattentive.</a>
+<a style="color:goldenrod" href="ipfs://QmZTuQjquFSReV522idHbMd5Ri5jgcQdY4mSGcDCzseegB">Chimp with light-goldenrod color: inattentive.</a>
 <a style="color:	khaki" href="ipfs://QmTZWyu5NJAepRQcvFivje8MfMP7rseq6fzoZDm9ZXBs1m">	khaki with primate being blase.</a>
 <a style="color:dimgray" href="ipfs://QmdLrk1YQ8ygAxSye8rbtKdo9W7N3Df2ye1FCXPrMYrFcj">Dim-gray behind beast appearing jaded.</a>
 <a style="color:peru" href="ipfs://QmNwSio3x5cLMfXyoFY32R369dDKSFx7zrt5HQJUpnZati">Dude by peru setting: unimpressed.</a>
@@ -5177,7 +5177,7 @@ done
 <a style="color:seagreen" href="ipfs://QmeLMVB2LfCSQEymmMuJ6QikZJwES3HFXSEuS5HvfWCSx4">Primate by sea-green background: vacant.</a>
 <a style="color:paleturquoise" href="ipfs://QmezB9HfYQDFxN6XJDqHxStFoM5KaHJSh8r9Bn89Pci7Kh">Monkey seems down on pale-turquoise.</a>
 <a style="color:powderblue" href="ipfs://Qmb6HjzAmkyyeZPyEfqmSsuMJPV3LniNX9chQAo3vmX8fL">Powder-blue behind critter appearing souless.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmPnoMssmFTvYXTZSs9CELXP2zsMDVGBRgmyefcMA51wUZ">	light-goldenrod behind primate - appears inattentive.</a>
+<a style="color:	goldenrod" href="ipfs://QmPnoMssmFTvYXTZSs9CELXP2zsMDVGBRgmyefcMA51wUZ">	light-goldenrod behind primate - appears inattentive.</a>
 <a style="color:olivedrab" href="ipfs://Qmarw263WTdgqtZ7rZ4LBtEoWC7ihFikSUoggtavcCHsYg">Olive-drab behind monkey appearing indolant.</a>
 <a style="color:dimgray" href="ipfs://QmXC2njteUp5Fz9E69GmjjH13Bf5Xnv5rbF6y31JcL9UKg">Dim-gray behind dude - appears uninspired.</a>
 <a style="color:	darkolivegreen" href="ipfs://Qma3uZ7uMHDkD6KXVCEag13vPuBkyjoxuoLvVrECVhmyYj">Monkey on 	dark-olive-green field: fatigued.</a>
@@ -5213,7 +5213,7 @@ done
 <a style="color:oldlace" href="ipfs://QmbkqqaDARDCRMMcqqUi1GVKsqN9kZ4EhHcnq8HBZRzeXr">Chimp seems unconcerned by old-lace.</a>
 <a style="color:goldenrod" href="ipfs://Qmd7REX9BvY1QMGTvg1RLnmFUJJuPckA1zunUq84sFB5J9">Primate with goldenrod background: dismal.</a>
 <a style="color:slategrey" href="ipfs://QmYpYoyT65hsAmPhaatdBMPHcLyov4KaHUySvM9iciTAkt">Creature with slate-grey color: vacant.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmNPXVYfwRKEXvoLHFGAV1DSSuwfuDrhhKkK5XxNb3dkD5">Critter looks deflated on light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmNPXVYfwRKEXvoLHFGAV1DSSuwfuDrhhKkK5XxNb3dkD5">Critter looks deflated on light-goldenrod.</a>
 <a style="color:	goldenrod" href="ipfs://QmbFwcBPTJCH1UvGDf6dWR64p4kvHQHCCKK4fC5fvDJhZ2">Gorilla against 	goldenrod wall: uninspired.</a>
 <a style="color:powderblue" href="ipfs://QmTM5tVa8pAZKgmtxqbf92H4YtvUJK4aLqZkWMTKb5iBdB">Gorilla by powder-blue setting: neutral.</a>
 <a style="color:navajowhite" href="ipfs://QmdfHX5LVzXc6zo7cRsF69YGdyAUtPdEbbKBDZwj9Rdd1P">Navajo-white behind monkey being dissatisified.</a>
@@ -5315,7 +5315,7 @@ done
 <a style="color:steelblue" href="ipfs://QmUoC14QfynwF3LYumSrcWYshyhivUYSRZ1Qz6rat5UkvW">Slack primate on steel-blue background.</a>
 <a style="color:seagreen" href="ipfs://QmNiMLbeG7mG2iEn97W4bkg6VD5dHUnAsmXVR8f9Wcph12">Sea-green with chimp appearing jaded.</a>
 <a style="color:seagreen" href="ipfs://QmaxeReDRWEvrbGd5tBP4ijeoAG7pvDhMYvKzYbFY2pZwL">Neutral dude on sea-green color.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmQuCtNoNGxE89zF4zn7EAacsCdcYfztfSFdwBNQrmTwnx">Light-goldenrod behind creature - appears oblivious.</a>
+<a style="color:goldenrod" href="ipfs://QmQuCtNoNGxE89zF4zn7EAacsCdcYfztfSFdwBNQrmTwnx">Light-goldenrod behind creature - appears oblivious.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmVJtpQG7ELvkBhHVepdKeHXfB5GHtsDMwnXaLfPr4U89c">Gorilla looking uninspired on 	dark-olive-green.</a>
 <a style="color:slategrey" href="ipfs://QmTu1GUt5LqBdV6emmzZpZu2rBaR7n9SWYXQarW8kwGsJ8">Slate-grey with dude appearing indifferent.</a>
 <a style="color:ghostwhite" href="ipfs://QmbmekDcUsACgzdLmBCG3UFaodUWdii41rRVTTZLavLBbb">Dull simian on ghost-white field.</a>
@@ -5347,7 +5347,7 @@ done
 <a style="color:paleturquoise" href="ipfs://QmRQpAcmzndWdHz2V2GDsmCmawoEB1bKBwyFFKEWv3nne3">Individual looking dissatisified on pale-turquoise.</a>
 <a style="color:lightblue" href="ipfs://QmRo14HbbNgcUcWhcghAhDXSrfjgQ4NzCxtSeVZNmSVchR">Individual looking souless by light-blue.</a>
 <a style="color:	navajowhite" href="ipfs://Qmb4cppPTU8xbidkzpjJBdgYBPZYFSJ38QQUcymbJuvtni">Inert dude with 	navajo-white setting.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZBXQ1rTGqqv5cTXUd9Ss4BuRyHPAimLAogQQzjEu4eGu">	light-goldenrod behind simian being inert.</a>
+<a style="color:	goldenrod" href="ipfs://QmZBXQ1rTGqqv5cTXUd9Ss4BuRyHPAimLAogQQzjEu4eGu">	light-goldenrod behind simian being inert.</a>
 <a style="color:slategrey" href="ipfs://QmYsCMRiayMxufzrNgCE65Z3cgPJgJyhWn4u3XnFrmru5f">Individual appears impassive by slate-grey.</a>
 <a style="color:	goldenrod" href="ipfs://QmbywZoQ6seXWixLxTytDTauL1TSmth9k7cGdppeUmVyU7">Monkey seems jaded with 	goldenrod.</a>
 <a style="color:	khaki" href="ipfs://QmU8ofLz3zrtqS7bdtQMJCfsAb9zYtJWmgDpg5VN59W19S">Worn character by 	khaki setting.</a>
@@ -5357,9 +5357,9 @@ done
 <a style="color:	goldenrod" href="ipfs://QmQZSiKNYLeZJnxLvp9FBXo52ZWMonPGCAnAz6PtyeA1Bh">Primate looking torpid on 	goldenrod.</a>
 <a style="color:paleturquoise" href="ipfs://QmVe8dnBfqYYzo4bgqNh8jPtXvkea22Ts9gSApEpzVLULY">Creature by pale-turquoise background: unimpressed.</a>
 <a style="color:cadetblue" href="ipfs://QmTjLQNcdnEx4iZkhJ4UPnDLVRofJxFBiHQfiUYaJ9x4NW">Cadet-blue with chimp being dulled.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmQ6As4maG44djQoKyX5B9gsdYbVwksEFLK69cmVVxeEAe">Light-goldenrod behind gorilla appearing depressed.</a>
+<a style="color:goldenrod" href="ipfs://QmQ6As4maG44djQoKyX5B9gsdYbVwksEFLK69cmVVxeEAe">Light-goldenrod behind gorilla appearing depressed.</a>
 <a style="color:seagreen" href="ipfs://QmZW1sVBP8tE8AyaZAFjHM19Bj3udBejWHAe7z5f2gySzK">Critter by sea-green background: unexcited.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQdHFa7JtqXNztwzk8FsYXRknBpP1DFFMtdTa541aT22n">	light-goldenrod behind creature being blue.</a>
+<a style="color:	goldenrod" href="ipfs://QmQdHFa7JtqXNztwzk8FsYXRknBpP1DFFMtdTa541aT22n">	light-goldenrod behind creature being blue.</a>
 <a style="color:paleturquoise" href="ipfs://Qmc8pQVwsWEwRM1ydubUZx7u2TxbCW5ETW3fiEowRvF9FQ">Dude is indolant against pale-turquoise.</a>
 <a style="color:skyblue" href="ipfs://QmSAshSpviFdaGSqAN9Y8wkcb1AmZwrk4gd1MViFH9GBPL">Impassive individual with sky-blue wall.</a>
 <a style="color:seagreen" href="ipfs://QmayEiMRx856MycizRDhVAfWghKCWe4X1BszVAzHCYRneY">Gorilla on sea-green field: tired.</a>
@@ -5393,7 +5393,7 @@ done
 <a style="color:mediumvioletred" href="ipfs://Qmdc2PGQ9vt48Ta5zSyBh4GcgzWokCuY8N3X8dSivQCXo2">Chimp appears indolant on medium-violet-red.</a>
 <a style="color:lightslategray" href="ipfs://QmaSihcGLWLCaCuFpKCxPMbNm2pGyeeVBTywufkNP6M8Qy">Spritless dude with light-slate-gray color.</a>
 <a style="color:powderblue" href="ipfs://QmYkB5z7y6Gz1qUt72MLRr8GWdggi9Y9Fz8nxRCxU5xQYH">Worn chimp with powder-blue field.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qma7VqL9abqsdMtURkQcZT5jxpr8KUxUJsV1PDg33KdfzB">Dude against 	light-goldenrod field: apathetic.</a>
+<a style="color:	goldenrod" href="ipfs://Qma7VqL9abqsdMtURkQcZT5jxpr8KUxUJsV1PDg33KdfzB">Dude against 	light-goldenrod field: apathetic.</a>
 <a style="color:lightpink" href="ipfs://QmbeDcQiJ6xNijQrpEbyvznQmRE2Cnmq8PQMjVuv2yzE1Z">Light-pink with gorilla - appears souless.</a>
 <a style="color:palegoldenrod" href="ipfs://QmeAqyed6L4qWXbHppVBK37jShUDLGkqxmpsJnYc4WT46w">Individual with pale-goldenrod color: unconcerned.</a>
 <a style="color:lightblue" href="ipfs://QmbFy36aE3Hmzb14KFxdwKDfBqKAP8c9yR6osppprMMtiZ">Creature by light-blue setting: disinterested.</a>
@@ -5401,7 +5401,7 @@ done
 <a style="color:seagreen" href="ipfs://QmZwSmyTuBBYwz1qg99SMxZ1GynBi2cHXEwv4nBQqoj8oZ">Critter by sea-green background: pathetic.</a>
 <a style="color:skyblue" href="ipfs://QmfJ8gJLasuKaskB3xgrvWocV9UYViBhfa7tvZSasWg9PQ">Individual by sky-blue wall: insipid.</a>
 <a style="color:chocolate" href="ipfs://QmQQwPPPxZTHDAWKsTADcYRN5QdsDfvg1bFHnsyVrSw83g">Simian on chocolate setting: fatigued.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmPjLdUTx18aufHmnFrJbPLnjK4uhC5Zq4Xm4R4h4hdt6x">Chimp being unconcerned with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmPjLdUTx18aufHmnFrJbPLnjK4uhC5Zq4Xm4R4h4hdt6x">Chimp being unconcerned with 	light-goldenrod.</a>
 <a style="color:mediumvioletred" href="ipfs://QmSs6Cwr4qT73dBLhphGEc1H3RPLCfpNiEuvKBAF2CyV2M">Unconcerned monkey with medium-violet-red setting.</a>
 <a style="color:lightsteelblue" href="ipfs://QmZnmzE9Xicavt8UCfMcDmkt4yqXCVRYnH1rR9iVo3pLga">Weary beast by light-steel-blue setting.</a>
 <a style="color:skyblue" href="ipfs://QmXV9y2jQCNmZSKE2Rs4YGtTyRDhbeSizcBWiPwugj8Nf8">Gorilla by sky-blue field: pathetic.</a>
@@ -5421,7 +5421,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmUeTJoPLTDvNUqHiai4ZTAWJ9RVTJX7Y1JYXvv55caDr8">Beast is sad on 	goldenrod.</a>
 <a style="color:navajowhite" href="ipfs://QmeiE2UeMBbLn8cy9wP8txcKjyMPAbDYhdLXjaJNEF3w6n">Creature being blue with navajo-white.</a>
 <a style="color:seagreen" href="ipfs://QmRFBieZwQq31YJWTpP7CQqon5NYWgLaZN7h6JXWcur7rq">Individual against sea-green setting: dulled.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmQvDLMqCvMvHrNeXi7Nv68k74QB81cFfQSb3AWBHpeSWJ">Beast looks frustrated with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmQvDLMqCvMvHrNeXi7Nv68k74QB81cFfQSb3AWBHpeSWJ">Beast looks frustrated with light-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmYNS5PzQxavtSDZwjy1VEyynmTCPDZPDKRHkfssvBNFN4">Gorilla is miserable on sea-green.</a>
 <a style="color:lightsteelblue" href="ipfs://QmSusm74ejCL77bVNbogLe79faT7WkrLut4P99ptDTGCZV">Character by light-steel-blue wall: jaded.</a>
 <a style="color:seagreen" href="ipfs://QmNbLGjBdWSfUL74tBUfm6LGzVYCss9nByJo8c9yXRPSTr">Character on sea-green wall: oblivious.</a>
@@ -5451,7 +5451,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmQLGYEs4eyKcQQgKji9PEdgNdAR58szmx5m1FensGjD4h">Creature by 	goldenrod setting: impassive.</a>
 <a style="color:navajowhite" href="ipfs://QmeG33TRGe6N9bJgJFargh5eBaCnQbFYYZEpyb4maQ8KdP">Critter with navajo-white background: dismal.</a>
 <a style="color:moccasin" href="ipfs://QmVsvXix72HHrh2kYkHScdAo1bXAMQ4BbgVCmpuTtv9iNM">Unimpressed gorilla against moccasin wall.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmR5hzguuoVFiSzP9MeaYdzoyUBexPxwK7eNyWUkCCWCi5">Critter appears sad with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmR5hzguuoVFiSzP9MeaYdzoyUBexPxwK7eNyWUkCCWCi5">Critter appears sad with 	light-goldenrod.</a>
 <a style="color:olivedrab" href="ipfs://QmTGCGSsrBRaD73vfDQZvTy1LLTGMvs7LMUW11PgxHhLZ7">Olive-drab behind creature - appears apathetic.</a>
 <a style="color:seagreen" href="ipfs://QmSdVrJAPqbdbapH1xmArZZfUF1TbgXU9X4r5U1FsgzA5B">Sea-green behind simian being blase.</a>
 <a style="color:darkgoldenrod" href="ipfs://Qmc85wfG9iSGgFTd4UvJE54uAaXpvS2UQN5SN2WWowXtYL">Worn character against dark-goldenrod color.</a>
@@ -5661,15 +5661,15 @@ done
 <a style="color:moccasin" href="ipfs://QmQLVLmbo9FDorhuau2V6CYTP4qHRvUjrcbn26CJX12NfC">Unexcited dude against moccasin setting.</a>
 <a style="color:paleturquoise" href="ipfs://QmQRvTcB1TSgwtJwi8XLywQDYkas94pZLdM8RCLZhNE2A7">Pale-turquoise behind gorilla being spritless.</a>
 <a style="color:seagreen" href="ipfs://QmdFNS6XE2MMc4UxEjSpmLGYAnCxky9LZD6MXbrxjS9gmF">Sea-green with monkey - appears tired.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZL4FXZLFrGXiQEM5cwcPS1e3Nc8eJSCvq9Jh6RzYhdMY">	light-goldenrod behind chimp - appears torpid.</a>
+<a style="color:	goldenrod" href="ipfs://QmZL4FXZLFrGXiQEM5cwcPS1e3Nc8eJSCvq9Jh6RzYhdMY">	light-goldenrod behind chimp - appears torpid.</a>
 <a style="color:seagreen" href="ipfs://QmYmpWTarrXJXuzN7YDotnVxL4z8288yQfPzch4GrGE7dZ">Creature is impassive by sea-green.</a>
 <a style="color:pink" href="ipfs://QmRvHWejHXU7CdKegsXjjzq5CHuM5NBrVVYLFKkasi96kp">Character is unconcerned against pink.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmVM911iDQUVnAJ3Y7xV2Xx27F7s43ctm1RKXTvHy34fSc">Worn critter on 	light-goldenrod background.</a>
+<a style="color:	goldenrod" href="ipfs://QmVM911iDQUVnAJ3Y7xV2Xx27F7s43ctm1RKXTvHy34fSc">Worn critter on 	light-goldenrod background.</a>
 <a style="color:sandybrown" href="ipfs://QmWdUJ5deVPpyXe2GMaemMyPZZAynpqTJxGy2vdkJ4KRy2">Chimp on sandy-brown color: jaded.</a>
 <a style="color:	olivedrab" href="ipfs://QmZcEDM129989Yx5Uj1LyCipPEybiGKJQBiM4bZqL3HjLh">Dude is inert with 	olive-drab.</a>
 <a style="color:	goldenrod" href="ipfs://QmcrxndcAEAw7taB5Y62jBwjZ7dJWKRWLDvpPgvMf66SrN">Beast by 	goldenrod setting: dissatisified.</a>
 <a style="color:powderblue" href="ipfs://QmQhTMLcuXJKr86GX7Fwxd37tNbmTdnGSqA8DW6uBGJiRa">Beast with powder-blue wall: uninspired.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmQwu7pSSt89yq2U2rcTrCJLfuU2h2wf1QkGguFyvBSfAM">Monkey being slack with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmQwu7pSSt89yq2U2rcTrCJLfuU2h2wf1QkGguFyvBSfAM">Monkey being slack with light-goldenrod.</a>
 <a style="color:dimgray" href="ipfs://QmShg9u2frWyysPh28skc3gFP5EeCfocwTM6fPXhx7qU2A">Chimp is depressed by dim-gray.</a>
 <a style="color:peru" href="ipfs://QmWdPwKueotpMDmmjY1sP6pXtWs3yuL3QJ8PFMmSYsbyuP">Chimp looking inattentive against peru.</a>
 <a style="color:seagreen" href="ipfs://QmdC1hiWYK6NkBwhhkGARAvMprwEQEFj7pJFuNEW28zxyv">Sea-green with creature - appears worn.</a>
@@ -5682,7 +5682,7 @@ done
 <a style="color:seagreen" href="ipfs://QmSUMnbCJyXeyfKgt4YhenLaPW7Hq7hWKsRFQWkanAQE6E">Gorilla against sea-green background: impassive.</a>
 <a style="color:seagreen" href="ipfs://QmaQchkyiDwRKCzSmyUF7B6Afcp4LjJjBK7eA4uiCYySbb">Dude looks souless by sea-green.</a>
 <a style="color:seagreen" href="ipfs://QmPkDVdZRLLvm4pqaZUaLAfXdfNGB9HkPbUYJrQGg6QcnV">Gorilla looking slack by sea-green.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmfXj1PTrZAXfaZLmBhPGJtS8e1Q2SGx6dWr46gLFUgD4n">Simian against 	light-goldenrod color: inattentive.</a>
+<a style="color:	goldenrod" href="ipfs://QmfXj1PTrZAXfaZLmBhPGJtS8e1Q2SGx6dWr46gLFUgD4n">Simian against 	light-goldenrod color: inattentive.</a>
 <a style="color:lightskyblue" href="ipfs://QmbQZPhHwxcy8omp5pwMsPU4veGr2ZDHtNZCpNz2wpmtEz">Light-sky-blue with beast being unheeding.</a>
 <a style="color:skyblue" href="ipfs://QmQZyQq8UtdCTbqDQpfddoUunPz3D9e95ug77qLm9B4ntp">Unexcited individual with sky-blue field.</a>
 <a style="color:oldlace" href="ipfs://QmWRF58p72j561vp9LK3gNGDH8fgWz4NRcRsmH9jU2jU4L">Chimp by old-lace setting: frustrated.</a>
@@ -5702,7 +5702,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmTWrfz7Lpaiw4oSYN2fbfq1MHs1e5bqp7Dq9nh2jYFPqa">Simian being worn by 	goldenrod.</a>
 <a style="color:olivedrab" href="ipfs://QmWdb6AhSSQmU5TeiUN8rgsTheQNDDuj1jvYniyyZc1kXN">Beast by olive-drab field: inert.</a>
 <a style="color:sandybrown" href="ipfs://QmXJSZ5CbzeRGyJ5ZGj4nReLcrhydjsAsA7uR3wMuVRL8Q">Creature seems wearied by sandy-brown.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmWwq9P8oxsyh8eP2zuLscQF6YoTWLeGNLoV9Dfm9k6tV7">Monkey against 	light-goldenrod color: dismal.</a>
+<a style="color:	goldenrod" href="ipfs://QmWwq9P8oxsyh8eP2zuLscQF6YoTWLeGNLoV9Dfm9k6tV7">Monkey against 	light-goldenrod color: dismal.</a>
 <a style="color:bisque" href="ipfs://QmNm9AsQ1g7qCJ5PLXGSq63fQNmCEVaL5Ku4Vf4bNRaS5j">Gorilla on bisque setting: apathetic.</a>
 <a style="color:skyblue" href="ipfs://QmbNCU4HDePF1LSks8sx2K4Hc4Ujjq14nm7TkGQJmhcHwj">Sky-blue behind chimp - appears souless.</a>
 <a style="color:skyblue" href="ipfs://QmNdWFsM6z6XBjCqtXDmzFWjCompeGq8SFtNrYzqMAVZqX">Sky-blue with primate being miserable.</a>
@@ -5753,7 +5753,7 @@ done
 <a style="color:olivedrab" href="ipfs://QmVLasJRZXcJeXoWWY4tMYY4EZVe42TUPBgyJDkNoEfK2B">Olive-drab with individual - appears gloomy.</a>
 <a style="color:seagreen" href="ipfs://QmSzFTgmFQXGDakDErAfpTayhAaZo5yiTwU6uSt5sArbtv">Primate by sea-green color: insipid.</a>
 <a style="color:	goldenrod" href="ipfs://QmTMz8FMyYdFZ9PDjoEfvNPgWr7RFE7pjoPh1YxtQYpSdy">Simian seems dulled with 	goldenrod.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmNnbvX7YC1JWBeyb6YAQSEmqSJYWU5jVDGzQgVTPWZCWC">Light-goldenrod behind chimp - appears apathetic.</a>
+<a style="color:goldenrod" href="ipfs://QmNnbvX7YC1JWBeyb6YAQSEmqSJYWU5jVDGzQgVTPWZCWC">Light-goldenrod behind chimp - appears apathetic.</a>
 <a style="color:seagreen" href="ipfs://QmbbCQpg9iTRnBbPEQsvkvB9SYdsvobJmKJfVyMAR3sFd6">Gorilla by sea-green wall: disinterested.</a>
 <a style="color:floralwhite" href="ipfs://QmYgrGvxuqWzqYyj1P5XSNLhojpc5MzPC6QnH12EfXgVci">Creature with floral-white color: tired.</a>
 <a style="color:cadetblue" href="ipfs://QmcZv1J6Dx2QUqEvaLi56JziEG2CrmUBaetkXbqKDJ5kT4">Monkey seems dismal by cadet-blue.</a>
@@ -5787,7 +5787,7 @@ done
 <a style="color:seagreen" href="ipfs://QmfXNh74Ruk3v3Ept3cm3azXGXfwddYREjrezzdc2UU2ZM">Critter on sea-green setting: dead.</a>
 <a style="color:seagreen" href="ipfs://QmZHCNDFHgPbJR1DbD8NBg6PbA8BpMDRjdy2jHNrqxJVcu">Simian looking slack on sea-green.</a>
 <a style="color:paleturquoise" href="ipfs://QmQcAaYSZGBCTJMoP1B7C9vonbF5jEPm7mLZRfznXvown6">Beast with pale-turquoise setting: dissatisified.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmbCxwoFpz1XEt2RZuQcVA4Qg67zPjLAkVWqqgE9refWbw">Neutral critter by light-goldenrod color.</a>
+<a style="color:goldenrod" href="ipfs://QmbCxwoFpz1XEt2RZuQcVA4Qg67zPjLAkVWqqgE9refWbw">Neutral critter by light-goldenrod color.</a>
 <a style="color:oldlace" href="ipfs://QmaNEhNjZp7A1wzrnVD3DwmqNm2RVPWvHCbWsAgTjMdWMZ">Individual with old-lace background: languid.</a>
 <a style="color:seagreen" href="ipfs://QmTgkQDbNutief8inq5Cv7JyuXZ1qA6xy7BSCDJfyzei93">Monkey looking unheeding with sea-green.</a>
 <a style="color:lightseagreen" href="ipfs://QmSDkJ6yaKzWLQh3SM97kEwtNNBLdKictC1HF6M9kUb2nR">Light-sea-green behind character - appears fatigued.</a>
@@ -5838,14 +5838,14 @@ done
 <a style="color:seagreen" href="ipfs://QmTQVBEmXjTD8vnfyaR6AXBJHv4ydF9nmz4S7JMKw3yWxR">Dude seems apathetic against sea-green.</a>
 <a style="color:	navajowhite" href="ipfs://Qmbw9zU5RztJAUGdsH8seAWQ1MX4UsHbkdG1CiJYc8abKx">Unexcited critter on 	navajo-white setting.</a>
 <a style="color:lightskyblue" href="ipfs://QmRfjZD3mYFUbWiWAXhp3a8yigubf8Kuso8mdTnjjGkf8k">Indolant individual on light-sky-blue background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmaYKNSGmL6TD2vKVYZxC4vCCCqcPcyqwVYTRjd1xzdD3C">Dude against light-goldenrod background: disenchanted.</a>
+<a style="color:goldenrod" href="ipfs://QmaYKNSGmL6TD2vKVYZxC4vCCCqcPcyqwVYTRjd1xzdD3C">Dude against light-goldenrod background: disenchanted.</a>
 <a style="color:lightseagreen" href="ipfs://QmfW7nXQCcVyaTijiEDZiRArPtBdDNLGz1muqm4KUjGyvg">Light-sea-green behind creature appearing insipid.</a>
 <a style="color:sandybrown" href="ipfs://QmRQR6i6KBptvLk6cRsGzAX3wWFzborz5wouww9baUJvSJ">Sandy-brown with gorilla appearing down.</a>
 <a style="color:cadetblue" href="ipfs://Qmb3CeG69oWMs9LX1aDFsMyWJkGaxC1XSpURZJUN92r4PQ">Dude seems unexcited against cadet-blue.</a>
 <a style="color:mediumseagreen" href="ipfs://QmYwtWY62nc8wbMjS8gCk1DbSBtVFW2iN56kY2CdtyGbbd">Medium-sea-green with beast appearing weary.</a>
 <a style="color:orchid" href="ipfs://QmPCBSfiVQgHtzXT49fu8WkxyzNuPdM7mwpQaRnGhdQKjd">Individual looking spritless with orchid.</a>
 <a style="color:rebeccapurple" href="ipfs://QmSThM7gejyj7ffLCzpuZA936GVXVM6Vy5MazPVjWi8dCj">Dude with rebecca-purple setting: indolant.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmYMxudjKoBsjfLnboH8xYMsTeLC5khzKwzkwZMg71xqPJ">Character is unheeding by 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmYMxudjKoBsjfLnboH8xYMsTeLC5khzKwzkwZMg71xqPJ">Character is unheeding by 	light-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmcQxBsUECxfzvNCW3QvoPjnwALjTbCLprWT3i22Bb8BhB">Gorilla appears frustrated by sea-green.</a>
 <a style="color:	goldenrod" href="ipfs://QmTd2MrNXAC5sZ5Hu1UgQZt1qmATyT46T8HYFYymnAPSFx">Souless dude by 	goldenrod field.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmRe5NcB8PEmrfcq7PzUMRpqxaJw1mDMwPra9yP3HXFurQ">Neutral dude against dark-goldenrod color.</a>
@@ -5866,13 +5866,13 @@ done
 <a style="color:	olivedrab" href="ipfs://QmVmE5yXx2sgrGDLzr53DwDVY6H1Rsy6YhmoGkqAXC8WLr">	olive-drab behind simian - appears weary.</a>
 <a style="color:mediumseagreen" href="ipfs://QmcQSK3B5j1ZuHg3uJ1Qtty1HjGJWoMk1f9qpnG9ixgm3h">Dude appears torpid by medium-sea-green.</a>
 <a style="color:lightblue" href="ipfs://QmcngeKTHUaP8iztoW3TrGcnMaMBdH4mgz1SnLGU12Zgz3">Gloomy beast with light-blue setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmX2bLgKCp4yoHhTTyBwpehiP5QwjMmBZXamMVWcVfyK2h">Creature looks depressed against light-goldenrod.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZCad9TAoFE2KQFJDqyNJP7RwASt2gdiFt8TTdKQdHgAf">Beast being inattentive by light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmX2bLgKCp4yoHhTTyBwpehiP5QwjMmBZXamMVWcVfyK2h">Creature looks depressed against light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmZCad9TAoFE2KQFJDqyNJP7RwASt2gdiFt8TTdKQdHgAf">Beast being inattentive by light-goldenrod.</a>
 <a style="color:lightseagreen" href="ipfs://QmNsAEBgRwUdzwofozqrAPy97uGiUyTNoPUG3niT52aHRB">Critter by light-sea-green color: disinterested.</a>
 <a style="color:lightblue" href="ipfs://QmU7H7uybu1h6Cz7xpag7sBjyYLM6MDypjC4so1ccoJtjF">Unheeding simian against light-blue wall.</a>
 <a style="color:peachpuff" href="ipfs://QmZiaMKA61gUyHE5eoKKSosrPrqoYcYpWDbXajTqJTYdCJ">Character being slack with peach-puff.</a>
 <a style="color:sandybrown" href="ipfs://QmdUzq5sVtwwJeJFwFwAcJ5UZiyZNhrKd9yndCxdycyNTi">Dismal creature by sandy-brown color.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmetpqAxRPSDNhmPAtCfiP7iV47cJFYCp8syZWUHK6b13A">Light-goldenrod behind critter - appears glum.</a>
+<a style="color:goldenrod" href="ipfs://QmetpqAxRPSDNhmPAtCfiP7iV47cJFYCp8syZWUHK6b13A">Light-goldenrod behind critter - appears glum.</a>
 <a style="color:	goldenrod" href="ipfs://QmX2rgPjvbu1jecC5Wf2WQGEVvBjqKdosLcTtN89PGYuNc">Blue monkey against 	goldenrod color.</a>
 <a style="color:powderblue" href="ipfs://QmSGcib8k6SToZ5PbT1XLqJgkKPHbwCjGJsS7jb59NCYU1">Powder-blue behind character appearing dead.</a>
 <a style="color:peachpuff" href="ipfs://QmXYgpyjH5hruwN16wuiGrGP4YKkELdyzH2C5PJYvAsokL">Gorilla by peach-puff setting: torpid.</a>
@@ -5958,7 +5958,7 @@ done
 <a style="color:seagreen" href="ipfs://QmYzibQ4XtLVo8N4rvFtZL3DvrEmQAQKrm7ZHwwKtpLVCq">Primate by sea-green field: disinterested.</a>
 <a style="color:powderblue" href="ipfs://QmVvw23TbMu2EsDeqg6gnuqQEp5nsj3rPHCBrFVkkFNp8R">Beast by powder-blue color: gloomy.</a>
 <a style="color:sandybrown" href="ipfs://QmbJphuUL17vNKhTkyxvjxUdkpK6SJrDSjqV5tnrMUCnJW">Souless critter by sandy-brown field.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmNuG2NjH7nrWnogkPW6eSMqcRM5LuMANfKcwwP11fmnN3">Monkey on 	light-goldenrod background: insipid.</a>
+<a style="color:	goldenrod" href="ipfs://QmNuG2NjH7nrWnogkPW6eSMqcRM5LuMANfKcwwP11fmnN3">Monkey on 	light-goldenrod background: insipid.</a>
 <a style="color:paleturquoise" href="ipfs://QmTv2C4kSdmCwKKX7svdKHmqTKnZpHEhYCvVAXugjocPXu">Weary creature on pale-turquoise setting.</a>
 <a style="color:	navajowhite" href="ipfs://QmWZ9szwmok8EiZ8RT8KVJtmCW6iAWz47GssPmo46gQWSY">Gloomy critter on 	navajo-white field.</a>
 <a style="color:rebeccapurple" href="ipfs://QmWiTvGdQ5X6WW9J7uReHFJUVQt3tkqZUNKTTH8QKVg6r7">Character looks worn against rebecca-purple.</a>
@@ -5968,7 +5968,7 @@ done
 <a style="color:	darkolivegreen" href="ipfs://QmQ2EmghzVKMgPPp4vh5jJpCCZZUFgccegcTjPSoHVeaxp">	dark-olive-green behind monkey appearing inert.</a>
 <a style="color:navajowhite" href="ipfs://Qmdx4FYmRSpvd9z2krQfsb4GH4uTmWEDJwgu7stHXrv2UN">Creature being depressed with navajo-white.</a>
 <a style="color:floralwhite" href="ipfs://Qmdfx7zpHH245FE6wyuP6M81K3A395WsWC6PhKT8UDtuqX">Monkey with floral-white wall: indolant.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQk2pwDdEWpMhMzsvy1LNKmwcmz29b3SGTMgMbTCcF9i4">	light-goldenrod with chimp - appears blase.</a>
+<a style="color:	goldenrod" href="ipfs://QmQk2pwDdEWpMhMzsvy1LNKmwcmz29b3SGTMgMbTCcF9i4">	light-goldenrod with chimp - appears blase.</a>
 <a style="color:peachpuff" href="ipfs://QmP3mpAAXSyRMqRKoz85h9haqKG78o1LGxCnbu331AYXhL">Peach-puff behind simian - appears unexcited.</a>
 <a style="color:seagreen" href="ipfs://QmbVg8ta5jXsHs83sSheX1RxmB6m5ctQ6cUrELb5BQnbzP">Creature looks languid against sea-green.</a>
 <a style="color:darkorchid" href="ipfs://QmdR77xGw7YmkJB6QysHNV1e3d5RL3Yev1wyUcvL8rzjoA">Tired gorilla on dark-orchid setting.</a>
@@ -5991,7 +5991,7 @@ done
 <a style="color:floralwhite" href="ipfs://QmSsx9nhFE5xWsX1UBKXxGigeKuEtEcvsF9kXNQ5sgeEFN">Simian looking indolant with floral-white.</a>
 <a style="color:	navajowhite" href="ipfs://QmeDArcm8gSKVre7w5vf5weMRJ9kcWXQckCExJ5SgP9rjQ">Creature being slack against 	navajo-white.</a>
 <a style="color:lightseagreen" href="ipfs://QmPuKom75n8whukyaX9WBj7W7aXkCRvKFKhtedQtAs4yFV">Light-sea-green behind creature appearing disinterested.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmUDhdUJBNohfAjuZrxFhZZyYJu2my4Zu9sQtQ2vN6WXZa">Light-goldenrod behind monkey appearing dismal.</a>
+<a style="color:goldenrod" href="ipfs://QmUDhdUJBNohfAjuZrxFhZZyYJu2my4Zu9sQtQ2vN6WXZa">Light-goldenrod behind monkey appearing dismal.</a>
 <a style="color:seagreen" href="ipfs://QmWV2yVfFnxBcAHFQoCj975RTTruerMwmBbei27voidF2U">Beast with sea-green field: fatigued.</a>
 <a style="color:seagreen" href="ipfs://QmZn7f1X3qzyaPpWX58Q6tvMVNwiUwzduz2AyKgFM15aiY">Unimpressed character by sea-green field.</a>
 <a style="color:lightseagreen" href="ipfs://QmSg5nPqi83JaYU1NnMefgvAHr1W3e9kcEhDDFVtDdSPDX">Dude by light-sea-green wall: dismal.</a>
@@ -6078,7 +6078,7 @@ done
 <a style="color:lightseagreen" href="ipfs://QmWtfPTjJ4WstSxZD5aCCvbJjqbMQmrru8ivaDrZrR3yqB">Light-sea-green with beast - appears weary.</a>
 <a style="color:powderblue" href="ipfs://QmTsPjTtTGGsemzDWtkjKctjUUP8NuRerJtVxtVJRJDkDj">Individual looks dead against powder-blue.</a>
 <a style="color:khaki" href="ipfs://QmPYnXwybzWqDtoqzjcwsq7w3eKzi8BE2VFkgBpianfL1P">Khaki with critter being vacant.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmS9ey9aLaxMwPoniqjRV5JDoRY8bLMit4g4cLf1WxMdFJ">Gloomy critter by 	light-goldenrod field.</a>
+<a style="color:	goldenrod" href="ipfs://QmS9ey9aLaxMwPoniqjRV5JDoRY8bLMit4g4cLf1WxMdFJ">Gloomy critter by 	light-goldenrod field.</a>
 <a style="color:steelblue" href="ipfs://QmRAmCrjJYQMrLFX4Qp6hsCpriXtP23cfrCtZFFg1kHb2H">Steel-blue behind individual - appears deflated.</a>
 <a style="color:orchid" href="ipfs://QmSTqAh8Ybahy6i4ZByjwRhxnU1xhm79kPGzfJGZdVZL9X">Dude on orchid color: glum.</a>
 <a style="color:seagreen" href="ipfs://QmbceD6qcbyZp7GWa6mo89ydCLs9629tjydnsNy5Gbe7WL">Beast against sea-green background: inert.</a>
@@ -6090,7 +6090,7 @@ done
 <a style="color:palegoldenrod" href="ipfs://Qme9cLeXS5GxV9vYEafPrMwurw12KTSf2cWFHz2VCpaBcN">Creature appears disinterested against pale-goldenrod.</a>
 <a style="color:paleturquoise" href="ipfs://QmUTHAt4Vf1rx8PAE6EZU16zRMmJdm9bh8oGNfNdg8HEKb">Gorilla being dull against pale-turquoise.</a>
 <a style="color:mediumvioletred" href="ipfs://QmSoNQKvXSo9nC1rg8tFQuMHRP3Bb5xL3bynzoqPHEqWcj">Medium-violet-red behind character - appears dead.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTtQGUPC1DiD77dekGAbeoxRe2n5qMmhi65JFEpi2bbh5">Character by light-goldenrod color: neutral.</a>
+<a style="color:goldenrod" href="ipfs://QmTtQGUPC1DiD77dekGAbeoxRe2n5qMmhi65JFEpi2bbh5">Character by light-goldenrod color: neutral.</a>
 <a style="color:dimgrey" href="ipfs://QmdYVrMfpMFdCJPAPZc86FNd8zS24Zt1u7XRSsBYWwhPHz">Beast seems disenchanted against dim-grey.</a>
 <a style="color:ghostwhite" href="ipfs://QmXwEeHDKa1fkqgKbYZxzmMFXj54a6qFdkwA2TqBaqw2wk">Ghost-white behind beast - appears uninspired.</a>
 <a style="color:	khaki" href="ipfs://QmNi58WjB79tBtfTn2x4wjb6rdTQUyE8fgjis7Si3U1fkM">Torpid character on 	khaki wall.</a>
@@ -6110,7 +6110,7 @@ done
 <a style="color:	khaki" href="ipfs://Qmdjmji7YVJgAnikC4G1N5tSTo7kxtrcHVxyDBeJWrBcWZ">Tired critter against 	khaki color.</a>
 <a style="color:	goldenrod" href="ipfs://Qmd4g5FtJidc2jbCre43TxMzgtQEEU9vSenfC6Sv2Ay84x">Blase monkey by 	goldenrod setting.</a>
 <a style="color:chocolate" href="ipfs://QmZhZFQ4gXpvqWNs7UQ5rV155Le7aVTFoLWoNT15VnJNKP">Chocolate with individual - appears dull.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmNopo2z1z9gXhchcUGgGs9EoJFDq2J2WNQ5eiKuqUNoJv">Disinterested character with light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmNopo2z1z9gXhchcUGgGs9EoJFDq2J2WNQ5eiKuqUNoJv">Disinterested character with light-goldenrod wall.</a>
 <a style="color:seagreen" href="ipfs://QmUhUiQANCLZHT3YfPryt76k56nN5iW5V2xwsWfuSoLRiS">Sea-green with simian appearing down.</a>
 <a style="color:seagreen" href="ipfs://QmXtTzeKxd7pvHoAnmSd8co89b64jtADkgrVR3signhYUX">Creature is jaded against sea-green.</a>
 <a style="color:orchid" href="ipfs://QmZ1xBkMsKBDhd3PJwigKzHT9fatacuGEWTJpN9LFR9pWP">Character looks glum against orchid.</a>
@@ -6142,7 +6142,7 @@ done
 <a style="color:dimgrey" href="ipfs://QmY19B66Xo2NzdgATxV3qytymVkjJ32sS3WiCV9eZC24oS">Beast with dim-grey color: blase.</a>
 <a style="color:seagreen" href="ipfs://QmdgxEFbuX3FNLEjvSBHqv5KhtMZiFWt3s2fMZTJBLZFjz">Disenchanted gorilla against sea-green background.</a>
 <a style="color:seagreen" href="ipfs://QmUBTs7QRMhx69mHGZP9Lv9YH3GD5nibNooiBy75t2fXem">Sea-green behind beast - appears blase.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmPQcxDbmgAuo6bdCDyNhkQdbfWPkRsS9Pfcah5aFGgZRU">	light-goldenrod behind critter - appears worn.</a>
+<a style="color:	goldenrod" href="ipfs://QmPQcxDbmgAuo6bdCDyNhkQdbfWPkRsS9Pfcah5aFGgZRU">	light-goldenrod behind critter - appears worn.</a>
 <a style="color:ghostwhite" href="ipfs://QmW3iYvCVypb1nytKHz2WxkQePaAJ1KrBCkKBtyMMQJgiW">Blase character on ghost-white field.</a>
 <a style="color:slategray" href="ipfs://QmVq7wjS1puMtNFA8ymdjremru8wx6jNTderCFTXFJMvhX">Primate with slate-gray background: worn.</a>
 <a style="color:palegoldenrod" href="ipfs://QmQMEbdNn1qm36jVPADsGC2PZLYKQ1NKh35Dxo1kYjLtm4">Monkey with pale-goldenrod wall: souless.</a>
@@ -6159,7 +6159,7 @@ done
 <a style="color:seagreen" href="ipfs://QmVMWGC7Y9mtbfupp6zwddLRAAWYz3kLEkMZBBXHP3AWzJ">Simian against sea-green color: miserable.</a>
 <a style="color:coral" href="ipfs://QmT9L9pyNJccunWo8qHAmoJybMzpzNFLf2yVvfMavmWqJ2">Coral with beast being fatigued.</a>
 <a style="color:powderblue" href="ipfs://QmVtP9bBvCsmmwS4yvRcG5Vbb1Piu71HUgYQkSKYeW19Jw">Creature seems souless by powder-blue.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmVjUNxs3LtKNQAxm1rv5fuhSnCaWrLC2JzJXvyD5a7USv">Blue creature on 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://QmVjUNxs3LtKNQAxm1rv5fuhSnCaWrLC2JzJXvyD5a7USv">Blue creature on 	light-goldenrod color.</a>
 <a style="color:mediumseagreen" href="ipfs://QmawM6xyiCTHug7FtTd7FMCL8JhBHbFMRPV1p1SH7ZTyBu">Dude seems miserable against medium-sea-green.</a>
 <a style="color:	navajowhite" href="ipfs://QmNU3yNNq3uD5YrmcHjuTnUX8ED8LatGp4GBCqsfHAyGb6">	navajo-white behind character appearing unimpressed.</a>
 <a style="color:lightpink" href="ipfs://QmQDrRWTiD8j5FxGeMf14VDdAc6rCsNcNvcAi6V4zC1nSc">Character with light-pink color: weary.</a>
@@ -6172,7 +6172,7 @@ done
 <a style="color:lightblue" href="ipfs://QmTdeU1PHEtoArc9NrbNfj1hyQdpB8XocFdRSXCHCVqpd6">Primate with light-blue color: jaded.</a>
 <a style="color:mediumseagreen" href="ipfs://QmV3VdnWvoAjpByoM2a4ewwLWwV6AGrrHewt7ximZuqqF2">Gorilla is inert on medium-sea-green.</a>
 <a style="color:	khaki" href="ipfs://QmfCJNtiLYRUHM2MVuA5t2pvW61jjd4PudLSmbU55BbM2G">Primate seems depressed against 	khaki.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmaXAdWkMdg89HTZmoacjjBRYSbHh7BRN85EDN87X1EqXS">Light-goldenrod with individual appearing dulled.</a>
+<a style="color:goldenrod" href="ipfs://QmaXAdWkMdg89HTZmoacjjBRYSbHh7BRN85EDN87X1EqXS">Light-goldenrod with individual appearing dulled.</a>
 <a style="color:seagreen" href="ipfs://Qmc37SEgi7GXXRowvcojJcN7mX3Fc9QAPqEz5SbfoeEREJ">Beast by sea-green wall: indifferent.</a>
 <a style="color:cadetblue" href="ipfs://QmWmeHm8jvJbcBwk6W9vavgkwUu49yWy2udpWFF9tVr8Bz">Gorilla is dead on cadet-blue.</a>
 <a style="color:dimgrey" href="ipfs://QmXtnJMaHdaM8bAvZVdqinYerPV6VirDtpxy474eAjtyNe">Chimp is glum with dim-grey.</a>
@@ -6235,7 +6235,7 @@ done
 <a style="color:skyblue" href="ipfs://QmYTtzN7qRPYmRhedgHh15KPw4j6ofY5h9LyZCUVWYbNXc">Insipid chimp against sky-blue background.</a>
 <a style="color:khaki" href="ipfs://QmbnSBiNty4GqkdbYW4PMFpyFucRVU3bK7fJWGY8DQzMvY">Critter by khaki background: dulled.</a>
 <a style="color:	goldenrod" href="ipfs://QmbsRwK7DqW3VtwYrNcA8hjS8mNvFAMUepmtD8zp5doTdV">Beast against 	goldenrod field: sad.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZohuE9T54VvBLNAKTfKxuE8oeB9VBW1PaJDFS3Wa6FBv">Chimp is pathetic with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmZohuE9T54VvBLNAKTfKxuE8oeB9VBW1PaJDFS3Wa6FBv">Chimp is pathetic with light-goldenrod.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmQsuH9dDe6qua4aDHz6G5L9TkHfZc1H2XF65JrrmZrh1H">Character being disenchanted on dark-goldenrod.</a>
 <a style="color:paleturquoise" href="ipfs://QmUpt98o81tqTcrRTTL4RiQZKDpc5WNF3GiDBnKzr4Tkdp">Souless simian by pale-turquoise wall.</a>
 <a style="color:palegoldenrod" href="ipfs://QmUpVqvQt81WuB4ocpJ5xvVaysnFqNCB85FmYJJ44h3rRW">Primate seems dead against pale-goldenrod.</a>
@@ -6283,7 +6283,7 @@ done
 <a style="color:skyblue" href="ipfs://QmW9aFUxU6T82dPrKEKytPMes9mkPqPWSoATKSNRyJ6f3z">Primate looks dulled by sky-blue.</a>
 <a style="color:lightseagreen" href="ipfs://QmNq7TrKqHWFM5nTiX54NVVEsN2raSXYdeUyNXde6uFt2T">Light-sea-green with gorilla appearing fatigued.</a>
 <a style="color:navajowhite" href="ipfs://QmNqvk3w2KFCYkQTMVB76Pu8TFTVT5mzMwRoxiHFtZxNxC">Dude by navajo-white wall: vacant.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXm4MF83qHvdcyx5WaLBxo6dhzo7qLhL6npiWLAznKfF1">Character against light-goldenrod field: unimpressed.</a>
+<a style="color:goldenrod" href="ipfs://QmXm4MF83qHvdcyx5WaLBxo6dhzo7qLhL6npiWLAznKfF1">Character against light-goldenrod field: unimpressed.</a>
 <a style="color:steelblue" href="ipfs://QmXWMEZcySJ42rD5TFA9D5B7j4DNdhqbaaUPLK2bKNbmgc">Beast seems inert with steel-blue.</a>
 <a style="color:chocolate" href="ipfs://QmUxb7yFoib5bSBSJm3c8aCsmFnM6emfodCaToRxEYMy81">Pathetic gorilla with chocolate field.</a>
 <a style="color:steelblue" href="ipfs://QmcBRKsxu4DAn1JuudxamYKnty7JJ9JJLYhA5LAtmh69eo">Simian by steel-blue field: vacant.</a>
@@ -6355,7 +6355,7 @@ done
 <a style="color:floralwhite" href="ipfs://QmcDmQ2Qwo4TGakhnsq4FN49QsLyYoZWZiwbMGqJcZgp7F">Chimp on floral-white setting: sad.</a>
 <a style="color:slategrey" href="ipfs://QmTW4WJdkBwvGL8UDeK9FhsFduuL3F2HVWfMqrgof3MxkL">Slate-grey with monkey appearing unheeding.</a>
 <a style="color:bisque" href="ipfs://QmatBSBBwcQNyc8qHVXYeD88H2nEKtcYigMESrkr6P2Rpi">Down dude with bisque field.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmbvJDzwXvFDBRnrD66FVhmD8S8qwThuu84dA9PunPSTYG">Light-goldenrod behind chimp being souless.</a>
+<a style="color:goldenrod" href="ipfs://QmbvJDzwXvFDBRnrD66FVhmD8S8qwThuu84dA9PunPSTYG">Light-goldenrod behind chimp being souless.</a>
 <a style="color:palegoldenrod" href="ipfs://QmVEBh7fLY5YxPWQZoeqZqpi75U4UAyUTmo7kmaPrkmbVo">Blue gorilla against pale-goldenrod background.</a>
 <a style="color:sandybrown" href="ipfs://Qmagkei2Rd53fb4D7xaPa9151ZxoniQk6RdiheRXTiPrFy">Sandy-brown behind individual - appears pathetic.</a>
 <a style="color:seagreen" href="ipfs://QmconiQGFKiwTsZtJfeJK1B9J7JVpLt48iSCv89fqAfuTj">Sea-green with beast being souless.</a>
@@ -6375,7 +6375,7 @@ done
 <a style="color:seagreen" href="ipfs://QmcX22r6fRhVaXV9pGaoHe8aCWEHj5h9wsU656hUHd8FKY">Sea-green behind gorilla - appears sad.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmZEFLEzqZzeML91E6ZgxJzgzkeEDfjohk5HeUgXyGGKms">Vacant critter on dark-goldenrod color.</a>
 <a style="color:seagreen" href="ipfs://QmSKPGK4KDRzTQnkG7wADqEQ8SGuyY33Fq1BzFCEHXXt6d">Dead individual with sea-green color.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmXvnHGbahjbvvFc4csuL4Vey7HR6n6aWsoKsvLnJ4YMEg">Gorilla with 	light-goldenrod field: sad.</a>
+<a style="color:	goldenrod" href="ipfs://QmXvnHGbahjbvvFc4csuL4Vey7HR6n6aWsoKsvLnJ4YMEg">Gorilla with 	light-goldenrod field: sad.</a>
 <a style="color:peachpuff" href="ipfs://QmRsTvMdtBUC4bMhipRFvtmDai6DCneyJYwkTtpgDMUNML">Critter appears gloomy with peach-puff.</a>
 <a style="color:lightslategray" href="ipfs://QmQkELNApDJDZYd2jJbN8q7a2LW5t4Phr5kgxxuYa2J5xD">Dude being oblivious by light-slate-gray.</a>
 <a style="color:olivedrab" href="ipfs://QmQohJK7LBHmfK3pNu66HeBYhHmpkYsFbQgo642oh8Jj2f">Olive-drab with primate being weary.</a>
@@ -6396,7 +6396,7 @@ done
 <a style="color:olivedrab" href="ipfs://QmfQC4xyUa3HK6XxjU6TRFTBEF518HjFqEpt9igou53VYb">Chimp with olive-drab wall: dissatisified.</a>
 <a style="color:lightpink" href="ipfs://QmRmbTFZaSGzpvVCyQRdnobw94nQ4XenWoZu4cPQR3myoT">Gorilla with light-pink setting: indifferent.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmS3W2WNVsPNC9wTfufrvj7qrcieJA1PRiisz8SHuebU9X">Chimp on dark-goldenrod color: unconcerned.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRvG93pAAyRLsdJBGnia9wnpReu7FziDe78zBppUShxuY">Light-goldenrod with primate being apathetic.</a>
+<a style="color:goldenrod" href="ipfs://QmRvG93pAAyRLsdJBGnia9wnpReu7FziDe78zBppUShxuY">Light-goldenrod with primate being apathetic.</a>
 <a style="color:rebeccapurple" href="ipfs://QmamXrpZgpVcahCNETqA231fdx5vuiK5yne5ouVcXgJA6z">Spritless critter by rebecca-purple wall.</a>
 <a style="color:	navajowhite" href="ipfs://QmRgtU1yjDGrfTKBXFeKRp2zBwVCqwD8HzSLAYzRxFTX42">Dull monkey against 	navajo-white background.</a>
 <a style="color:paleturquoise" href="ipfs://QmcKsgUWHQ1fvXTbosxK3RoGBfSp7Az7eqn9QNqDsbZYrF">Chimp appears oblivious by pale-turquoise.</a>
@@ -6547,13 +6547,13 @@ done
 <a style="color:slategrey" href="ipfs://QmaNSTXgpZLQ4LzHegjRQDWMMa7z6KGB1bDvDYvH9ZHBHi">Uninspired creature with slate-grey background.</a>
 <a style="color:lightseagreen" href="ipfs://QmXCiKfkq4hd8ZkUsHb1npi76PPu2WEY13LrxJViFUdrSS">Light-sea-green behind beast - appears wearied.</a>
 <a style="color:khaki" href="ipfs://QmQgQwKfcrsA9jMmeDJYqHbT8ffaMhFSJxxCvM9Xg5ZQTi">Creature is blue on khaki.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmfRAVXD37yK6GWHz8g9VgifjZwztc7oaQftmSpxiTyST6">Beast is unconcerned with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmfRAVXD37yK6GWHz8g9VgifjZwztc7oaQftmSpxiTyST6">Beast is unconcerned with light-goldenrod.</a>
 <a style="color:rebeccapurple" href="ipfs://QmPap4eAeVvEsu1WvgJZTjxdkgEG5c688eae4pnSBnA4ek">Character on rebecca-purple wall: glum.</a>
 <a style="color:cadetblue" href="ipfs://QmYWmt3cQUvZtm7dVbicoH64W2NMpr42uBtj8AK23ZCQUE">Individual looking dulled by cadet-blue.</a>
 <a style="color:seagreen" href="ipfs://QmT5fWACJkqmg8K8M9Ao89hqrFDPHUtbb4YDhbJVfVn7jd">Dude appears blue on sea-green.</a>
 <a style="color:lightblue" href="ipfs://QmP4mj8bUgwj1qUNGyUKfjaPW3XN2o3y3M6e8RdiXnBaJa">Unheeding dude with light-blue field.</a>
 <a style="color:powderblue" href="ipfs://QmSoVxANAv4sD9hCijDd6bcXMiQwbWQpk6z7hj8Xtcf2zt">Character looking unexcited by powder-blue.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQcwgYDPYZVpgcs3gfN84Dt6GAz3nhJHSZftWxKEgBdtT">	light-goldenrod with creature being tired.</a>
+<a style="color:	goldenrod" href="ipfs://QmQcwgYDPYZVpgcs3gfN84Dt6GAz3nhJHSZftWxKEgBdtT">	light-goldenrod with creature being tired.</a>
 <a style="color:navajowhite" href="ipfs://QmXdHygbCsuAam5DVxWVRxygZQF1gr4yWGoyhMV4B8ZkQK">Disenchanted simian on navajo-white field.</a>
 <a style="color:powderblue" href="ipfs://QmXj2AJhLfesz3TcnGkqHM6h3orhFSK8suNA2EcBQJNszM">Character being dulled by powder-blue.</a>
 <a style="color:skyblue" href="ipfs://QmVr4zzpwNJ8xqJ6PsMMMY9ov6ykA4gJiACGVwKvSpJWER">Primate by sky-blue background: spritless.</a>
@@ -6567,7 +6567,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmNcZDs8SwCwq7aynEYMtReoTZRJNd6m4M7WvS7pdL2jxF">Primate by sandy-brown wall: souless.</a>
 <a style="color:seagreen" href="ipfs://QmYcLVecSghNoRTBCA77gVvyn2MtCH7TmAwDavg2S8t5Gk">Gorilla being vacant on sea-green.</a>
 <a style="color:seagreen" href="ipfs://QmeScrZQfLMDvmaiEMweaQ6zttjVruPGjR3DFhVh36Ru86">Primate looking unconcerned against sea-green.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmUQ4eX4d4dZmmGNBqsSgXeFQniKgoaoGvQXg1ghtitSf8">Individual by light-goldenrod setting: dismal.</a>
+<a style="color:goldenrod" href="ipfs://QmUQ4eX4d4dZmmGNBqsSgXeFQniKgoaoGvQXg1ghtitSf8">Individual by light-goldenrod setting: dismal.</a>
 <a style="color:lightseagreen" href="ipfs://QmRaCscWah7CS1gTuSmdnV7tYNeBxC6qEyaN6MuPrSjAro">Blue individual against light-sea-green setting.</a>
 <a style="color:peachpuff" href="ipfs://QmRw9aSajyx39F7fAY3ao86A8x4k59zoLqjwem6PZMZPMs">Peach-puff behind critter - appears indolant.</a>
 <a style="color:	goldenrod" href="ipfs://QmPRuth6akjesKxDTCZUCMHcsiE7BS9VjB6a2QhnLYKskE">Primate is disenchanted against 	goldenrod.</a>
@@ -6579,7 +6579,7 @@ done
 <a style="color:seagreen" href="ipfs://QmayuJyv1M2HqXjaCtVUNALEvgrgEUsYLRBNHAkj6grZUU">Wearied beast against sea-green wall.</a>
 <a style="color:	goldenrod" href="ipfs://QmeLTyBqsE5GGx1hTawZ87agKC4Bgwo7L7rhMECw9txyjS">	goldenrod with gorilla appearing blue.</a>
 <a style="color:orchid" href="ipfs://QmcXJ41P4yP5zrNBK9zgEpxDF6gvW1dRtiw2gJLJchAfsr">Orchid with gorilla - appears tired.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmVMoKFLVorj5drijQUU81fEZy2sojbMQ7BZuMo87ZJgqR">Primate seems worn against 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmVMoKFLVorj5drijQUU81fEZy2sojbMQ7BZuMo87ZJgqR">Primate seems worn against 	light-goldenrod.</a>
 <a style="color:rebeccapurple" href="ipfs://QmVZrggavG9vP4pqsVGK3bWaLonHRHCGecDqSQHpeJ5Pzp">Simian appears dead with rebecca-purple.</a>
 <a style="color:	goldenrod" href="ipfs://QmPztodh6bXj8DHA6gN7WA5dizS7C8WaMP8Mm4WuqoVnV6">Character is spritless against 	goldenrod.</a>
 <a style="color:peru" href="ipfs://QmPWK4U14Go8sgoojJ9ZKEytn9aRcMMF1gx1bDfH8pC4BR">Critter being inattentive with peru.</a>
@@ -6735,7 +6735,7 @@ done
 <a style="color:mediumseagreen" href="ipfs://QmT3jz9BRxHhbHgws7CGMS3Pc1ouv7oqyGBJLsN4PGf8eD">Creature on medium-sea-green background: insipid.</a>
 <a style="color:steelblue" href="ipfs://QmazU9YfDSfBMxL2f5vfH4wK482vvD9FjiYrh2n6uVNXAx">Steel-blue with gorilla appearing dull.</a>
 <a style="color:darkseagreen" href="ipfs://QmbYM95sfnhDGK1SSCqv6dinrbHgKkV23PmjHc7Fqm92MC">Dark-sea-green with primate being impassive.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmatdVoNPk25wjkomMp8sr3YKeWdCj9Vgx8tuDNAe9Dgkb">Critter looks disinterested with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmatdVoNPk25wjkomMp8sr3YKeWdCj9Vgx8tuDNAe9Dgkb">Critter looks disinterested with 	light-goldenrod.</a>
 <a style="color:khaki" href="ipfs://QmacHNAqcgvHPCCgdyiepmT7aij5gz6XvnvSUb7xDtYH43">Languid gorilla against khaki setting.</a>
 <a style="color:goldenrod" href="ipfs://QmWk4GgAzbFesW6KuBm3JaDSEqo5yJXifji5RebmAFaBM7">Chimp by goldenrod background: down.</a>
 <a style="color:mediumseagreen" href="ipfs://QmZKjbg2Ma8WLwyhk96NdF5sD4D4duHj3wRV7zBB9srR59">Impassive beast with medium-sea-green field.</a>
@@ -6756,7 +6756,7 @@ done
 <a style="color:floralwhite" href="ipfs://QmYanJnh1xL8Ad2UGdgQwuQGjDNBhF6GKxjvimifGpToPL">Character looks inert by floral-white.</a>
 <a style="color:lightskyblue" href="ipfs://QmV9Td2yV4Nxc1ewcYZYLbFsq7qnxcZsJEULCmmGXQhudG">Gorilla is blase with light-sky-blue.</a>
 <a style="color:steelblue" href="ipfs://QmU3rpJ6jAWqg53bM4VWvjtLhxN9V4jmqVLyN6yst6xZXZ">Steel-blue behind critter appearing blase.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmUWNdzx1wegJ1mgodGqdSTN5vpMespKJ1X4353rCrGmPg">Light-goldenrod with character being dulled.</a>
+<a style="color:goldenrod" href="ipfs://QmUWNdzx1wegJ1mgodGqdSTN5vpMespKJ1X4353rCrGmPg">Light-goldenrod with character being dulled.</a>
 <a style="color:	goldenrod" href="ipfs://QmNXw6o1cW2Sr8Yev9sr8PhUWFg9f5vzowgMUBVQkG8Gxg">Dude looks weary on 	goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmR3gJCHbdkSHdwRN1JFvn7CNHTgHGtzGK3H49y1hzX19C">Jaded critter with sea-green setting.</a>
 <a style="color:lightskyblue" href="ipfs://Qme1i9rSq6Xje6aYqg7xm1NaKggMrGjKRBwpo7xRk1uwMC">Monkey by light-sky-blue setting: sad.</a>
@@ -6797,7 +6797,7 @@ done
 <a style="color:cadetblue" href="ipfs://QmZByozUZ2vkafu2FPe5ZXMW2b8Nvy9csVxRKoUE9Vq2hn">Blase chimp with cadet-blue color.</a>
 <a style="color:ghostwhite" href="ipfs://QmQc86P3wYMiEcgV7gHfZGfir9JZB93SuXDZdT9vN8qyZA">Indifferent beast by ghost-white wall.</a>
 <a style="color:lightslategray" href="ipfs://QmZcGqb5kzjnP91LhPmrkjK4nGKCD6oN7L1g4QdhYx1yvV">Character by light-slate-gray setting: unexcited.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmYzNNt6YSPTqpq8m7TnvHuQ731Rz7nUrpwNGLWY3ZrM6T">Uninspired simian with light-goldenrod field.</a>
+<a style="color:goldenrod" href="ipfs://QmYzNNt6YSPTqpq8m7TnvHuQ731Rz7nUrpwNGLWY3ZrM6T">Uninspired simian with light-goldenrod field.</a>
 <a style="color:slategray" href="ipfs://QmVJccjLLbiNxYUmTmUyGHmJGcGb3aoFMbzUDkj79SzKB5">Character being dull against slate-gray.</a>
 <a style="color:paleturquoise" href="ipfs://QmTxvD7VkY1sqNEFHeoxJ47VUDSozP2sBg7FpD9ouKBN1J">Critter against pale-turquoise wall: unconcerned.</a>
 <a style="color:rebeccapurple" href="ipfs://QmZFt6bALYUqqZsHdjuuhY3Zb2UcM7LBYMwtQD9pUMynjD">Creature looks glum by rebecca-purple.</a>
@@ -6805,7 +6805,7 @@ done
 <a style="color:chocolate" href="ipfs://QmdmGB9CCRVok2ThrocXQtBB4vVoSx4gwASZ3Gxh7wfcLa">Chimp with chocolate wall: dismal.</a>
 <a style="color:seagreen" href="ipfs://QmVh2h7Ns8C1u9CQgD9QyZnPZwi8giqEMSp5QrrcnGCrMW">Simian by sea-green background: tired.</a>
 <a style="color:seagreen" href="ipfs://QmQTquMHyYcBaXCS7bZccESzF2CoACtox9TmhRq38XJ6ey">Sea-green with creature being impassive.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qmd24XHiToyST6QdF7f6XXFraBhTr49YPT2JQDkqju7kdZ">	light-goldenrod with monkey - appears weary.</a>
+<a style="color:	goldenrod" href="ipfs://Qmd24XHiToyST6QdF7f6XXFraBhTr49YPT2JQDkqju7kdZ">	light-goldenrod with monkey - appears weary.</a>
 <a style="color:skyblue" href="ipfs://QmPzJUxkvCwZZVNBCwS8aqrkFY23UeATpuwCkA1VM99r5K">Beast is jaded on sky-blue.</a>
 <a style="color:navajowhite" href="ipfs://QmQ41LTBe52XmJfum6Fjp7fqhrLwGUM8dJDCXbjsFVtdWn">Character by navajo-white wall: indifferent.</a>
 <a style="color:seagreen" href="ipfs://QmcMEDukCPydfGF1fiUkrQQecU4BZBhoeQzDnZ6s4zWiEx">Sea-green with critter being unexcited.</a>
@@ -6837,7 +6837,7 @@ done
 <a style="color:steelblue" href="ipfs://QmTu1bKLSyehx2gnpqKLLvyWz2FfCRJYHsD4aXohg2TjWW">Chimp by steel-blue wall: dulled.</a>
 <a style="color:peachpuff" href="ipfs://QmP666Aeb9C1pMm79nE3HfTkDW8oX8ptwqW46pHZ29PkuU">Peach-puff with chimp being unconcerned.</a>
 <a style="color:lightblue" href="ipfs://QmXzDo2mDmnkRFFEF3xu8aFG84MwmqUERFJCGYcgXfToEU">Gloomy chimp on light-blue wall.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmVvXJ3briV841ieXJ2dPqh4HKdUDcMNXaUPVybK9FPStY">Character looking deflated with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmVvXJ3briV841ieXJ2dPqh4HKdUDcMNXaUPVybK9FPStY">Character looking deflated with 	light-goldenrod.</a>
 <a style="color:	khaki" href="ipfs://QmSuAtzqJhMYJLCrwuvDP4n5c6War8CuFAMrHg8Bse2bTg">	khaki with creature appearing sad.</a>
 <a style="color:olivedrab" href="ipfs://QmPRF7kdnN7syXLrcX7gB3vEHDDjRrPP5ghV19HCnu1az5">Creature being dissatisified on olive-drab.</a>
 <a style="color:seagreen" href="ipfs://QmSuVEbNVxLL6DBuNFF6omYrtmuSEoVRGv699DHwnJMyYh">Jaded gorilla on sea-green wall.</a>
@@ -6868,7 +6868,7 @@ done
 <a style="color:seagreen" href="ipfs://Qmbx7LB8RqdfhADWVFyZwpjaTVUvZZ9NFFNxRPaF7EBPoM">Gorilla on sea-green setting: inattentive.</a>
 <a style="color:khaki" href="ipfs://Qman88AnVySqd9TWcW6ca6CQHX2ZVEQT4AGvG8KrDwjMyi">Dude appears down on khaki.</a>
 <a style="color:chocolate" href="ipfs://QmTzhXMze3fUcwjmseSZnHjJ5pf1mhPnVV1dXHUTe3AtDh">Dull dude with chocolate wall.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmeAWH85VUWMXtbi1zmK6F6KBgY3F1XPAfsaEinHRRJJUM">Oblivious gorilla by 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://QmeAWH85VUWMXtbi1zmK6F6KBgY3F1XPAfsaEinHRRJJUM">Oblivious gorilla by 	light-goldenrod wall.</a>
 <a style="color:peachpuff" href="ipfs://QmbwQd5QEir1V3EGYXPitwn9gFUaTfhBpxNNDEweProMRV">Beast being deflated against peach-puff.</a>
 <a style="color:	navajowhite" href="ipfs://QmWX3Kx2NX3AK8WxTQwktVYLMFHX3pHm77ThynhgmU8dP8">Creature with 	navajo-white field: unconcerned.</a>
 <a style="color:	goldenrod" href="ipfs://QmV5EwjjtX6VDsUaBibZxV2ca3nbuQusu4r7ZRjvSPe95U">Character seems souless by 	goldenrod.</a>
@@ -6942,7 +6942,7 @@ done
 <a style="color:seagreen" href="ipfs://QmW7T5xH9xY6sRi3nVbzw7zjmZ3hrSZezq2awGhsJYCso1">Individual against sea-green background: deflated.</a>
 <a style="color:sandybrown" href="ipfs://QmPRe1ANj9ZS12t6AD7GtXYjY8U9EhRPZv61FHxkrYsNVe">Critter looks jaded against sandy-brown.</a>
 <a style="color:seagreen" href="ipfs://QmPESPREQJw8WkDvoDSFY5NjaymrUyiAMtCYCjBzSTTLDC">Critter appears uninspired on sea-green.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qmc1fXGsJUpaAfx7hxSetXeN2jrrW7wkBwAR8SVsmx1u2N">Primate against 	light-goldenrod color: disinterested.</a>
+<a style="color:	goldenrod" href="ipfs://Qmc1fXGsJUpaAfx7hxSetXeN2jrrW7wkBwAR8SVsmx1u2N">Primate against 	light-goldenrod color: disinterested.</a>
 <a style="color:pink" href="ipfs://QmXr84CPzw7jFB76pWWebP8vEqAqQqDECdm4MQkLunbBHR">Unconcerned monkey by pink field.</a>
 <a style="color:seagreen" href="ipfs://QmNvpnQYjdMz27x4GH5kNpvrhVfSSvynX91XzJzchvZWs1">Sea-green with primate - appears slack.</a>
 <a style="color:lightslateblue" href="ipfs://QmWCDvMMZKAfYKSUemMH3mXbeaBFzNvPXCE4XkPiUKorNi">Dead critter against light-slate-blue setting.</a>
@@ -6971,7 +6971,7 @@ done
 <a style="color:olivedrab" href="ipfs://QmSHqRWUtmiwNGVsH7tBx5T1AobsxowuLBUkPuNrpX2W7q">Olive-drab behind beast appearing depressed.</a>
 <a style="color:cornflowerblue" href="ipfs://QmViu1ZWKhdK8cvSSDMZnLdtuetk5MPczfPKpxpqECB45y">Wearied dude by cornflower-blue field.</a>
 <a style="color:rebeccapurple" href="ipfs://QmQr7iEq3ZcWLnXyfmuYjWsbYncA8rXWecDsP6wfRR3eqC">Dude appears torpid with rebecca-purple.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qma8uzSYbDjuJFRRMDbCvzifMtYoDu77LP3ikjAfRBoxqR">Light-goldenrod with creature - appears dead.</a>
+<a style="color:goldenrod" href="ipfs://Qma8uzSYbDjuJFRRMDbCvzifMtYoDu77LP3ikjAfRBoxqR">Light-goldenrod with creature - appears dead.</a>
 <a style="color:	olivedrab" href="ipfs://QmZo68Sukh3CMqGesHEyXsq3qAfo4WiZrJqnGvmZm9eVc4">Wearied monkey with 	olive-drab wall.</a>
 <a style="color:paleturquoise" href="ipfs://QmXKFEY3hcgQeY1VQGysELDhwFZLJ6mpv2MEiXZAB4xJ3y">Pale-turquoise behind gorilla being depressed.</a>
 <a style="color:floralwhite" href="ipfs://QmTKZdLqbcp1yUrm4xRHuxbFj6WXe1WHmwc1KyQa8q5rMj">Character on floral-white wall: languid.</a>
@@ -6998,7 +6998,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmRGrjWTyCPESjSSXJFdHB8dzgvnDcRWePh9mi4gcbEoBE">Chimp on 	goldenrod background: languid.</a>
 <a style="color:olivedrab" href="ipfs://QmePbmo9fchkcY2xK7AT3WR6fHLeG46E2JVxKFtgWpvxoG">Impassive monkey with olive-drab setting.</a>
 <a style="color:skyblue" href="ipfs://QmP6AkHibLpY3ESFvXD6CYp6m5hxWmRYML29cat8ZhYhfn">Simian on sky-blue wall: torpid.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTAKTLtqUMzYdmKbvrZcQVMkrM7U8FK8Bf6ocZJ2g7Cyd">Dude on light-goldenrod setting: torpid.</a>
+<a style="color:goldenrod" href="ipfs://QmTAKTLtqUMzYdmKbvrZcQVMkrM7U8FK8Bf6ocZJ2g7Cyd">Dude on light-goldenrod setting: torpid.</a>
 <a style="color:dimgrey" href="ipfs://QmcDeoBoH3oZkhM5jymqfEcrKXf2CK8PGXGXvp5Lg36Su1">Chimp by dim-grey field: souless.</a>
 <a style="color:palegoldenrod" href="ipfs://QmbAwaX5575XpGyNzXRsscAdHkW5TX6GfYbPjBZAEJEdaw">Pale-goldenrod behind primate appearing disinterested.</a>
 <a style="color:lightseagreen" href="ipfs://QmfBcthf69zr1yXnDdfoqFRxpQhW7iBs3QhP4nJHMsq9M5">Gorilla with light-sea-green background: frustrated.</a>
@@ -7023,7 +7023,7 @@ done
 <a style="color:paleturquoise" href="ipfs://QmUCHWVGnD3ji8PPMaxxCDXjFTaz2dAvim2ffUefy2tWzm">Simian appears glum with pale-turquoise.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmZPBLTx2yxCpvakbcgXVjizUzmqJxKpydEJA3hcYmTkjB">Dark-goldenrod with creature - appears sad.</a>
 <a style="color:ghostwhite" href="ipfs://QmTU15YEEem3684z8seMJweiDRsFvSyorViyapf8nWtsHJ">Individual by ghost-white setting: impassive.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZVHbj8SGjQmGqL5pHPfq6B4mZAMnQgABXF1HcFN1HjaE">Blase simian on 	light-goldenrod background.</a>
+<a style="color:	goldenrod" href="ipfs://QmZVHbj8SGjQmGqL5pHPfq6B4mZAMnQgABXF1HcFN1HjaE">Blase simian on 	light-goldenrod background.</a>
 <a style="color:lightsteelblue" href="ipfs://QmRx5K7Db8onbhs2WeLChAwuHUZ1BjYBB72mE9R6ioshoa">Dude with light-steel-blue field: unheeding.</a>
 <a style="color:seagreen" href="ipfs://QmcUJAQYJwTkVWhtjSzeHUUNnqE2z5vf34gj3tjGxGrV7b">Sea-green with primate appearing spritless.</a>
 <a style="color:powderblue" href="ipfs://QmYxcK4sBSNJ8gEnpF5Hvh5SvwogagJxB6AoxgZBYB8cAB">Simian seems pathetic with powder-blue.</a>
@@ -7089,7 +7089,7 @@ done
 <a style="color:lightblue" href="ipfs://QmcgFXr1QVNeZxfcX13s7LTWCXQasnbbb1P4V3H9QUMsYr">Light-blue with character - appears dulled.</a>
 <a style="color:skyblue" href="ipfs://QmQQ2oH9xebqHVGxkBJgUjs9a4mj4Gxg91KLAXxFDTGkQa">Beast being deflated on sky-blue.</a>
 <a style="color:peru" href="ipfs://QmXuiDfuieRzmyrsixYByru6Ttk3zE6w9jLAWbXzAkf15i">Peru with individual appearing unconcerned.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmY3P3abndTMC6j1EKSWy7zH5fKxmWE5teB7YnYa9PBifU">Beast by light-goldenrod background: deflated.</a>
+<a style="color:goldenrod" href="ipfs://QmY3P3abndTMC6j1EKSWy7zH5fKxmWE5teB7YnYa9PBifU">Beast by light-goldenrod background: deflated.</a>
 <a style="color:seagreen" href="ipfs://QmbbrxkT7Z82zb5MmdG2wshVLfGJd5umAfVfYANxiRDjLV">Souless dude on sea-green color.</a>
 <a style="color:coral" href="ipfs://QmZCjAEjMAzqEZkwSLXh7rCtrak3avhH9eDWrXMMwEdWmG">Creature on coral field: disinterested.</a>
 <a style="color:navajowhite" href="ipfs://QmQi3c5Vc8V6yWCZ2nBGPkdUJMoHbZYDmTF7yCaF81KpuS">Beast appears tired by navajo-white.</a>
@@ -7217,7 +7217,7 @@ done
 <a style="color:steelblue" href="ipfs://QmU1iHvqXuebGQFHnEfqXATMaEGJgrRfLESHxhWB8tT8uB">Critter being wearied on steel-blue.</a>
 <a style="color:seagreen" href="ipfs://QmPji99b5tYnkCsrH4NHTZQdir3Ze2BxgBy3zYSC5UWFTL">Simian by sea-green field: dull.</a>
 <a style="color:snow" href="ipfs://QmZ8DMMxSSeGoaShugfjCZv2EPA3t5MUQYKgRyFsTJbVom">Dude on snow setting: wearied.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmfKzN9FzAjQNmfZhxMXwLRMbuSNbCyHMfRAykhY2yD6Jj">Monkey by 	light-goldenrod color: slack.</a>
+<a style="color:	goldenrod" href="ipfs://QmfKzN9FzAjQNmfZhxMXwLRMbuSNbCyHMfRAykhY2yD6Jj">Monkey by 	light-goldenrod color: slack.</a>
 <a style="color:slategray" href="ipfs://QmTiAzhi9YyQStY14zTS4NoW5a8HLDRkBxxerxRZ58QMvw">Dismal simian with slate-gray background.</a>
 <a style="color:goldenrod" href="ipfs://QmYnEUGdzwQwHsPGLRqQ9vNpZGMg9ruv4a7xvJkFChLG5Q">Beast on goldenrod field: worn.</a>
 <a style="color:cornflowerblue" href="ipfs://QmTVjxqaPZK1TTxNAREm1HomaS8BfBS6n759BmUfVNtg5R">Cornflower-blue with chimp appearing deflated.</a>
@@ -7303,7 +7303,7 @@ done
 <a style="color:skyblue" href="ipfs://QmNxXfoF7V2sc6cc8zvaYrpxRL2JQs4VM1vXQLGCaUZLtJ">Primate seems disenchanted against sky-blue.</a>
 <a style="color:seagreen" href="ipfs://QmcBvgRtrWZZKfymVpxrMrsftshE2kFH98F2huejvWxmFq">Worn beast with sea-green background.</a>
 <a style="color:skyblue" href="ipfs://QmceWDiCbKeBc7NHtE6gpFV3u4TwF8ZshDpSVotTAA8QKN">Chimp against sky-blue field: tired.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmWbf8NkZiFk6Lt3GNMqJv9BpcGxoHbU4Pc2j7hHpPSpoJ">Indifferent monkey on light-goldenrod setting.</a>
+<a style="color:goldenrod" href="ipfs://QmWbf8NkZiFk6Lt3GNMqJv9BpcGxoHbU4Pc2j7hHpPSpoJ">Indifferent monkey on light-goldenrod setting.</a>
 <a style="color:	khaki" href="ipfs://QmNbXB1ASWLBBiSz59zdNBT87thiG29dUEWGmi3fkyuqC5">	khaki behind character being unconcerned.</a>
 <a style="color:seagreen" href="ipfs://QmNVFf21cQfsnviDjZLgW6113LWqBjPeMwGKqexSTyzDm7">Sea-green behind character being insipid.</a>
 <a style="color:pink" href="ipfs://QmcudofcoBvyK5oFVk8iCC2457skjgMFQ7BPZpWN7A3XTX">Miserable individual against pink color.</a>
@@ -7371,24 +7371,24 @@ done
 <a style="color:	navajowhite" href="ipfs://QmUz9XUqzgGqj5WztEitdUZnD46VgQmkDeh1QtyNVj8s7p">Souless individual on 	navajo-white wall.</a>
 <a style="color:steelblue" href="ipfs://QmRQRtF3KBEuLG3gpDz9K6QwGBxfwFD7oHxQ7qKwKKr7qc">Creature with steel-blue setting: unimpressed.</a>
 <a style="color:skyblue" href="ipfs://Qmf9FwNvN2RdQUdqwuKkk5ecSi2RubZnDtSLE3YTPdRjMS">Monkey being blase on sky-blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPmwqaS1DAKoZLtFsFic3zoexUdcFR5ZEg1LbrWZZiyZv">Dismal critter on light-goldenrod color.</a>
+<a style="color:goldenrod" href="ipfs://QmPmwqaS1DAKoZLtFsFic3zoexUdcFR5ZEg1LbrWZZiyZv">Dismal critter on light-goldenrod color.</a>
 <a style="color:peachpuff" href="ipfs://QmUcysAmz56HeEPbqB5tWMo8ddG3uYijMUk5Rvm5jFfHjt">Simian is disinterested on peach-puff.</a>
 <a style="color:paleturquoise" href="ipfs://QmfNkxnAj7HpJg4egUmYQD2x49drd7qhWDCRLGuRConohk">Pale-turquoise with critter - appears inattentive.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmWWRoPregDAL2eH1HVxicZ1wyw8HPSQPEpWwyUAExwCFY">Apathetic beast on dark-goldenrod field.</a>
 <a style="color:khaki" href="ipfs://QmeGBaDZEyrX8fuVD1ERSPcw9UKN2ck9fjSCXJvPjRT1cv">Simian seems vacant against khaki.</a>
 <a style="color:ghostwhite" href="ipfs://QmfBgv6QSFXDGiH7cTXWNXm29hQp6rRyJgUmk2E16gx1Rr">Unconcerned monkey by ghost-white background.</a>
 <a style="color:rebeccapurple" href="ipfs://QmVtzYt2TLaVa67eGmyP3SJZsj6MtMyreoy9gh99AeqRKF">Rebecca-purple behind critter being indolant.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZCVUBQMPWMfrsyHgoALamXuPC9pJPTNnCUftbTocabMs">Beast with light-goldenrod background: sad.</a>
+<a style="color:goldenrod" href="ipfs://QmZCVUBQMPWMfrsyHgoALamXuPC9pJPTNnCUftbTocabMs">Beast with light-goldenrod background: sad.</a>
 <a style="color:navajowhite" href="ipfs://QmPYc4o5e4Qk6coUUaPJqNTcbCvZD9LLiLmg1dscY8NAvo">Monkey seems dismal by navajo-white.</a>
 <a style="color:sandybrown" href="ipfs://QmbC7MqMcQtXwNCu7iVQ1YgmW97rS8zbUdPDZchhxLuokk">Sandy-brown behind primate - appears wearied.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmdv8wikf9N3XHzG9d7RipDwF2Qd6Do3kKCPHLT49qxmyH">Light-goldenrod with critter - appears languid.</a>
+<a style="color:goldenrod" href="ipfs://Qmdv8wikf9N3XHzG9d7RipDwF2Qd6Do3kKCPHLT49qxmyH">Light-goldenrod with critter - appears languid.</a>
 <a style="color:steelblue" href="ipfs://Qmcdbvxn5gT3ZDQntPoMzAj5DNZMxTmVAE124nwFggfSvR">Steel-blue with primate being dissatisified.</a>
 <a style="color:powderblue" href="ipfs://QmWM8R3hZYLFYzQr3nF3wWzyvV1YduJJh9e5tUuTeDaNiQ">Powder-blue behind dude - appears jaded.</a>
 <a style="color:palegoldenrod" href="ipfs://QmRUMHe2R3oyyESckegv9DCGfc8G12qD6icqc1vEqp9EAi">Critter seems dulled with pale-goldenrod.</a>
 <a style="color:lightpink" href="ipfs://QmX612GRLooMp4GC1157wx7XaKXAtjodzVyABgyMkaBamM">Worn character on light-pink setting.</a>
 <a style="color:powderblue" href="ipfs://QmVyrZX7FDumUxbd8Hi1S6cjVVRCw5vrYCmbQ3MYN6xkGh">Powder-blue behind character being unimpressed.</a>
 <a style="color:powderblue" href="ipfs://QmWVjYaeXkcsDY7EygngAe6mcf5DmvzwSkUKnca4qh4Rpn">Powder-blue behind chimp being frustrated.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZtJfFzYrATo5L9vhLtjtrRiVwDYLKn8BNzMQEfZ3Tbpu">	light-goldenrod with monkey - appears torpid.</a>
+<a style="color:	goldenrod" href="ipfs://QmZtJfFzYrATo5L9vhLtjtrRiVwDYLKn8BNzMQEfZ3Tbpu">	light-goldenrod with monkey - appears torpid.</a>
 <a style="color:palegoldenrod" href="ipfs://QmTZW5vpvbFFwn8abHpMQxL9mfuSkCpiYV964qVHXA4LsJ">Pale-goldenrod behind dude being blase.</a>
 <a style="color:powderblue" href="ipfs://QmYHLbdoTKMVyGUuLrPXZh3squqRpgGywtn6AatqQ2XvXw">Spritless beast with powder-blue wall.</a>
 <a style="color:cadetblue" href="ipfs://QmNPaeT8sn7EwZ1CwAWhKmqYi4gYnwzHD2tqwBwA59mXzz">Souless individual with cadet-blue field.</a>
@@ -7486,7 +7486,7 @@ done
 <a style="color:peru" href="ipfs://QmW4gXPvefFFzgLvd368zGCmhar8J5toyUjHNwNpe1ZMpf">Beast looks neutral with peru.</a>
 <a style="color:floralwhite" href="ipfs://QmQVPZuqFxhw1DrVaip4SBkFLcE7tZZe4G2ZqFindhKbV8">Beast with floral-white background: dulled.</a>
 <a style="color:lightpink" href="ipfs://Qme8wAcoFtbXFeDz1dUwzSG6Wsnxux368WP7CeTC12CVGG">Monkey by light-pink setting: dismal.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmUxKhXr3XSm7sHptW7BdUdwE9fnbDcn2xLbmksQbSASKp">Dude looking tired on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmUxKhXr3XSm7sHptW7BdUdwE9fnbDcn2xLbmksQbSASKp">Dude looking tired on 	light-goldenrod.</a>
 <a style="color:olivedrab" href="ipfs://QmVwPKPPDzsTgu2hn6dBSEKQYCVhtSYS1bgaeCJ3x7NM8g">Simian seems apathetic by olive-drab.</a>
 <a style="color:seagreen" href="ipfs://QmQsE6PBzSUzwyKHjoDgNrqA5NBxb9R4AQiJKx8ziGVBPe">Chimp with sea-green wall: tired.</a>
 <a style="color:steelblue" href="ipfs://QmVHbQRGDYBn1V1Vf6xs2kXaaLjX6YUzNKmprNKSqxnNeR">Steel-blue behind beast - appears blue.</a>
@@ -7494,7 +7494,7 @@ done
 <a style="color:slategray" href="ipfs://QmXB5cSppPxQU9r6U8scy6T6LDWk2Ra8q42tHafbEcWGbE">Monkey with slate-gray wall: deflated.</a>
 <a style="color:ghostwhite" href="ipfs://QmYJUG2QgDHcxZypor7UAqzVzDsugT6ywGoqGXg9toWYxu">Unconcerned primate on ghost-white color.</a>
 <a style="color:powderblue" href="ipfs://QmQDoroqPTqusD6ErQ5cWpYHDn52V1f1tLEwFd5KdR9vtB">Chimp seems dead by powder-blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qma5QMxyWGTVJgVExxickiVLzBSUnLrtx2oMDBTHAeM8c6">Light-goldenrod with monkey being wearied.</a>
+<a style="color:goldenrod" href="ipfs://Qma5QMxyWGTVJgVExxickiVLzBSUnLrtx2oMDBTHAeM8c6">Light-goldenrod with monkey being wearied.</a>
 <a style="color:skyblue" href="ipfs://QmZLHVjfz41TPe7Tjibmwq783PMBovxqQzyxvhCuXSedJd">Gorilla seems dissatisified with sky-blue.</a>
 <a style="color:ghostwhite" href="ipfs://QmZ8RmmydjxVzMphSd7hk6chzfvA4PDKKLp4Uphwcdy9dY">Gorilla on ghost-white field: oblivious.</a>
 <a style="color:seagreen" href="ipfs://QmfW4qeFnvez4jL2zRBuKahzfHJ2CVAS9sNv2yPLZLG2yy">Sea-green with chimp - appears dead.</a>
@@ -7527,7 +7527,7 @@ done
 <a style="color:chocolate" href="ipfs://QmWA8WKDJPVkPgkjTeYaZd6u5JrgAqNgcM86qwnThdgzbA">Chocolate with simian - appears down.</a>
 <a style="color:	navajowhite" href="ipfs://QmQNWJnaiynoUiDsNMJjHvozad9yuHdFLveF4c9c3Bvrz7">	navajo-white behind individual being dull.</a>
 <a style="color:dimgray" href="ipfs://QmfQVEqqzhFa6eUZE9LJQPVX8gtZwSZ4pNRGkGDu1AmXY1">Dim-gray with monkey appearing tired.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmSD2JDHdopGBsMpFXnsa3pdf4fw6gBqmJmNWrEWFNAG4q">Monkey with light-goldenrod color: dull.</a>
+<a style="color:goldenrod" href="ipfs://QmSD2JDHdopGBsMpFXnsa3pdf4fw6gBqmJmNWrEWFNAG4q">Monkey with light-goldenrod color: dull.</a>
 <a style="color:	goldenrod" href="ipfs://QmUNYgxQNTj2DTPmFMU8PGwEFizdCPJM7mvvqi5tzELL7G">Gorilla by 	goldenrod field: unconcerned.</a>
 <a style="color:oldlace" href="ipfs://Qme9mAmbZGrF1bd4atPffGEq2GwoLaFCa6AQEgznesyejG">Frustrated critter by old-lace color.</a>
 <a style="color:khaki" href="ipfs://QmP4SQbuY3wEDZQB5BiBw8sPQcQuw1UdLcpLRXsQvG3vjM">Unconcerned primate with khaki setting.</a>
@@ -7550,7 +7550,7 @@ done
 <a style="color:	darkolivegreen" href="ipfs://QmfWmLag5PA7wyFEWDX5VGpiDQ6rjTbs39cxuB4QgV5FPo">Creature is languid by 	dark-olive-green.</a>
 <a style="color:skyblue" href="ipfs://QmcFEpFAiPytu5QdyKtftmT4TEnVFgeCdC5xNrR1eUTwNn">Inattentive critter by sky-blue wall.</a>
 <a style="color:powderblue" href="ipfs://QmfBBoQxiX3kvJencmX6bZofxYZKvVoxcj8AQyiBikbsrR">Monkey appears depressed against powder-blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmd7Bzd81mXtEEToQAmeU6CfaDX9kgoHHQtWq22xp6ebbL">Creature with light-goldenrod color: glum.</a>
+<a style="color:goldenrod" href="ipfs://Qmd7Bzd81mXtEEToQAmeU6CfaDX9kgoHHQtWq22xp6ebbL">Creature with light-goldenrod color: glum.</a>
 <a style="color:steelblue" href="ipfs://QmPdxGn9g8VLFpUHTt43m3MMC8XvaYNXMkCcweNxBv7wZD">Deflated beast on steel-blue color.</a>
 <a style="color:peachpuff" href="ipfs://QmNgTGkGdHhX7K6UfSASP1S1yPhumjmnZK3r1W9cBUzHf6">Gloomy simian on peach-puff wall.</a>
 <a style="color:seagreen" href="ipfs://QmWvxqQA4XFYCqS9STe6wvN57Uau8W52gCjHuye96LoLLT">Character with sea-green background: unheeding.</a>
@@ -7571,7 +7571,7 @@ done
 <a style="color:lightseagreen" href="ipfs://QmSgwwCSsZCjGsZR4o88hwAC5WBopvpJKD9neUwpZK258n">Critter on light-sea-green color: fatigued.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmdyiFBu18SpRaMk9udK7zw31c8XRdFANACkbZU57TFZLB">Chimp against dark-goldenrod wall: inert.</a>
 <a style="color:skyblue" href="ipfs://QmbfUncePzR4ezgeHpczmgnEaDSwEaz93C9c4prPiC5FhR">Monkey looking dull by sky-blue.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmVrhyN51APA2JbddNHZbPK1BxmjriPv4Jm1D4MqcuVTag">Critter seems oblivious against 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmVrhyN51APA2JbddNHZbPK1BxmjriPv4Jm1D4MqcuVTag">Critter seems oblivious against 	light-goldenrod.</a>
 <a style="color:	olivedrab" href="ipfs://QmXGCj17DufrqnCmXYMGjihsLENRyeQRLEmSkTgM9deCrd">Dude is down with 	olive-drab.</a>
 <a style="color:	goldenrod" href="ipfs://QmPcpjm4tUAA6FEowLDzPVEm3SGT9QgVgUoRPC38B9bypE">	goldenrod with critter appearing unexcited.</a>
 <a style="color:olivedrab" href="ipfs://QmQFM7jPhWmAnbfrkDydPve3L5JJAbpVas2cz8E17qXsVC">Olive-drab behind character appearing souless.</a>
@@ -7605,7 +7605,7 @@ done
 <a style="color:seagreen" href="ipfs://QmWiXTta4CLik4U9m5EdY9bWBZv5VkqYn285mDhoVyZvDK">Unheeding gorilla by sea-green wall.</a>
 <a style="color:	khaki" href="ipfs://QmVVN2aq1a4wd1BdSh65dDqC8Ws8qphRcZEFXmvcprtupV">Simian seems disinterested by 	khaki.</a>
 <a style="color:skyblue" href="ipfs://QmSf9c48XwptdFkHG4mnG8xkFEtKJYuJXn2CuLW3Js4zo4">Monkey against sky-blue wall: uninspired.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmbKUMfHdQCtSGP9bnkPsZdg98i6bcCCJyFL7CuuN13vzC">Monkey seems uninspired on 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmbKUMfHdQCtSGP9bnkPsZdg98i6bcCCJyFL7CuuN13vzC">Monkey seems uninspired on 	light-goldenrod.</a>
 <a style="color:sandybrown" href="ipfs://QmaZueDftxnRgmjUreU2JYajyybcL8FzpEvjo84F7uU7ro">Individual seems oblivious against sandy-brown.</a>
 <a style="color:seagreen" href="ipfs://QmWX3QzPVDcJBB3J3qiEkyajFT1vj4ZWjoPp5SELSBNCFp">Gorilla is indifferent on sea-green.</a>
 <a style="color:bisque" href="ipfs://QmdWeSCFANW3HhyfrDkFRHYik9aioo96vyDngsrW8Z62Jz">Souless chimp with bisque wall.</a>
@@ -7769,7 +7769,7 @@ done
 <a style="color:seagreen" href="ipfs://QmXsp8xi7Hp3ygVLZjJcoSVuywnyizVuMxmwvMMu2nGK39">Creature on sea-green color: unexcited.</a>
 <a style="color:seagreen" href="ipfs://QmTGinof2j1zdcq17zqeS5REUenfZPcfi2bex3PwUDvjKd">Character against sea-green field: apathetic.</a>
 <a style="color:seagreen" href="ipfs://QmPh7UFJdhFawDecELE9rNre6VrYW1bzi7NxLgA7i5bD5z">Creature on sea-green wall: vacant.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXSSraZyaqiGCwaxcWLA7pc3ZpKRJtxnEv1izu3SZeqGQ">Simian looking dulled against light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmXSSraZyaqiGCwaxcWLA7pc3ZpKRJtxnEv1izu3SZeqGQ">Simian looking dulled against light-goldenrod.</a>
 <a style="color:navajowhite" href="ipfs://QmVwgLA6c8wxUSMJ5jRtdUTSWAU78UrjgguUXG8wEjtt7T">Navajo-white with monkey being dulled.</a>
 <a style="color:olivedrab" href="ipfs://QmZ8enoYiUPgcpHRPw3HakhRG19PfWfD9TR47kcbDURm8W">Olive-drab behind chimp appearing down.</a>
 <a style="color:mediumseagreen" href="ipfs://QmTosUZkCvr9KLdi22eP2f5cqSWkgRMmw7WY2qvZ9yvpo2">Chimp with medium-sea-green wall: disenchanted.</a>
@@ -7842,7 +7842,7 @@ done
 <a style="color:slategray" href="ipfs://QmanwTChckEknDu4XXrCsr67ygXHy4uTCfjBmCtMaTE2po">Primate by slate-gray background: oblivious.</a>
 <a style="color:	navajowhite" href="ipfs://QmVG8bJiQS3XUF4zRjVkUEiyHL6HaihDjZeEayeMVzfuD6">Simian looks spritless against 	navajo-white.</a>
 <a style="color:olivedrab" href="ipfs://QmYiiMZQmebuZTyCFwBqMTWdAq3Gezf1GykMBTwfGaWNeE">Dude against olive-drab color: torpid.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmdLnfN6qHpdWpL8o3RAnRwwRdzJgT2vADRpEsGZFJBaPV">Unheeding character on light-goldenrod field.</a>
+<a style="color:goldenrod" href="ipfs://QmdLnfN6qHpdWpL8o3RAnRwwRdzJgT2vADRpEsGZFJBaPV">Unheeding character on light-goldenrod field.</a>
 <a style="color:lightskyblue" href="ipfs://QmVaZFrLezLbWuQUzLTgtfCg6jL5jX6HkxMVQ2Q5CG4oDA">Light-sky-blue behind chimp - appears wearied.</a>
 <a style="color:lightskyblue" href="ipfs://QmRAV9xSsQFqrdANdUxYeMqwbYV9q45NMrM8ZKkmbrhqbs">Wearied individual on light-sky-blue wall.</a>
 <a style="color:sandybrown" href="ipfs://QmYjEDqhb9dtoiJShEaUaVceoTa7hf25dhH8JYxjtF3HJ6">Sandy-brown with chimp appearing blue.</a>
@@ -7876,7 +7876,7 @@ done
 <a style="color:seagreen" href="ipfs://QmcCLc7rqqX54g7Ga9usjP1X9AtAtmq6QWM4h4NEU9Aup4">Unimpressed beast with sea-green background.</a>
 <a style="color:olivedrab" href="ipfs://QmVShBK9QZTZQFy53qYHUtkThzrgVDrToUqqSHvVGURe3G">Dude looking disenchanted on olive-drab.</a>
 <a style="color:lightskyblue" href="ipfs://QmUfXrr579JBrUTo5Mf1hZ5DKHvDrkTy4dz3dbMKbDKQ6T">Simian looks souless by light-sky-blue.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmcAzVg7ymUGkpiSPnaFRQT38chSimAVZf1SbFagMNsY4N">	light-goldenrod behind beast - appears glum.</a>
+<a style="color:	goldenrod" href="ipfs://QmcAzVg7ymUGkpiSPnaFRQT38chSimAVZf1SbFagMNsY4N">	light-goldenrod behind beast - appears glum.</a>
 <a style="color:olivedrab" href="ipfs://QmbeqCRkD44jAcFU6U1WekwxA5RVqvbhniFt9zXZKbJTTk">Jaded simian with olive-drab wall.</a>
 <a style="color:khaki" href="ipfs://QmfPwwT9uCMakYUBrHi4B8V3MyrwqUV5eSCD8C3ScCoqT6">Character with khaki setting: neutral.</a>
 <a style="color:seagreen" href="ipfs://QmcJWHDwruKQeAoGs7yR4sYgwcgeBTdi5msWWjYtem1T6L">Disenchanted chimp with sea-green setting.</a>
@@ -7973,13 +7973,13 @@ done
 <a style="color:skyblue" href="ipfs://QmWcLWrXKoSPCN9cnkBXR36qjkc6E1nUtutrvyizNjUwqx">Beast by sky-blue background: inattentive.</a>
 <a style="color:lightslategray" href="ipfs://QmYvqFpAwtEoJ3QCvuu34gg9pJi4WTAYEJjUKD4zuRafRP">Individual on light-slate-gray wall: worn.</a>
 <a style="color:rebeccapurple" href="ipfs://QmPLqgMkHWJ7DQ1PTx2WoiGdQYNDcBJA7y7KvDQh7WKKBQ">Creature being torpid on rebecca-purple.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQAxCeTH5q63rxz1iquXJ27ha5cNxY7XgHPPRMZGsSK7p">	light-goldenrod with simian appearing neutral.</a>
+<a style="color:	goldenrod" href="ipfs://QmQAxCeTH5q63rxz1iquXJ27ha5cNxY7XgHPPRMZGsSK7p">	light-goldenrod with simian appearing neutral.</a>
 <a style="color:chocolate" href="ipfs://QmaLw5oVLVYkqLEhternwMniyFqHjvwT2SnQD85ygww16b">Character with chocolate color: pathetic.</a>
 <a style="color:gainsboro" href="ipfs://QmS67EZLtkT8YaJ8XQA311MGtLvoaXeAK2VyukHnGNQFLL">Critter seems unimpressed with gainsboro.</a>
 <a style="color:seagreen" href="ipfs://QmZBDRmui7Z4nmY5LpACdsz5vcn6JTibfprdWFQU5RQANk">Simian looks indolant against sea-green.</a>
 <a style="color:	goldenrod" href="ipfs://QmU9LkQB64UB4AN8SZqtg8NMijmtPfbaEVHWNpz2WEaU7U">Character being pathetic by 	goldenrod.</a>
 <a style="color:powderblue" href="ipfs://Qme4edvbDhCJu5UnczUtq7z1ot2FzvBEiSewYfUXu1xrm4">Powder-blue behind chimp - appears weary.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmUx8aZCB6DdsqG4Q6tCT52uZo3jg28t5Mkj6XbSFHZh36">Chimp looks frustrated with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmUx8aZCB6DdsqG4Q6tCT52uZo3jg28t5Mkj6XbSFHZh36">Chimp looks frustrated with light-goldenrod.</a>
 <a style="color:mediumseagreen" href="ipfs://QmU6AzZUTxY93yKRg7MarAffC9K3H7u2x92BYfvHPfGAeb">Primate with medium-sea-green field: apathetic.</a>
 <a style="color:seagreen" href="ipfs://QmVfsamTAPPgnNxqBAxsq1PhbCaeWBqB3jpCoMDMdGuXyW">Beast with sea-green background: tired.</a>
 <a style="color:sandybrown" href="ipfs://QmUMb876ZWu2uNF68pTa5mLxDCtAaofzTtxwxyWyyXYiCW">Gorilla on sandy-brown wall: miserable.</a>
@@ -8035,7 +8035,7 @@ done
 <a style="color:dimgrey" href="ipfs://QmPUDyt2BmUG4h9NKK5VF2Rnri5vzmVh6W5MNYLK8eGqPz">Dim-grey with monkey appearing fatigued.</a>
 <a style="color:skyblue" href="ipfs://QmTkE22b4imqKB5zDU71SHSRjzmP2Wi1wyhUAbEf9wWwgi">Monkey looking worn against sky-blue.</a>
 <a style="color:navajowhite" href="ipfs://QmUPURtf17koC5DzsyTEpt4Xv98wmv5HpKmTuWgiRcMKzh">Simian on navajo-white setting: oblivious.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmfAr4dhUwHdQWqJTosdbMyHyTmJvu336dbYhtvTbvSL5W">Character by light-goldenrod wall: disenchanted.</a>
+<a style="color:goldenrod" href="ipfs://QmfAr4dhUwHdQWqJTosdbMyHyTmJvu336dbYhtvTbvSL5W">Character by light-goldenrod wall: disenchanted.</a>
 <a style="color:khaki" href="ipfs://Qma1DRnaxVJjggNjf1k4FHzXYyao3QrtokNLUyTpkqidrs">Dude by khaki setting: frustrated.</a>
 <a style="color:whitesmoke" href="ipfs://QmZCiRDDaNSZTVrjxaqUVpgZH5vQEoovQqMrLazoMxZkrf">Individual by white-smoke field: unimpressed.</a>
 <a style="color:pink" href="ipfs://Qmb2ypcMxP5z9nmKNG845eVjGsYJraZQV34G9EQMRzb4mG">Dulled primate on pink field.</a>
@@ -8054,7 +8054,7 @@ done
 <a style="color:darkgoldenrod" href="ipfs://QmWGseRLbooB3WMRpLJsPjsMfJEKsbp7Nr6bNP8tvELLbY">Souless primate on dark-goldenrod wall.</a>
 <a style="color:navajowhite" href="ipfs://QmcqNq2XnWKjyhnKgnQt2hTR4vu1WSjq46mfbHpoB2KW6x">Gorilla is dismal on navajo-white.</a>
 <a style="color:paleturquoise" href="ipfs://QmVGfwefL8KdnTRNU2mwgQryNeW1rie7pAqc51a38b6GmB">Individual against pale-turquoise background: unheeding.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmeu5tJSga1CnQ5hFPz83tAkFnk7nL82tzJrAJzztV24Y9">Simian against light-goldenrod wall: unimpressed.</a>
+<a style="color:goldenrod" href="ipfs://Qmeu5tJSga1CnQ5hFPz83tAkFnk7nL82tzJrAJzztV24Y9">Simian against light-goldenrod wall: unimpressed.</a>
 <a style="color:moccasin" href="ipfs://QmWzZGuPLhsQpDmURX7dQbnfqTw9V2vtL7U3pLKUzzGPrn">Chimp with moccasin wall: unimpressed.</a>
 <a style="color:lightblue" href="ipfs://QmcEhqwugwmDTDX4ny3uk1sYiSbXKyDKAmk6Afw9SCxayZ">Chimp against light-blue background: dead.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmZmcG2PPw9vAH7TtKmwPaCNvHtdtD4sGBTNPiSXCo2yiq">Individual with dark-goldenrod wall: inert.</a>
@@ -8122,7 +8122,7 @@ done
 <a style="color:mediumseagreen" href="ipfs://QmcgReiCWCty58J5r8ePvGuTp1s9MKoXXDPbaCFZKJm6FB">Tired character by medium-sea-green field.</a>
 <a style="color:lightpink" href="ipfs://QmcpuDfpJxKefTC5Ytqw8UMHR15XttJhQMa87VRNhxSncE">Light-pink with chimp - appears torpid.</a>
 <a style="color:	goldenrod" href="ipfs://QmU9S5ZmvEAd3amPYL9GPoC4pak3DtfjJbusRatDuDo5Jt">Beast on 	goldenrod setting: impassive.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmfNhsB6vNoo9dXXN28ATBzHfJhqEPX1Ww3SvA9TR7ZmxY">Gorilla looking insipid on light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmfNhsB6vNoo9dXXN28ATBzHfJhqEPX1Ww3SvA9TR7ZmxY">Gorilla looking insipid on light-goldenrod.</a>
 <a style="color:skyblue" href="ipfs://QmTxTYzTMGpuCqVYHhWzfS5w89XhC82uAZjrqumZCQA4P6">Vacant individual against sky-blue background.</a>
 <a style="color:seagreen" href="ipfs://QmPi2t59f86wsamKqYtoVDYgoYzejaZq8cU3rB8D9ryRDj">Insipid character by sea-green background.</a>
 <a style="color:dimgrey" href="ipfs://QmdTCqoUrkHmieW4PymA1YahjdQcdBpuCXvRxJ9vkXG4As">Dim-grey with critter - appears tired.</a>
@@ -8153,7 +8153,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmS1KFgRs5iLNSgRMALrKgDPV8aHmPLGfcwVPzWhTViQLj">Chimp looks unimpressed on 	goldenrod.</a>
 <a style="color:steelblue" href="ipfs://QmX5MEhFRBxfYFScTXZZ2acrt6RkuQKbuoTHpxKuHWXeYn">Unimpressed creature against steel-blue color.</a>
 <a style="color:powderblue" href="ipfs://Qmdmu9kFEPP3ARGKshEnzk1n7qx3HEQeqhP9da1qjueYGR">Primate being blue against powder-blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRdsytmk1NrZJNRWqRYDmrpuckUvK7TZyEpCZXVzX2TGJ">Primate against light-goldenrod color: glum.</a>
+<a style="color:goldenrod" href="ipfs://QmRdsytmk1NrZJNRWqRYDmrpuckUvK7TZyEpCZXVzX2TGJ">Primate against light-goldenrod color: glum.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmRHTkygxNGaEJkFS1ApKVeyNm2doxtN2qduJkXtxdJ4D3">Dull simian on dark-goldenrod field.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmRP1FaXpAQGFPaNszkjQqaGAPzXsSKadig2V5w3XYe8zk">Inert dude on dark-goldenrod color.</a>
 <a style="color:seagreen" href="ipfs://Qmd8cM7Ae9N1NSVYhS7RJmN17NK9u41aXomBpv3Wwzd6AL">Chimp being apathetic with sea-green.</a>
@@ -8181,13 +8181,13 @@ done
 <a style="color:	goldenrod" href="ipfs://QmRbdPgXQKbigpELdaHHDgtmn9m43Deayvznj6x4ZZoAhQ">	goldenrod with chimp being neutral.</a>
 <a style="color:paleturquoise" href="ipfs://QmXT3gDBWEBix88TedAA4sKrU94ghKkGsBXmxKhPhP6YTP">Pale-turquoise behind dude being souless.</a>
 <a style="color:seagreen" href="ipfs://QmSzNbJs5iaxvsCMT1hmSpjzKYmsj3Awa3HpvR1v9tETqS">Sea-green with individual - appears down.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmSP46CtqpKpyRCAuKruPgqH1e1VsKoWdgyrFtXDpLy7q1">Unconcerned primate against light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmSP46CtqpKpyRCAuKruPgqH1e1VsKoWdgyrFtXDpLy7q1">Unconcerned primate against light-goldenrod wall.</a>
 <a style="color:seagreen" href="ipfs://QmNNAocdCGYSQcujK5ZGsTYwKRwoH5TP1Rb3yzMhsEnFo2">Chimp looking jaded by sea-green.</a>
 <a style="color:slategray" href="ipfs://QmadSHaszWiRvJ5DoKsi8LRGVNmvSUSmw88967DvgyXSMV">Chimp against slate-gray field: inattentive.</a>
 <a style="color:lightskyblue" href="ipfs://QmSPDFuxw2WxNHwgJNpK1ysTanGYRxYsCjyJYAiAFizU2Z">Light-sky-blue with dude - appears disinterested.</a>
 <a style="color:palegoldenrod" href="ipfs://QmVTLxZAu7xoKjMnbk4JWrZwRe31GXVzTN9PhDqDAhu5Jh">Individual being deflated with pale-goldenrod.</a>
 <a style="color:steelblue" href="ipfs://Qmd6QBCEpAfWgMcMxyjQGW9F7ZH95tenvAiPdBSm2ztom5">Creature looks languid with steel-blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmeKBc94fuVYXouEQSSxHNA1VWukHh6VybTC3cgAHjWWL7">Critter is gloomy by light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmeKBc94fuVYXouEQSSxHNA1VWukHh6VybTC3cgAHjWWL7">Critter is gloomy by light-goldenrod.</a>
 <a style="color:mediumvioletred" href="ipfs://QmeZ3PiGVGXRyaVfgL6Ac71mWa7HPPzXMxG8asHiCtaV7y">Simian against medium-violet-red setting: unimpressed.</a>
 <a style="color:peachpuff" href="ipfs://QmTfSWAACR2bvHozWR5YYmWdKVvSP4cEgAwXyKsWJZaKQe">Critter on peach-puff wall: dulled.</a>
 <a style="color:khaki" href="ipfs://QmV3DULnXQjgqd6C1aQRX71a9VkF7ZPAfPHjwafsMBmwnc">Critter by khaki setting: dull.</a>
@@ -8267,7 +8267,7 @@ done
 <a style="color:skyblue" href="ipfs://QmYiczoDwtuq7Y2Z9TtBqxLo272nwhQEy9A3FD5DcUvStX">Individual on sky-blue background: frustrated.</a>
 <a style="color:lightskyblue" href="ipfs://QmYWvZNZCzVLbfJmTtmw6vdumHAwXdguLZ4wiwLaRLy8o3">Light-sky-blue behind monkey being depressed.</a>
 <a style="color:moccasin" href="ipfs://QmcXhEiWvSdDouDfK67smJdp6vULDdG6noNPNcLLhxuAi7">Dulled individual with moccasin color.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmNQPhqyHFzoyWnpwJcyQSweZFkZZdPRD6EeMQMW7kw3Uv">Primate on 	light-goldenrod background: deflated.</a>
+<a style="color:	goldenrod" href="ipfs://QmNQPhqyHFzoyWnpwJcyQSweZFkZZdPRD6EeMQMW7kw3Uv">Primate on 	light-goldenrod background: deflated.</a>
 <a style="color:	olivedrab" href="ipfs://QmcEYaWdg7TMeDjoUXg3eDq8ywqjU4DFSRcC85ovJ7RSd7">Blase critter on 	olive-drab field.</a>
 <a style="color:oldlace" href="ipfs://QmYtYgXXSfFM2hDjqJgbHfjbMSRWMsncCttmTL5SGvNFDy">Primate by old-lace field: apathetic.</a>
 <a style="color:peachpuff" href="ipfs://QmWg1vPRyvG9mUngJBhW29ftrxyX9sREZJrV5pqm9CjmyT">Chimp with peach-puff wall: indolant.</a>
@@ -8369,7 +8369,7 @@ done
 <a style="color:lightskyblue" href="ipfs://QmbsXjudTgWZe5tGZWJzQ5aEFCQze7xMhCnftvr1uahzek">Beast against light-sky-blue background: unexcited.</a>
 <a style="color:steelblue" href="ipfs://QmQNLJ8eXfTDvcsQ64r9LnciJw5rxyZYVaVi3B5MVPvoSe">Simian is inattentive by steel-blue.</a>
 <a style="color:mediumseagreen" href="ipfs://QmVgUxuzBn3wMNbD8Pwru8kAhfSwwppi7rwZdQUR3g2VAH">Dude on medium-sea-green field: unheeding.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmc625SdpNWu14EQyYFgG6Ei4ZzgE1HGdjWvbh2NsUkM2h">Individual is slack by light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://Qmc625SdpNWu14EQyYFgG6Ei4ZzgE1HGdjWvbh2NsUkM2h">Individual is slack by light-goldenrod.</a>
 <a style="color:pink" href="ipfs://QmUjsQqCQCYopxQoo87rvwugMJw3h7Y2HzoGehUzBP2XvC">Simian being spritless with pink.</a>
 <a style="color:moccasin" href="ipfs://QmeSMHSuPp3RyTcLXBxx2nk9BmzokFVejaGHeerKX2cpPX">Moccasin behind beast being down.</a>
 <a style="color:seagreen" href="ipfs://QmXhwfJ8xanxZMKo5pgYM4kYADQSQ1fKzXCqbWHQmN8q6e">Torpid primate against sea-green wall.</a>
@@ -8407,7 +8407,7 @@ done
 <a style="color:lightblue" href="ipfs://Qmb1fZEjsFTVookN5eFq53P7rVprAaEBAg6x1iUHeVCmNZ">Indifferent critter on light-blue field.</a>
 <a style="color:paleturquoise" href="ipfs://Qmf3Np43V8qiBBufCri4xWynwmHC9UHbqP44WcBHt3FGrs">Inattentive character by pale-turquoise background.</a>
 <a style="color:khaki" href="ipfs://QmS7fxqjQJ8T3L3h5xnKX5UiTBta7BcoCBxdeCcZsiAns7">Spritless individual with khaki color.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmVRxfr8YybSgir7ATxP616GCec1xABhkmnWm3BbqsBM2r">Chimp by 	light-goldenrod background: worn.</a>
+<a style="color:	goldenrod" href="ipfs://QmVRxfr8YybSgir7ATxP616GCec1xABhkmnWm3BbqsBM2r">Chimp by 	light-goldenrod background: worn.</a>
 <a style="color:seagreen" href="ipfs://QmZHAFySvoAnshkTYX4Uc8kWGc2m9UqerwcBLTyFvMZo5t">Gorilla on sea-green wall: blue.</a>
 <a style="color:navajowhite" href="ipfs://QmTzdeEe1HC6MSLKDbsr17SwdpWMpdTsnbsekvavKBcxKe">Beast with navajo-white color: impassive.</a>
 <a style="color:navajowhite" href="ipfs://QmZrsNk7ifm3a61gXKZzTkMo6DafPDgKxYRaf8y5cwBd6E">Creature with navajo-white field: inattentive.</a>
@@ -8437,7 +8437,7 @@ done
 <a style="color:	darkolivegreen" href="ipfs://QmYaZxhnHBuw3K8osb14x8QyFGLD9TQDC8uyrajZSPjxJY">	dark-olive-green with individual being impassive.</a>
 <a style="color:cadetblue" href="ipfs://QmP1Vsk41vRJUNESkPqx5pqneadxUdrkhh9xeEp7f1xDA1">Cadet-blue with monkey appearing neutral.</a>
 <a style="color:skyblue" href="ipfs://QmSX8sUZgraNBfoWZbwwkqAPgSHqrqPAF1LgBhbXfsg92x">Slack beast by sky-blue background.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmcaxy7ZkxTJ3Z5dDVPHYjHEDEy2dBY5DZwoaCo9T18G74">Light-goldenrod with simian appearing oblivious.</a>
+<a style="color:goldenrod" href="ipfs://Qmcaxy7ZkxTJ3Z5dDVPHYjHEDEy2dBY5DZwoaCo9T18G74">Light-goldenrod with simian appearing oblivious.</a>
 <a style="color:seagreen" href="ipfs://QmdhtNkuCzfWi83tVyRiwW5Px73keC2tdW3rt8TXzMawJQ">Simian by sea-green color: weary.</a>
 <a style="color:seagreen" href="ipfs://QmZFxbNG1AvLxyMwui9jXhxh1a2Cf2HVHuf7hPGkzo3i8A">Sea-green with gorilla being pathetic.</a>
 <a style="color:	khaki" href="ipfs://QmerNm1G4u8FZKqGEY7EqKxRzvkjqDhUc7BAm5wYQnJLJe">Disinterested beast against 	khaki field.</a>
@@ -8462,13 +8462,13 @@ done
 <a style="color:skyblue" href="ipfs://QmRYqGxTkVoVFpg6WT5nnP5z1pHaWL971ozS4diegBzqY1">Inattentive gorilla on sky-blue wall.</a>
 <a style="color:khaki" href="ipfs://Qmdb6pnpMtLTn2ge7YaARi3uv9sQzRP5RzfGCXQmTXhxJE">Chimp by khaki wall: indolant.</a>
 <a style="color:lightblue" href="ipfs://QmTKKHirpGdMb8CbSg79hfMkJXiYXYAZsJqNbuNZdnHwjz">Dude against light-blue setting: neutral.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmbVVSspZLBkpSEcwkVSNPqebrSvxeGeqkFyHwW5vA6Mvg">	light-goldenrod with character appearing disenchanted.</a>
+<a style="color:	goldenrod" href="ipfs://QmbVVSspZLBkpSEcwkVSNPqebrSvxeGeqkFyHwW5vA6Mvg">	light-goldenrod with character appearing disenchanted.</a>
 <a style="color:skyblue" href="ipfs://QmaE85j45nKkKodHeiXas94CAUY8uM9QPKkCjytprHSSE6">Sky-blue with dude appearing impassive.</a>
 <a style="color:peru" href="ipfs://QmQDVtJAfmYxuirAgCh2bCd9md1YroT1yhcnWvVCn5ifYw">Vacant chimp by peru background.</a>
 <a style="color:mediumseagreen" href="ipfs://QmTsLGbBj2xDdwKWRLfwwuRHUddTeKfoNpSPh3pS5vNn4m">Critter being spritless by medium-sea-green.</a>
 <a style="color:seagreen" href="ipfs://QmcjDWCY9yjzkrMh9XDurVTVFQiKiZVwzJMTMknvTVC4jy">Sea-green behind monkey - appears disinterested.</a>
 <a style="color:peachpuff" href="ipfs://Qmbn4jtAJz6MebCsGKDVsKvypvtAqphH61FtvcfxkUAErM">Peach-puff with creature being unexcited.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPbUai7kcRCQyNPNbR6rH3mYw5f1fzzLDUK4wLwCTyPNA">Dulled character by light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmPbUai7kcRCQyNPNbR6rH3mYw5f1fzzLDUK4wLwCTyPNA">Dulled character by light-goldenrod wall.</a>
 <a style="color:	olivedrab" href="ipfs://QmUJ74xymETES5LPdvpqm5vpKBh4YBhiRJPf7KkyPC5cEd">	olive-drab behind beast being insipid.</a>
 <a style="color:ghostwhite" href="ipfs://QmP3YeC9J955xAS9pj1TaYwnESwMDAShf1z5iRY4G6QLRs">Deflated creature by ghost-white setting.</a>
 <a style="color:rebeccapurple" href="ipfs://QmQFTVSaUx8dUsgNovEGnBoiPhHocZkAPwZJ8anscsAGSF">Primate is dull with rebecca-purple.</a>
@@ -8548,7 +8548,7 @@ done
 <a style="color:	navajowhite" href="ipfs://QmWaghhCxFKmzj2r9JvkQMQ1FHNuympBiKp323WVN4knBm">Gorilla looks jaded on 	navajo-white.</a>
 <a style="color:	goldenrod" href="ipfs://QmPw8LMXkVJfG3ajU3A2D6tUfS8T3qxVmwWS96evEjGBDr">Critter with 	goldenrod wall: spritless.</a>
 <a style="color:darkorchid" href="ipfs://QmUorpV9RfjPcG677rVFaKM518tatACfTQjKn16uEAvUvy">Individual on dark-orchid field: fatigued.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZLnR6dmArd2yJLCjNwdRphUwZv4JvyW9PPXpCibpuxPW">Primate seems frustrated with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmZLnR6dmArd2yJLCjNwdRphUwZv4JvyW9PPXpCibpuxPW">Primate seems frustrated with light-goldenrod.</a>
 <a style="color:olivedrab" href="ipfs://QmeCD5pBPWsdDsWWschvJZ5xMYyjjzBGMfmm3BKwecY4Nc">Dissatisified monkey on olive-drab color.</a>
 <a style="color:slategray" href="ipfs://QmcnFt14fCgtz2HGa8o9ZyF5jSoao1ZtPKNjxjkpkuKbKC">Monkey appears wearied on slate-gray.</a>
 <a style="color:skyblue" href="ipfs://QmPNg5uzoB7tz9j9eA4uJgWoBbQUwV7ujEsTT4WjYy2RVf">Gorilla looking inattentive with sky-blue.</a>
@@ -8621,7 +8621,7 @@ done
 <a style="color:sandybrown" href="ipfs://QmVw33vQWcJahQbTq5wbuVqwqZhchMKZKP5uUPypsDVvYA">Gorilla on sandy-brown wall: unexcited.</a>
 <a style="color:orchid" href="ipfs://QmZjS862NNyumiE1DsfSPZtkx3jDPB55SbeBgby85Cu5Av">Frustrated character by orchid color.</a>
 <a style="color:khaki" href="ipfs://QmXpW2aZtGgYWxVJF3XtvKsYMFPzffZBrVckhkBsPudFTp">Simian seems slack against khaki.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qma15DLuWtUEXQu2jqxxmgnzEE1XLR3yCPeBTi2FMkNjuk">Chimp is vacant on light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://Qma15DLuWtUEXQu2jqxxmgnzEE1XLR3yCPeBTi2FMkNjuk">Chimp is vacant on light-goldenrod.</a>
 <a style="color:powderblue" href="ipfs://QmVcUssuUrjvAwBMfGBvMaDSCafQ7aQ7VndDQhboxgssJf">Jaded individual against powder-blue color.</a>
 <a style="color:chocolate" href="ipfs://QmWqYhac9Gv8QvRNDMuHnMpxE4aPtNwX5C8pmDEr3gy8u2">Chocolate behind chimp being slack.</a>
 <a style="color:powderblue" href="ipfs://QmewAugmHxb2V5snpsRXenRfwY8zGF276j8LJ69DafuXvw">Powder-blue behind primate appearing slack.</a>
@@ -8641,7 +8641,7 @@ done
 <a style="color:pink" href="ipfs://QmaFF8J6VeipUdwkgj2W37orB8yk8Ak4FpS9CfPzX16Sh5">Pink with simian being fatigued.</a>
 <a style="color:lightblue" href="ipfs://Qmam13h3pHVLR8WhfE1wZWngchtA6xURhZKmLp8VkQLhDo">Light-blue with beast - appears depressed.</a>
 <a style="color:skyblue" href="ipfs://QmP9Z7fKR2Vjxpibn7CDMyGLLQJqxRavNWU17D97v78LpT">Blue chimp on sky-blue setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTHDJvrgCkxpVhJjtbd6SNyNiWJ3wtCCbWZKjcaVojKAR">Primate being fatigued with light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmTHDJvrgCkxpVhJjtbd6SNyNiWJ3wtCCbWZKjcaVojKAR">Primate being fatigued with light-goldenrod.</a>
 <a style="color:slategray" href="ipfs://QmYfkdBCM1pv7TTkntF8AvFckaHPswS3pjyiSTVPSJbSxu">Critter by slate-gray field: unconcerned.</a>
 <a style="color:slategray" href="ipfs://QmPKofyTQDWDz444gqCrLPbMjno9WhJTjiZwfHiA2eKtdy">Dismal gorilla by slate-gray color.</a>
 <a style="color:	goldenrod" href="ipfs://QmNcP1dCZ67yX8i2P6xk9dbhdZmgHdY54X9eYf4VjM7vF4">	goldenrod behind character - appears dull.</a>
@@ -8660,7 +8660,7 @@ done
 <a style="color:mediumvioletred" href="ipfs://QmQpQDLA479ume8AhmspiqtHFNV9WJGDV8AUSD7FmmJckF">Individual looks torpid against medium-violet-red.</a>
 <a style="color:seagreen" href="ipfs://QmUdZadm1v6JU5Pe5PB8vVaTuyU7mAariBt6AKVLSBqiLX">Sea-green with critter appearing insipid.</a>
 <a style="color:rebeccapurple" href="ipfs://QmdNBgvA2hz27F7N7LYauw9383eWLUVwcTafYDFW7w4oEi">Creature with rebecca-purple wall: deflated.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmV83T3szsAXQzMKM5JUG8EZmwJYcT8tWcQZxaSe8hpiuJ">Dulled primate against 	light-goldenrod field.</a>
+<a style="color:	goldenrod" href="ipfs://QmV83T3szsAXQzMKM5JUG8EZmwJYcT8tWcQZxaSe8hpiuJ">Dulled primate against 	light-goldenrod field.</a>
 <a style="color:moccasin" href="ipfs://QmZk5MNF4jhooKMGWwnkFaYvGTsvgrnRhAoySY9P5LWyPD">Critter looks uninspired on moccasin.</a>
 <a style="color:dimgray" href="ipfs://QmT5Ufjmq9X5FVBo4YM1trJim9peuHt3M4TL6qfUZFCFfh">Individual seems souless with dim-gray.</a>
 <a style="color:whitesmoke" href="ipfs://QmVJNT1YnpM1NJqXbrzYwQRDTkQSFX45FSx7fRsYr1ynLc">Individual appears glum with white-smoke.</a>
@@ -8713,7 +8713,7 @@ done
 <a style="color:skyblue" href="ipfs://QmTHoPX3zXu8h17ayYQM3pWS6CTDPLGCgFceC31s8RGXEb">Critter against sky-blue field: sad.</a>
 <a style="color:seagreen" href="ipfs://QmVHvpp7sDgMsGT3XYo3Kceb6XqTNXTHw8zXRN6ZbtNA9d">Sea-green behind creature being depressed.</a>
 <a style="color:whitesmoke" href="ipfs://QmZK7Gzbd67QS8AgNczkBMbkJvqG7oN6J5m8pyqS277961">Wearied monkey against white-smoke background.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmVHSDFTy6CTjRXcKdGEDmZBCtvWsr9iEh1dyBdPBFJfPk">Light-goldenrod behind individual being blue.</a>
+<a style="color:goldenrod" href="ipfs://QmVHSDFTy6CTjRXcKdGEDmZBCtvWsr9iEh1dyBdPBFJfPk">Light-goldenrod behind individual being blue.</a>
 <a style="color:peru" href="ipfs://QmNV5dosryuzogncAWemoqmBADFiqFg5RuWCha6FjdR3UW">Fatigued gorilla against peru field.</a>
 <a style="color:palegreen" href="ipfs://QmXCfpWw7ncpzMWXYKKjYLC82xk9uypq6VSF3Pibv6aZ2a">Primate with pale-green field: unimpressed.</a>
 <a style="color:seagreen" href="ipfs://QmY9eRxELgRADVKbKRcgRbL8Duq4ZSdEY1hAdqs8srmHSt">Simian seems gloomy by sea-green.</a>
@@ -8773,13 +8773,13 @@ done
 <a style="color:	navajowhite" href="ipfs://QmTqbkSSDQEpooBec859asjCVHgYeJzo6kLXtYXNQq4vkB">Chimp looks blase on 	navajo-white.</a>
 <a style="color:skyblue" href="ipfs://QmTuY5Dr9YcYMMBExYN7GC7QVniXen4Uqog5kJ2CiTCfL9">Languid critter against sky-blue wall.</a>
 <a style="color:mediumorchid" href="ipfs://QmNTZTtgEyteXejgLMq5M1HphsfWtLnx77cyVBXHVku14X">Primate is blue on medium-orchid.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmbqhABuQj2AxzxHnqQUn87DjygpxF86bP4BvxbcQk8Pyh">Creature looks weary with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmbqhABuQj2AxzxHnqQUn87DjygpxF86bP4BvxbcQk8Pyh">Creature looks weary with 	light-goldenrod.</a>
 <a style="color:	khaki" href="ipfs://QmbZt956LYC5FwGqTpM3T5N1DgLgPGAVESLhmP8YaTXdww">Critter is unimpressed against 	khaki.</a>
 <a style="color:seagreen" href="ipfs://QmRQRuRueLcg3shn21NCUDYazBMDS7ACTBUM5FBzrjQnkE">Sea-green with character appearing depressed.</a>
 <a style="color:	goldenrod" href="ipfs://QmPZrUWLQbXbHpE68nWgRSiABhzEhKBVb7fAEXVXRnennd">Inert gorilla on 	goldenrod color.</a>
 <a style="color:	goldenrod" href="ipfs://QmfLYeeqdkB4rXyfo6YLSgdjBh2Xqf3yu1UyaUvFuMyxar">Character against 	goldenrod color: disinterested.</a>
 <a style="color:coral" href="ipfs://QmervutcACiAhzmQAWSAnsf8vrKeBLhp79LR2CXuyGntWL">Coral with monkey - appears oblivious.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmcaBeMyRDLxCzjYxLD5Q7FVuMdjqvmguX9Bbb5bndhcBi">Insipid gorilla with light-goldenrod setting.</a>
+<a style="color:goldenrod" href="ipfs://QmcaBeMyRDLxCzjYxLD5Q7FVuMdjqvmguX9Bbb5bndhcBi">Insipid gorilla with light-goldenrod setting.</a>
 <a style="color:	khaki" href="ipfs://QmdtEL6yqQgTHLzvxiJk1ojkUzs9NyyK1yd8UCvV6K2xCV">Character seems blase by 	khaki.</a>
 <a style="color:lightblue" href="ipfs://QmNPkkxUMpaemuWxD8GrjHjVfHpcKqUfFKWTtUEDaoXBqg">Light-blue with critter - appears dead.</a>
 <a style="color:palegreen" href="ipfs://QmanUFRK6MEeWgX47xu222gLhDyz3AFZuoPoeamCgojvPk">Neutral dude against pale-green background.</a>
@@ -8790,7 +8790,7 @@ done
 <a style="color:	darkolivegreen" href="ipfs://QmchEjG6veQT6HDW4sGFNvpdSrzB4ffyd68iaKqhxsfbEd">Blase critter against 	dark-olive-green field.</a>
 <a style="color:peachpuff" href="ipfs://QmQELr3pRoQra3FxFMHchb2qe2cLZ2QwagRdogWAEsezzG">Dismal primate with peach-puff setting.</a>
 <a style="color:seagreen" href="ipfs://QmPg7LGbMwhigFda2DVWpHsDet4bVJexrHbNXfwfywHT7Y">Critter with sea-green setting: dissatisified.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTwfbsLxP3827d6kXtNMHzCeC2iPMmoTRL4yuyHSbtrZt">Light-goldenrod behind beast - appears vacant.</a>
+<a style="color:goldenrod" href="ipfs://QmTwfbsLxP3827d6kXtNMHzCeC2iPMmoTRL4yuyHSbtrZt">Light-goldenrod behind beast - appears vacant.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmZV7xUkr57yo9iM1JNkvPc2SGaEmXdNZ9FQpn7fdUqhbC">Monkey is worn with 	dark-goldenrod.</a>
 <a style="color:skyblue" href="ipfs://QmaLZDb19J8RuXNP1ZJGnpmJxvuW9sU3vVoeiBRcL2ZyA4">Individual being disenchanted against sky-blue.</a>
 <a style="color:lightskyblue" href="ipfs://QmWbTdyC4bdvY95CrctzXLdfmFKuvYTtkeqno2AP9cS1j9">Monkey by light-sky-blue field: jaded.</a>
@@ -8810,19 +8810,19 @@ done
 <a style="color:seagreen" href="ipfs://QmTpJePyM5FnVCPvC6W7FS7k3zaaEM7x7bHJT9SEU1a9eR">Sea-green with simian appearing miserable.</a>
 <a style="color:slategrey" href="ipfs://QmfXkVzZKBk6EQLK2SdBA75FWuLED9APCBjjjEUatJRpT7">Chimp on slate-grey wall: depressed.</a>
 <a style="color:orchid" href="ipfs://QmQrat1svbfzeHhsmJg2uNMrqaoDExKNj5kvnN81tDcvTo">Unheeding primate by orchid field.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmTbaXtbawcJ32oECvxs2kMd2CryTuPQpQmACJVu6EEPVY">Dude by 	light-goldenrod wall: unconcerned.</a>
+<a style="color:	goldenrod" href="ipfs://QmTbaXtbawcJ32oECvxs2kMd2CryTuPQpQmACJVu6EEPVY">Dude by 	light-goldenrod wall: unconcerned.</a>
 <a style="color:khaki" href="ipfs://QmUukHy3f96Xbi31M1jtCVRuVYHgKCKeo9ZwJvQnD7zkBn">Neutral critter on khaki field.</a>
 <a style="color:seagreen" href="ipfs://QmYimhHVMCYyyxEiCNgP5nFFfL3nuFKeE74YNbNFBbMzBb">Sea-green behind dude - appears souless.</a>
 <a style="color:dimgray" href="ipfs://QmXNeYT9tUPA4YNPTJpG3RbXj4vhDv96qrNVTebnfoq1Fh">Primate appears dead on dim-gray.</a>
 <a style="color:orchid" href="ipfs://QmZvZydoXhopR2YqsfTxio8omiCghzDcXhNNuapRKJAq5S">Inert creature against orchid setting.</a>
 <a style="color:seagreen" href="ipfs://QmYWxqhxC1QspBnw4znSeitVTkupk1rbirDsr2gfPfdtGi">Creature looks fatigued by sea-green.</a>
 <a style="color:mediumvioletred" href="ipfs://QmeNoRo1R7yxPY71JdXyZzuR1CjyzDuWKYrRZ7TWPh5C8R">Medium-violet-red behind chimp - appears inattentive.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmdDLMpmuL9a7yNspTVvbJi1bH21H6VPmxJkrzRD2Gzpxz">Wearied primate on light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmdDLMpmuL9a7yNspTVvbJi1bH21H6VPmxJkrzRD2Gzpxz">Wearied primate on light-goldenrod wall.</a>
 <a style="color:seagreen" href="ipfs://QmfZDtB4ptbYwB8q5L2NLfPj3hvU1cjWPAXSm5SEoRxq6q">Pathetic creature against sea-green setting.</a>
 <a style="color:seagreen" href="ipfs://QmTwskakg3HWW3fpxQJzgxkpbGjKPvz2PgsKvbKPecPXAk">Sea-green with gorilla appearing indolant.</a>
 <a style="color:	goldenrod" href="ipfs://QmZZkYtHn1Q89fiYMhdpJJeHN2f4uNVdokxTmuTC7Vm7uP">Dude against 	goldenrod background: indolant.</a>
 <a style="color:oldlace" href="ipfs://QmbA1EZqXA814fJJrBESijwPH9F4WP42zD65JytDGYR5cJ">Monkey with old-lace color: souless.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmWWFNE2rtCR6nnxVpP8tNranwQ3zEPpCkDmRomhhPhDtZ">Simian being slack by 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmWWFNE2rtCR6nnxVpP8tNranwQ3zEPpCkDmRomhhPhDtZ">Simian being slack by 	light-goldenrod.</a>
 <a style="color:	goldenrod" href="ipfs://QmeRH2bp3cbM3kuEWGn6nDV4BorUCgWpcnwwatkVr3nURw">Simian by 	goldenrod background: disinterested.</a>
 <a style="color:navajowhite" href="ipfs://QmYJ3KxdX8XNgoiedPvwyyG3227xDHFgs1daBBJtvCr8EW">Beast with navajo-white background: dulled.</a>
 <a style="color:seagreen" href="ipfs://QmXYthmL6YkqYFSS93uHYED238gk5eoijkLqRfp1r1NDfB">Dull gorilla on sea-green color.</a>
@@ -8886,7 +8886,7 @@ done
 <a style="color:lightskyblue" href="ipfs://QmSyVka1v6CwBtCuKv8TnuKbpVEDMMDbTWto2jtfxxuVMK">Creature seems dead on light-sky-blue.</a>
 <a style="color:ghostwhite" href="ipfs://QmayveerapVYVZvQ1Rnv5SmheGM6AnhL56kubjnXW2uZM1">Jaded gorilla with ghost-white field.</a>
 <a style="color:skyblue" href="ipfs://QmRtEfaJPNXPrYsqMqj2YC8CjWhTiPgwiRYxCsKffYqX9R">Dude seems sad by sky-blue.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qme1mgfFYATQhEwEMDLadU5jraWJbJRaE2gCGyZrmTgdZQ">Gloomy chimp against 	light-goldenrod wall.</a>
+<a style="color:	goldenrod" href="ipfs://Qme1mgfFYATQhEwEMDLadU5jraWJbJRaE2gCGyZrmTgdZQ">Gloomy chimp against 	light-goldenrod wall.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmS4EcHmJyaHhrJ3LwPJcSjPzXQL5ssvSzSvgh7BjUx4zp">Dark-goldenrod with primate appearing uninspired.</a>
 <a style="color:skyblue" href="ipfs://QmUV7G2UJmxfxxFfTXkaRExbkWAWgsUkycWqsE9fH58f9Y">Primate looks fatigued with sky-blue.</a>
 <a style="color:powderblue" href="ipfs://QmVu8aaZkLntMm1ZN32J64CMqMLtxJVV3GFJGWeCjo7XGQ">Powder-blue behind primate being dulled.</a>
@@ -8958,7 +8958,7 @@ done
 <a style="color:	darkolivegreen" href="ipfs://QmQRMzNX9bcdnEuMx4qhsQGWxJ2BA3BNZZVybu3nZxma5d">Miserable gorilla by 	dark-olive-green field.</a>
 <a style="color:powderblue" href="ipfs://QmZV4MxvZe88daBFUBXj17jRKgDXhHmhrm9ytga1vXyrqG">Slack beast by powder-blue color.</a>
 <a style="color:pink" href="ipfs://QmSenFWfxwfEJKDTGe9hZbwGzkigy6V3Eby5fFkBguuWGG">Depressed dude against pink field.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmTF4dg8coR8EoGaB8VfuawGmzZZyxpzCjJNFDHYW313VT">Monkey on 	light-goldenrod field: deflated.</a>
+<a style="color:	goldenrod" href="ipfs://QmTF4dg8coR8EoGaB8VfuawGmzZZyxpzCjJNFDHYW313VT">Monkey on 	light-goldenrod field: deflated.</a>
 <a style="color:	goldenrod" href="ipfs://QmdkPp2nSbAWc2NRgjDG6iPKLzuk77Z4CMrpFdyQ9PRfVW">Dissatisified dude with 	goldenrod color.</a>
 <a style="color:	olivedrab" href="ipfs://QmWCQ3yz8AoYxgE2u4MqVLdR58GiV55caE2EvAztAMgmuw">Oblivious gorilla by 	olive-drab setting.</a>
 <a style="color:moccasin" href="ipfs://QmY4t4h4DqR2gwDSnp4FdRSHNSY9haxCnjcW6G1gMPMHws">Character seems vacant by moccasin.</a>
@@ -8980,7 +8980,7 @@ done
 <a style="color:coral" href="ipfs://QmVDedcUBNGcHZ2NydBp6y5StDPcEYYC7bwzx4EVZKze32">Primate being neutral by coral.</a>
 <a style="color:dimgrey" href="ipfs://QmRGMEi1Kh98NShps3Nt2vus5rFGWAEMTfMcP4W35uphJr">Dim-grey with primate - appears souless.</a>
 <a style="color:coral" href="ipfs://QmYLstZ5zcgetq3k4obkDxrQjY4cVioGRczqM6beBgy8Jz">Apathetic critter against coral setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmVPF5fVbisVWCHTXb1kRSDrHqH2GEiZRsy91Fy64CQNEk">Light-goldenrod behind simian appearing neutral.</a>
+<a style="color:goldenrod" href="ipfs://QmVPF5fVbisVWCHTXb1kRSDrHqH2GEiZRsy91Fy64CQNEk">Light-goldenrod behind simian appearing neutral.</a>
 <a style="color:	khaki" href="ipfs://QmYSwonkYhm6EdoWtL3PbyHFv156aRe8wqa8m4ShjwUqkY">	khaki behind critter - appears impassive.</a>
 <a style="color:slategray" href="ipfs://QmeAJGV4hooPmzGTRMWhihQzFDzJvd4oYrniuwKbooKhUq">Critter by slate-gray field: sad.</a>
 <a style="color:goldenrod" href="ipfs://QmR2bEUBuBsGhsgY5kKwkJgGH9bRg8sNs3u4M1bMMhCj7j">Creature looks dissatisified against goldenrod.</a>
@@ -8999,12 +8999,12 @@ done
 <a style="color:paleturquoise" href="ipfs://QmQs7yx7VYtNEoujneD9fH7RCi7cHnCPXiMWhSMG5nZHnL">Unexcited gorilla against pale-turquoise background.</a>
 <a style="color:lightsteelblue" href="ipfs://QmPfUxkkB2g6vX5CmkbcDugLWm5PoXeQqUuXv41QsfBoM9">Light-steel-blue with monkey - appears spritless.</a>
 <a style="color:olivedrab" href="ipfs://QmPngTWhj8L2HLZ7hMYeayXDKupUnmNCj2FXbSBUAehm6L">Gorilla on olive-drab field: depressed.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmR9hSsauJHTzNA7DyMhEYXPptSiHiunFZX1yjJNrbH4EU">	light-goldenrod behind creature appearing inattentive.</a>
+<a style="color:	goldenrod" href="ipfs://QmR9hSsauJHTzNA7DyMhEYXPptSiHiunFZX1yjJNrbH4EU">	light-goldenrod behind creature appearing inattentive.</a>
 <a style="color:powderblue" href="ipfs://QmTiUpWqixCFXbLrKJXpAB3vWKVnfQuqiA76Hff87B8ch7">Character by powder-blue field: unimpressed.</a>
 <a style="color:slategray" href="ipfs://QmTMpKHEtHajtFLPzzRVbR4v4LkH2GS75b9xdtdrict6bt">Primate by slate-gray color: insipid.</a>
 <a style="color:seagreen" href="ipfs://QmaqC65aSD9Hffp4EGMnB1JiPBeCERBVUewNFMMVKYgc2A">Individual by sea-green background: down.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmZQ1BZen5ePpUR4zrfLgxdUVuZrXmyMsgP4eb83gtAJXu">Gorilla by light-goldenrod color: pathetic.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPdCQNhZoJiAQxNzSuTpNWTvFPL6WWBUc1cZH5Vs7K34w">Critter against light-goldenrod color: dissatisified.</a>
+<a style="color:goldenrod" href="ipfs://QmZQ1BZen5ePpUR4zrfLgxdUVuZrXmyMsgP4eb83gtAJXu">Gorilla by light-goldenrod color: pathetic.</a>
+<a style="color:goldenrod" href="ipfs://QmPdCQNhZoJiAQxNzSuTpNWTvFPL6WWBUc1cZH5Vs7K34w">Critter against light-goldenrod color: dissatisified.</a>
 <a style="color:skyblue" href="ipfs://QmfY4HWmvKgCjDomxrCwT1dyLDYPYqE5d2CZyDXFw7n7uH">Sky-blue with primate - appears blue.</a>
 <a style="color:ghostwhite" href="ipfs://Qma1kbYN4LzAK9XvQUNJ6nf79iAd3dM6K87ivm8oLrisVV">Ghost-white behind simian being indifferent.</a>
 <a style="color:darkgoldenrod" href="ipfs://QmWiXSKwbwHkobDdZbDc6t66kf192P33Ru5UJYhL5mPJTk">Dark-goldenrod behind beast - appears wearied.</a>
@@ -9084,13 +9084,13 @@ done
 <a style="color:peachpuff" href="ipfs://Qmc9GQdUDWig8tM9YapMyHGWDnhVKepmnwS3KgSxvqHnqG">Primate against peach-puff color: indolant.</a>
 <a style="color:seagreen" href="ipfs://QmVVwhnJwD5vX3ENU5wYpCtQ6Zwqu173SUAcUUdiUqY2tj">Character is dead on sea-green.</a>
 <a style="color:seagreen" href="ipfs://QmZSrhWkXunaKV3q48bsVrijJH2UbWdLnS21YKfDYe3THk">Souless character against sea-green color.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmPaiixKM2MZKCT8gorxWwR43VVTzU5cKEkSK5oxqm4ZcS">Souless beast on light-goldenrod field.</a>
+<a style="color:goldenrod" href="ipfs://QmPaiixKM2MZKCT8gorxWwR43VVTzU5cKEkSK5oxqm4ZcS">Souless beast on light-goldenrod field.</a>
 <a style="color:	navajowhite" href="ipfs://QmWfPkEoQULcWxSBxrCueYdnqKoCNoM7rSVVJTQuRVUE1H">Gorilla being fatigued with 	navajo-white.</a>
 <a style="color:seagreen" href="ipfs://QmeD8SWJ1Sp7axn4PiHx2PrkJNrF1hRkGXWXajxy5vDmvr">Simian on sea-green field: deflated.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmTWUjzu6Dnd2RpZJhzU1cEkuQem576r9xCXN8kFXe8R8B">Monkey against 	dark-olive-green setting: slack.</a>
 <a style="color:navajowhite" href="ipfs://QmSVJXYNrgXfBeT4MqWWb2F3QiwxCFDa6K1B2giKKYirq5">Navajo-white behind primate - appears miserable.</a>
 <a style="color:seagreen" href="ipfs://QmYJZgvnxc9g5Xi3B8jZZWk8pFhiD2TcaANA7t3LXTGh9t">Sea-green behind character appearing slack.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmYtTCKHXDRQHNAay4CdjHgXkm1e5NjFHVL4uVkVKRSbqY">Creature being miserable against 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmYtTCKHXDRQHNAay4CdjHgXkm1e5NjFHVL4uVkVKRSbqY">Creature being miserable against 	light-goldenrod.</a>
 <a style="color:khaki" href="ipfs://QmVAeiNRojAs8c3KUDXpcdR1s6pSL6Ly5VoRSqGSNgj4eW">Creature on khaki field: unimpressed.</a>
 <a style="color:paleturquoise" href="ipfs://QmePZpMzNvoJRnFWgNNUVwnjkkBaXoaAtGZS88Esq2swtg">Depressed chimp by pale-turquoise setting.</a>
 <a style="color:	goldenrod" href="ipfs://QmUuDy4s3fN5UQMKh1dA8zo88D1HVwFYf7G7P8cV2sVZPx">	goldenrod behind individual - appears apathetic.</a>
@@ -9146,9 +9146,9 @@ done
 <a style="color:dimgrey" href="ipfs://QmRJMB7UetUbJ3V4wBsbfUcGUiUsYBd6iHJ1yjhMRLNeBm">Dim-grey behind gorilla being down.</a>
 <a style="color:coral" href="ipfs://QmXDzJQgmJX2KP9QRheX51LKbnLsVSeB8ZcSSi3yUUoyaY">Creature with coral field: dull.</a>
 <a style="color:peru" href="ipfs://QmUFMcsGc1yyx1XUihHQpvP4Yw2wAjjShNY8GtFcjBWubz">Critter is slack by peru.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmSK1HJCiMuNahMyNBq7puEwBBUWjzjeCnQwCVgRaqkVJP">Inert creature on 	light-goldenrod field.</a>
+<a style="color:	goldenrod" href="ipfs://QmSK1HJCiMuNahMyNBq7puEwBBUWjzjeCnQwCVgRaqkVJP">Inert creature on 	light-goldenrod field.</a>
 <a style="color:skyblue" href="ipfs://QmeFdHYfo3UxLLgSUkp2X9A5q6thYGniCdeGzRtoXdFVfe">Critter is inattentive by sky-blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmefcCgMz5SHBjHK9kXw7nu1dyKFW3z26SWsCbtPKCMm1j">Light-goldenrod behind dude - appears torpid.</a>
+<a style="color:goldenrod" href="ipfs://QmefcCgMz5SHBjHK9kXw7nu1dyKFW3z26SWsCbtPKCMm1j">Light-goldenrod behind dude - appears torpid.</a>
 <a style="color:seagreen" href="ipfs://Qmc2Sv9JUbyGHxWNFRDUQyfam9cY4eqF8W7HwkvauKoEsG">Oblivious creature with sea-green wall.</a>
 <a style="color:skyblue" href="ipfs://QmTKXzP3Cptn6ERoiy1rBPEMNnwD7KnN9yrRBUZqxdXFUq">Critter being blase against sky-blue.</a>
 <a style="color:powderblue" href="ipfs://QmbCaoqmoWhNnnM78hmhyn69DcpiMkU1UTcLZcBfcza57T">Powder-blue with beast - appears depressed.</a>
@@ -9187,7 +9187,7 @@ done
 <a style="color:palegoldenrod" href="ipfs://QmWVWSVqgaea7CFmLwHy5wcw8fhrwXua8ThxSZAKdW8z6A">Chimp looking glum against pale-goldenrod.</a>
 <a style="color:lightblue" href="ipfs://QmdnV8utGtDFeBYbKqveV8RvqpKoNGPsRM49FbqqALej6Z">Frustrated dude by light-blue color.</a>
 <a style="color:seagreen" href="ipfs://QmPfmSKHv8BxM7x5T541LrtQLThL2rtWHSdegnMPUyQF39">Gorilla on sea-green color: tired.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmPisb5Wvx5izqqrZycLinKHynQkDSPX1Dxkh9zHFSx9UM">	light-goldenrod with monkey appearing spritless.</a>
+<a style="color:	goldenrod" href="ipfs://QmPisb5Wvx5izqqrZycLinKHynQkDSPX1Dxkh9zHFSx9UM">	light-goldenrod with monkey appearing spritless.</a>
 <a style="color:rebeccapurple" href="ipfs://QmS7cLyLHSUhLUjAKpHRc1xZU2yuEkrVHvjptAtc9YB8Nr">Primate by rebecca-purple setting: down.</a>
 <a style="color:	khaki" href="ipfs://QmXJdaJ6weZZZuaZSsWyF7fGypH75KrNYZWKj5a8zVo3as">Simian appears blue on 	khaki.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmdavFprGYZR4kWcWWfci5of61sEdbvkjSMwnkBfEzitg3">	dark-olive-green with individual appearing pathetic.</a>
@@ -9206,7 +9206,7 @@ done
 <a style="color:mediumseagreen" href="ipfs://QmR2d5owDArbsFYLr4jyqWCnYXKhwpR4PU88WTpgZCLLs8">Down gorilla against medium-sea-green field.</a>
 <a style="color:oldlace" href="ipfs://QmWvYuu4oZeBhmNCdXten9mjvVCofuZH3pw7rVit6Ks9WQ">Old-lace with gorilla - appears blase.</a>
 <a style="color:seagreen" href="ipfs://QmNUhCYAfr79iK8RVur7UturdsyRXznV2sSYvjT53888DX">Dissatisified chimp with sea-green field.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmUtS1kkg5JKWzFkj3yYaVEEcCyVRAmjZuwYsWb3JsAgdr">Chimp on light-goldenrod field: unimpressed.</a>
+<a style="color:goldenrod" href="ipfs://QmUtS1kkg5JKWzFkj3yYaVEEcCyVRAmjZuwYsWb3JsAgdr">Chimp on light-goldenrod field: unimpressed.</a>
 <a style="color:lightskyblue" href="ipfs://QmTGJ1KgEL4ZtE3gU9T3c3yv2XHxsqfUMT4MAUcCrnuPqf">Inert gorilla by light-sky-blue background.</a>
 <a style="color:palegoldenrod" href="ipfs://QmRmb5QYpWN1dF32UcVTPMsVwHubiiM7wC9SpacXpg1XHc">Deflated creature by pale-goldenrod field.</a>
 <a style="color:	khaki" href="ipfs://QmbmkKrV4ZoL5teKzPumf9pucBaedgxKxUgWK2mWr9mXXZ">	khaki with individual - appears inert.</a>
@@ -9224,7 +9224,7 @@ done
 <a style="color:seagreen" href="ipfs://QmZfxupJJT9zEfPe1kmBjBSeWCUYw246nHtzXTdFCzLy7X">Indolant primate by sea-green wall.</a>
 <a style="color:seagreen" href="ipfs://QmcLPVjfbYwarNv8uBfSL9pBB7aUYdUg9Sz6KigUbdWj9u">Blase critter against sea-green setting.</a>
 <a style="color:lightpink" href="ipfs://QmXw6XpEWEme4PaZHPqLxxhDvZFrUYvxJ2xB1kBSfoooMx">Critter on light-pink field: impassive.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQaLrmPpdyv39WrTqt3LqykJmgvi6jbhFgxDzRxrT6xNq">Character seems sad with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmQaLrmPpdyv39WrTqt3LqykJmgvi6jbhFgxDzRxrT6xNq">Character seems sad with 	light-goldenrod.</a>
 <a style="color:steelblue" href="ipfs://QmeQEKGSfGfXBT4t2E49nS88xLXqiKM2cUZiZWNS8gRYRA">Torpid dude with steel-blue background.</a>
 <a style="color:dimgray" href="ipfs://QmasMe5oWjsuMk69MCVbzxJ9jCWAT2ttNQT7KiQadVM88C">Down monkey by dim-gray wall.</a>
 <a style="color:lightseagreen" href="ipfs://QmThfk2ea6gj7miQB8XrkbwnHw8nXcKk8KpQdUYGgnzLA1">Dulled primate by light-sea-green wall.</a>
@@ -9268,7 +9268,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmREEjuFp4KMse9DCq1AS69QqYXCUBb3DgrXjffBeXJHNx">Creature seems weary with 	goldenrod.</a>
 <a style="color:cadetblue" href="ipfs://QmaVk2zGs3t4C79qbsxacR4CcudhzygBe92MjrgpsWn495">Creature against cadet-blue wall: dismal.</a>
 <a style="color:paleturquoise" href="ipfs://QmTG7tcqCQDduu8mckS9cS4SWmyUCcaq9X8nasK9AM3neB">Gorilla seems oblivious by pale-turquoise.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXKjajJehyypaSp43GDXQkr5mYafiE4WfSZ2iw2azX6GW">Creature with light-goldenrod color: sad.</a>
+<a style="color:goldenrod" href="ipfs://QmXKjajJehyypaSp43GDXQkr5mYafiE4WfSZ2iw2azX6GW">Creature with light-goldenrod color: sad.</a>
 <a style="color:mediumseagreen" href="ipfs://QmNos8LuDtFKBFNFd5A6UvvE5WHGfUXqXkFJpf1N4mNMT3">Medium-sea-green behind simian being souless.</a>
 <a style="color:floralwhite" href="ipfs://QmZhGAKtATMzTwBSRnr1kRV8Pwp5huFj9JFXQMJdmRG25s">Beast by floral-white field: blue.</a>
 <a style="color:	goldenrod" href="ipfs://QmUpi4wcm7ck6LU1jqJUpmR3yV64aqTbX7kT1pgqTDwDXV">Gorilla by 	goldenrod wall: dismal.</a>
@@ -9288,7 +9288,7 @@ done
 <a style="color:lightseagreen" href="ipfs://Qmcqjsp2LQw4qyUNPg941FyFb1HBWuZ7NjAhQEusoDsqsX">Light-sea-green with creature - appears pathetic.</a>
 <a style="color:peru" href="ipfs://QmQ2PgYbY7X1XAsDdm4cLWygokMZCFECgKagjnV3oHYwR8">Beast being fatigued by peru.</a>
 <a style="color:seagreen" href="ipfs://QmbDHG2yfBR2t2iZapZobmRoUznkKhMvJ1Vk48APJCN9E5">Individual by sea-green wall: down.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmcWJHWS2Vovj3meJWLUYTWejcXo6Cf8zTWVr8xxxPNe5z">Light-goldenrod behind primate - appears gloomy.</a>
+<a style="color:goldenrod" href="ipfs://QmcWJHWS2Vovj3meJWLUYTWejcXo6Cf8zTWVr8xxxPNe5z">Light-goldenrod behind primate - appears gloomy.</a>
 <a style="color:orchid" href="ipfs://QmV4RgrYFWD81tU91CjydNpzhXAygBhkG5WFWosf7PYcQK">Dead gorilla by orchid wall.</a>
 <a style="color:	navajowhite" href="ipfs://QmZLoLxfcnHFQdgJbFNAjQbshkkHrFTWQ3HeHVEt3h6Gv1">	navajo-white with critter - appears fatigued.</a>
 <a style="color:paleturquoise" href="ipfs://QmQc68BaBj6kwMdqHFpEBXBLv6C1cbiAUQ66Da1oyCAnKE">Character against pale-turquoise wall: blue.</a>
@@ -9305,7 +9305,7 @@ done
 <a style="color:lightseagreen" href="ipfs://Qme2X7uqhma31pzTsBk535t511yMB4gzSukFRWR9LJ6AUM">Individual looks fatigued on light-sea-green.</a>
 <a style="color:steelblue" href="ipfs://QmZ1rKVwFPJSWfamdSnCUF4iuidWcg4EZTmt5dMdE5futS">Individual by steel-blue background: indolant.</a>
 <a style="color:peachpuff" href="ipfs://QmRmVjYzGRmi8VjhVizUDybPbBDGVsPEGVYiTzzK9siT4k">Character against peach-puff background: inert.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXHtsQWWy8jSY15jJFKENgvxctC2aJo33Av5MzTNcBeUC">Individual seems jaded against light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmXHtsQWWy8jSY15jJFKENgvxctC2aJo33Av5MzTNcBeUC">Individual seems jaded against light-goldenrod.</a>
 <a style="color:cadetblue" href="ipfs://QmNpgshTgTAGxAfHcNDz71ZLVXcHfV8uQL7d9szxA8xjKx">Down simian with cadet-blue background.</a>
 <a style="color:chocolate" href="ipfs://QmbwDrmwHmXrtkJ41yA1Tg2BRFPcFHBxNkhr25j5nGwHuy">Critter on chocolate color: apathetic.</a>
 <a style="color:	goldenrod" href="ipfs://QmRgADRke5wfwzRpSveE7HNHnnS2dsDEBJXRSU9GmjD8SE">Creature looks weary on 	goldenrod.</a>
@@ -9315,7 +9315,7 @@ done
 <a style="color:snow" href="ipfs://QmWDFrS1xAnZVch2Sc3Dt8KWFWK36eUkPt7CNnz2nevyP8">Blase individual by snow field.</a>
 <a style="color:peru" href="ipfs://QmbGHEXxvizPmRCYuLsgoRvtm3Sqtv8qDcKjCgXCvtwwHU">Individual appears oblivious by peru.</a>
 <a style="color:lightslategray" href="ipfs://QmdhVHTsHH6MNbgJrWrpkRk1THrgu7NPTNCXLTinnxDVUA">Primate being deflated by light-slate-gray.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXygxYkcYKLN2N8XsaYuzBkAieaJ91dzuvbJZUtBZcrHo">Character with light-goldenrod field: neutral.</a>
+<a style="color:goldenrod" href="ipfs://QmXygxYkcYKLN2N8XsaYuzBkAieaJ91dzuvbJZUtBZcrHo">Character with light-goldenrod field: neutral.</a>
 <a style="color:olivedrab" href="ipfs://QmTP3JQFPLAGFWynSjE2XgeSG75nHt8PJUE3nzUdiJ4eAn">Down character with olive-drab setting.</a>
 <a style="color:coral" href="ipfs://QmbYWHnQ6Uqn8xTamN1SP1ZwyqaFzbixY1eNVDkNw9WNNF">Inattentive simian with coral setting.</a>
 <a style="color:slategrey" href="ipfs://Qmc4TYHihogrz4ncYVEpn3X2hWSYurWJmRj6fD8dit4wHJ">Vacant creature against slate-grey field.</a>
@@ -9401,7 +9401,7 @@ done
 <a style="color:steelblue" href="ipfs://QmQ1krpgLM1Eu9HcvNRxNK4oCgrXzbioXzANdmYj7PU3po">Creature against steel-blue field: vacant.</a>
 <a style="color:lightblue" href="ipfs://QmYUQQwKxEyWTmkiMXpEqrTfUDUNwRgZeUEWRkW9oSToFv">Gorilla looking languid by light-blue.</a>
 <a style="color:seagreen" href="ipfs://QmWN7bYasuEVAaaRjyHo4HLnb5wn5FTw5SUb6tiuWUsPrQ">Monkey is jaded against sea-green.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZNj6Z4nfV5RpMFE7D3hs3fxUU56MpFmHSjHxv3jmSfhg">	light-goldenrod behind critter appearing pathetic.</a>
+<a style="color:	goldenrod" href="ipfs://QmZNj6Z4nfV5RpMFE7D3hs3fxUU56MpFmHSjHxv3jmSfhg">	light-goldenrod behind critter appearing pathetic.</a>
 <a style="color:skyblue" href="ipfs://QmQRCNf2jHwhBjpQQbgi6bj2Ra5wA1VV4DeER5wNLD96Fm">Dead simian by sky-blue background.</a>
 <a style="color:rebeccapurple" href="ipfs://QmdmtWFzNTMQ11e9Y6ZXMLLav8TDTmxcaWAVobM1BHSNFo">Fatigued dude by rebecca-purple background.</a>
 <a style="color:darkorchid" href="ipfs://QmTUawMJbaQPZgX6Yfn6ecSjZxrJrxN9tM98TfxdRkMZeQ">Monkey by dark-orchid wall: inattentive.</a>
@@ -9421,7 +9421,7 @@ done
 <a style="color:darkgoldenrod" href="ipfs://QmaziJq9jy5ARyaKmUJ2hgVVQHijj4My4TgWnqduEqUMqX">Dark-goldenrod with beast appearing slack.</a>
 <a style="color:lightblue" href="ipfs://QmVjLZf6jW1waTw13BY1m2f5kSBghJMiPHThkYPUBaZLBE">Monkey with light-blue field: torpid.</a>
 <a style="color:seagreen" href="ipfs://QmZC7EebBEU4fDKDQvuxbjirwpQGsHXexev2cRFcVk4Xj6">Chimp on sea-green wall: wearied.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmZbXskJw9wJez8Pb73N6W8gvYcgEkqz5BytXju8Ww6XTH">	light-goldenrod with individual being torpid.</a>
+<a style="color:	goldenrod" href="ipfs://QmZbXskJw9wJez8Pb73N6W8gvYcgEkqz5BytXju8Ww6XTH">	light-goldenrod with individual being torpid.</a>
 <a style="color:lightpink" href="ipfs://QmdMzs57rpFKMYq4CXPhS6Qqa9UEiGAR2eFHVx236nMWdv">Indifferent individual by light-pink field.</a>
 <a style="color:mediumvioletred" href="ipfs://QmZqbRBXsZBmqqTzHJDYU8EsQsMKZrogmVwdX7RMaa9BD5">Spritless beast on medium-violet-red color.</a>
 <a style="color:lightskyblue" href="ipfs://QmPPvM1YUXF6xby7VdfZd5hJBojgSQfraW5w5XCoXgRjwo">Creature against light-sky-blue setting: jaded.</a>
@@ -9436,9 +9436,9 @@ done
 <a style="color:navajowhite" href="ipfs://QmVm8a4Gmm52YTj8LW9AofUtBhT6nk8GZwCLRJ8f4hpJk3">Navajo-white behind gorilla appearing vacant.</a>
 <a style="color:mediumorchid" href="ipfs://QmYV2Nr63RHAkxypYSeoigQE3F7y3SKPmVB1R8QzBPgDZS">Oblivious beast with medium-orchid color.</a>
 <a style="color:lightslategray" href="ipfs://QmQYLq7cCtM9xy37eAiwJhJG25CfxDTunkuxV5Zf7cJzHR">Inert individual on light-slate-gray field.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmV28n3DZxoS3z6ZBNsfiRhUpuPVo4x75o1cEgmengvYVT">	light-goldenrod behind creature being apathetic.</a>
+<a style="color:	goldenrod" href="ipfs://QmV28n3DZxoS3z6ZBNsfiRhUpuPVo4x75o1cEgmengvYVT">	light-goldenrod behind creature being apathetic.</a>
 <a style="color:skyblue" href="ipfs://QmQeRWcUQHPbnNMv7pr8gTu92vMbBcqFJ5BAeZJwXiyP7w">Dude with sky-blue wall: indifferent.</a>
-<a style="color:	lightgoldenrod" href="ipfs://Qmb3AsJjZZp6XJndRR3xgZCxoWQYu3qxzfBuHy4mMHLvBG">Impassive simian with 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://Qmb3AsJjZZp6XJndRR3xgZCxoWQYu3qxzfBuHy4mMHLvBG">Impassive simian with 	light-goldenrod color.</a>
 <a style="color:navajowhite" href="ipfs://QmaKJXeCJghtrzLzubim7HqitYVuG89oSM1kZTFMBRSs8u">Gorilla by navajo-white background: fatigued.</a>
 <a style="color:mediumseagreen" href="ipfs://QmauaCmq4Rns7y56TtuHdNCqWBzUv22LW27Z8NwnXwZDhx">Beast against medium-sea-green field: souless.</a>
 <a style="color:seagreen" href="ipfs://QmeRTsujcnQNfkmqKY1gbzhMi3No5dwjNVWUjs2w3qQkWD">Sea-green with dude appearing deflated.</a>
@@ -9464,7 +9464,7 @@ done
 <a style="color:olivedrab" href="ipfs://QmUm1FY9HEH9pfK4zDzHEHdKSGz9aacocjUfWUSyHiC9tq">Primate being tired with olive-drab.</a>
 <a style="color:lightseagreen" href="ipfs://QmVy5LYCoiqtuDJNSxU93senGT1C2zkLS2vYgmfSDhduvi">Light-sea-green with gorilla appearing torpid.</a>
 <a style="color:lightseagreen" href="ipfs://QmX2nxPPe3MdfVag4XK7mKrzLJU2ij8v4TTbyY82TQeC9X">Neutral creature against light-sea-green setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmRjk4zwuQM8G78bTGurk1etEGQtJmKGaQJPgRCQP5srEk">Slack dude against light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmRjk4zwuQM8G78bTGurk1etEGQtJmKGaQJPgRCQP5srEk">Slack dude against light-goldenrod wall.</a>
 <a style="color:rebeccapurple" href="ipfs://QmXk4VQNg9jRCjTJZ1V4vEAtEbp8fje6AChidXz7jsN8aG">Chimp appears sad by rebecca-purple.</a>
 <a style="color:olivedrab" href="ipfs://QmNbsKBD6ewrivbHT4fzMBbZUcdDuAzKThQPDtyoVeiigY">Olive-drab with individual being slack.</a>
 <a style="color:coral" href="ipfs://QmQVRMGgtG3k6Yf6mwbp9F6DSfiu7Ap6rtZv4BXzdJ9kos">Coral behind creature appearing tired.</a>
@@ -9503,7 +9503,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmfZpQP1m47P2V8cyTz54PmhHqTYPjXKMeBRcP18Xv4LMS">Primate being unimpressed on 	goldenrod.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmQ3g1z3hyh1p1gwseHCLhFDZCb7RLSArUKky5FodwxevB">Critter by 	dark-olive-green setting: languid.</a>
 <a style="color:palegoldenrod" href="ipfs://QmPX6EuzmpxXMWi913MrTP9cxZBLG4qTy8D3tefuvjAa5B">Tired primate on pale-goldenrod wall.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmR5SsSXh6KFMX9bbNxNwrDyH9x7kKxtACiPvfBodfppo4">Blue creature with 	light-goldenrod field.</a>
+<a style="color:	goldenrod" href="ipfs://QmR5SsSXh6KFMX9bbNxNwrDyH9x7kKxtACiPvfBodfppo4">Blue creature with 	light-goldenrod field.</a>
 <a style="color:coral" href="ipfs://QmZ6D8vvcHahN3gAwaWdWnfTNBEyCgfGUYWFJWZweMLsVX">Coral with primate being tired.</a>
 <a style="color:skyblue" href="ipfs://QmdW2yipkk8XGVa3qJ3FdRwFpcH64rb3TtUoV9CnhqVhUb">Character appears oblivious by sky-blue.</a>
 <a style="color:ghostwhite" href="ipfs://QmXkbSiddJxa4BQLcSEH8svaVq89x5TSn32YqkVdYT6iS4">Miserable chimp with ghost-white color.</a>
@@ -9578,7 +9578,7 @@ done
 <a style="color:powderblue" href="ipfs://QmW3Vv6QEkibV8mYviPqL7VAdLTKEo3AJqWCf2VNTY1Pmi">Powder-blue with critter being dismal.</a>
 <a style="color:seagreen" href="ipfs://QmYNzpDQnqToZJSFDo7vjVRPLDhMHg9FX4F1vKRNH16ByV">Sea-green with gorilla - appears dull.</a>
 <a style="color:	olivedrab" href="ipfs://QmPtTaMT333KRidQsGrUT4VSh5d1hiBgzvkj5551MaGA3v">Languid chimp with 	olive-drab setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTDeU9aD6bYZJog4wBFqr3eZ54KWvLqrUKJRCRziw95dU">Chimp by light-goldenrod background: vacant.</a>
+<a style="color:goldenrod" href="ipfs://QmTDeU9aD6bYZJog4wBFqr3eZ54KWvLqrUKJRCRziw95dU">Chimp by light-goldenrod background: vacant.</a>
 <a style="color:	darkolivegreen" href="ipfs://QmWJecJ6yVgs74hGRgQeYuXV22hUjyXsUqFKzu2ArE3Jgb">Unheeding individual by 	dark-olive-green setting.</a>
 <a style="color:seagreen" href="ipfs://QmVsTkdf6Z1ebxrqGbMfeexk5rXndj7zH4FCgMbf53X12j">Critter with sea-green background: disenchanted.</a>
 <a style="color:pink" href="ipfs://QmPsvE11vSzT9sS2zmzNebUK24aPQvG3Ku5seVrH3BoQ6H">Pink behind character appearing glum.</a>
@@ -9592,7 +9592,7 @@ done
 <a style="color:lightblue" href="ipfs://QmNPTJLMRR7Vii2z2jEdu5nKsAJcNdxdaFgkvDhBsnKpM9">Unconcerned simian against light-blue setting.</a>
 <a style="color:rebeccapurple" href="ipfs://QmZ2jMYm1F1S7FJCpCgY7h5sY55H5MCEEqKp2VRzFM5wLn">Tired dude on rebecca-purple wall.</a>
 <a style="color:powderblue" href="ipfs://QmfRbxXNNhnHn6nPSmCoXXKCZW2yRXBvVhzezYStC6PPLi">Powder-blue behind primate appearing tired.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQaUZESJBj7JmtNXKuURLHn2U8niL8oFozAfmpUpsy6uL">Beast on 	light-goldenrod field: spritless.</a>
+<a style="color:	goldenrod" href="ipfs://QmQaUZESJBj7JmtNXKuURLHn2U8niL8oFozAfmpUpsy6uL">Beast on 	light-goldenrod field: spritless.</a>
 <a style="color:oldlace" href="ipfs://QmVnYgQ9im9yNf8kVoFK1G8Z4gMcQBYCjXxSgYY6iurjHZ">Old-lace with character appearing unheeding.</a>
 <a style="color:lightslategray" href="ipfs://QmPHgbFhA2Lp7Gc2FFmGSV31hEKkojZB5fjLdwpniRjWhH">Critter by light-slate-gray setting: languid.</a>
 <a style="color:seagreen" href="ipfs://QmPFBDidATvcFnyeUgapDTTFpi6ShW7zF3oVrbRBL57esY">Unheeding critter against sea-green setting.</a>
@@ -9620,7 +9620,7 @@ done
 <a style="color:seagreen" href="ipfs://QmPNLvzmhtVmfoduhqThpPHbCtUGM3iffkQ1iBaBfmE6w9">Gorilla looks inert with sea-green.</a>
 <a style="color:rebeccapurple" href="ipfs://QmfMyAj26xZfAgVHYB2Bde2DW6sfWwrcjGCiCmh6DeX8aS">Individual is miserable against rebecca-purple.</a>
 <a style="color:navajowhite" href="ipfs://QmTdHXQH7tkg8bMzNms1oHtojM5BaoNQ4jLtQQ9qiNVudb">Navajo-white with beast - appears dull.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmYBrbRoqoJEqpRF3GMHeP9aARa82eTWSEmmj2yyhFZCkH">Dull creature against 	light-goldenrod background.</a>
+<a style="color:	goldenrod" href="ipfs://QmYBrbRoqoJEqpRF3GMHeP9aARa82eTWSEmmj2yyhFZCkH">Dull creature against 	light-goldenrod background.</a>
 <a style="color:seagreen" href="ipfs://Qmbrqx52KQ4z7B79nqs1yr8aL8HMoKnf8fC8jQKKVXR3ss">Sea-green with dude being disenchanted.</a>
 <a style="color:	olivedrab" href="ipfs://QmXFTZXVcL2GHXBJpwdbyhuWawE1NCMaULNLLdhdCy3Snu">Dissatisified simian against 	olive-drab background.</a>
 <a style="color:chocolate" href="ipfs://QmYvZhr34qPJXaTY8pMqTUg6tP7AqwxEiQfjCYMPnJe1od">Dude by chocolate field: glum.</a>
@@ -9629,7 +9629,7 @@ done
 <a style="color:seagreen" href="ipfs://QmZBBU65DLPKo7N3xoayTbF7kGxR63UWTMRvfEYAh4jyxe">Dude by sea-green color: fatigued.</a>
 <a style="color:pink" href="ipfs://QmTjk72tka5mHvkDU47u9i1P1PxLfe9sNzKFVd31si6FSb">Pink behind primate being miserable.</a>
 <a style="color:dimgrey" href="ipfs://QmUhNC9rgW83eFrArkDa1jJqpLMpsUqKYBnhJ72St6sFFM">Simian appears indifferent with dim-grey.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmU7PcPaBtLpaSbwVswbuo7NyCNgQ14U6VqHfcydn4u9UD">Inert beast by 	light-goldenrod field.</a>
+<a style="color:	goldenrod" href="ipfs://QmU7PcPaBtLpaSbwVswbuo7NyCNgQ14U6VqHfcydn4u9UD">Inert beast by 	light-goldenrod field.</a>
 <a style="color:mediumvioletred" href="ipfs://QmUNvxPmDTUkFpSkGBS1ZmT94CJhHpe8e597idRHavbLxk">Dead critter with medium-violet-red wall.</a>
 <a style="color:cadetblue" href="ipfs://QmPuQVhR1xvrcd17742zwJGqAyGQi2Jsd5DU6N1ZSw3auq">Gorilla looking inattentive against cadet-blue.</a>
 <a style="color:seagreen" href="ipfs://QmV2VDHv9eBqQvCdwrYVZvxVe5qghgvg28RkC8mT48dvPA">Simian against sea-green color: indolant.</a>
@@ -9639,7 +9639,7 @@ done
 <a style="color:steelblue" href="ipfs://QmWBpEKK9R4fKE4FXs9rfsnGrqNWp7NbYw7AVB998xjgr5">Steel-blue behind primate being unexcited.</a>
 <a style="color:dimgray" href="ipfs://QmevpebafDYkU8gHpJv5vxMnWeAdUeFyRpLBDHrvSeaZCk">Gorilla looking neutral with dim-gray.</a>
 <a style="color:paleturquoise" href="ipfs://QmZkeDpQ2s4yfaB7yQRfN3TmhgrePd9ZJpxTfZf4zro4Pa">Primate on pale-turquoise field: blase.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmXk6KFATjRSET76Nxge3zSwAKV4u44wuXNhHp3gCH3r19">Character looking inert by 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmXk6KFATjRSET76Nxge3zSwAKV4u44wuXNhHp3gCH3r19">Character looking inert by 	light-goldenrod.</a>
 <a style="color:seagreen" href="ipfs://QmeKbLGcfjfQfnvZtBgogqVAKu87MXmh38KsGvv2MjeZN6">Dude against sea-green color: frustrated.</a>
 <a style="color:sandybrown" href="ipfs://QmQJzFKL2NhSoYayH8U6gyWJFFgsp79V8oMre3FMJbhs6u">Wearied gorilla on sandy-brown color.</a>
 <a style="color:peachpuff" href="ipfs://QmZDfxUvp8Box19s7hSp2eJYiorU2fq9cDEJeBBeiaoPPi">Dissatisified creature with peach-puff setting.</a>
@@ -9696,7 +9696,7 @@ done
 <a style="color:goldenrod" href="ipfs://Qmbrp8gxkZx1MtVXCqVHWtyidzqkMUjccyWMmKRQx2L1rZ">Critter is blase against goldenrod.</a>
 <a style="color:	goldenrod" href="ipfs://QmcyGUyAuCWWAH9zi5ADNzWMmNkbkZ4k6kLFdaMNL4r6no">	goldenrod behind chimp being indolant.</a>
 <a style="color:palegoldenrod" href="ipfs://QmfAN4s4fAX1mfak143xhgiYVGEZ5uimeWcQh2qwX6nxDN">Vacant dude with pale-goldenrod setting.</a>
-<a style="color:lightgoldenrod" href="ipfs://Qmb3kUye35i8MiJMxzsgcmWFsoBaTsL8pwYFdNs1pMoP2e">Primate looks worn by light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://Qmb3kUye35i8MiJMxzsgcmWFsoBaTsL8pwYFdNs1pMoP2e">Primate looks worn by light-goldenrod.</a>
 <a style="color:steelblue" href="ipfs://Qmde6pYWrTFGZ7r6T5iw2WzcPCfxv6tLE2Vk2sB6i8HV9s">Monkey by steel-blue wall: fatigued.</a>
 <a style="color:moccasin" href="ipfs://QmUEbhLJitwtF6ot4nydP3hRSkyJkTAgS3bna1dS61E18a">Monkey against moccasin color: deflated.</a>
 <a style="color:slategrey" href="ipfs://QmcBa75wQR35FaveBG1htAMQPfjRZ1MVnSy7Nkt7jbvNaM">Fatigued critter against slate-grey field.</a>
@@ -9707,12 +9707,12 @@ done
 <a style="color:bisque" href="ipfs://QmUXhGK4sqP9f6Pu33gPRtFaTsGZtxnYGKdnb2HwyDfjMR">Bisque behind chimp - appears languid.</a>
 <a style="color:sandybrown" href="ipfs://QmZhtioaevCxWe6Zgvd1gqpmeS7hC3H9B5fbKs32QPPMw9">Creature being jaded on sandy-brown.</a>
 <a style="color:rebeccapurple" href="ipfs://QmZs7xSMJe7n9hgmTmVtygJH1APBGxCodAUCiWEF7AC6eD">Uninspired primate with rebecca-purple wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmXpXeYBD3JTtYDjbcoefbyHaq6XgkNXNLkHsPSvCtxNqE">Deflated creature against light-goldenrod field.</a>
+<a style="color:goldenrod" href="ipfs://QmXpXeYBD3JTtYDjbcoefbyHaq6XgkNXNLkHsPSvCtxNqE">Deflated creature against light-goldenrod field.</a>
 <a style="color:peru" href="ipfs://QmSxUVyrtarXoEmjo9ZxiF5MGKVfuv8W586zueW141B4ZN">Sad individual against peru background.</a>
 <a style="color:lightpink" href="ipfs://QmWg1DFmtAGv3XJkL9WHuYRvKU9gaYpzvT1Bi64aSQf3wv">Dead critter with light-pink color.</a>
 <a style="color:darkorchid" href="ipfs://QmZs6BJFv5t2MpavU7wmFmzPNN1t5aD3vxAzTynZjoBJo9">Chimp appears dulled against dark-orchid.</a>
 <a style="color:lightblue" href="ipfs://QmezH3xM38WyYKN7f8gcf87w6SxrrZ6NebdgYANs6GzLoN">Light-blue behind creature appearing worn.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmYWuTsLp9eU3FJ83w6nBbmKnkJqMDUKuhrJGZsK2SYMGq">Souless creature with 	light-goldenrod background.</a>
+<a style="color:	goldenrod" href="ipfs://QmYWuTsLp9eU3FJ83w6nBbmKnkJqMDUKuhrJGZsK2SYMGq">Souless creature with 	light-goldenrod background.</a>
 <a style="color:paleturquoise" href="ipfs://QmVv7XGvSy5NPyVhziHLCn3LT9RaP1LnuRBh3qM6Q5fUry">Gorilla looks weary by pale-turquoise.</a>
 <a style="color:navajowhite" href="ipfs://QmbsLMtXRiK4pEemhzyuVBPDvBxUmB9EDM3rbfkKsJi5RH">Simian seems spritless with navajo-white.</a>
 <a style="color:palegoldenrod" href="ipfs://QmPCpnArMJd9VfkKxo75ih7xUhcvJ6zy5WKqG3ydDDxxSw">Pathetic dude on pale-goldenrod background.</a>
@@ -9720,7 +9720,7 @@ done
 <a style="color:skyblue" href="ipfs://QmV7G7p1sxv8Udzouo8qacBVMmPEWrMMb5JVsSRZSRyzkp">Primate on sky-blue background: deflated.</a>
 <a style="color:lightslateblue" href="ipfs://Qme76ukyin92sFLX6AKhxm54Uzsg1V8duEbUo2uxuJPiQ3">Simian against light-slate-blue background: glum.</a>
 <a style="color:peachpuff" href="ipfs://QmXbta7yCR56uDPXm4QLX7M3jKMPB9retB1Nycrj2WtJKt">Creature looks spritless by peach-puff.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmTuL8MB7FKx264MPhqrfeG4z5wvcjqWmP8w3J55LEo7DE">Impassive monkey against light-goldenrod wall.</a>
+<a style="color:goldenrod" href="ipfs://QmTuL8MB7FKx264MPhqrfeG4z5wvcjqWmP8w3J55LEo7DE">Impassive monkey against light-goldenrod wall.</a>
 <a style="color:olivedrab" href="ipfs://QmfPniKtD8YEhrmRUxqm91BsNWEJjSgKQrgwBdMa7jSu8y">Olive-drab with dude being blase.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmQk6C5Nj6FiDDAa2SJK9mLdNXXPva7AhriMmqCRXxzt2S">Dissatisified simian by 	dark-goldenrod setting.</a>
 <a style="color:dimgray" href="ipfs://QmeL3NW2kaWSUwTVUqEyeedxbU2uTdbERBQvQW2etYMzke">Dim-gray behind gorilla - appears dissatisified.</a>
@@ -9756,7 +9756,7 @@ done
 <a style="color:cadetblue" href="ipfs://QmamBLs6X8RsJS7kENDg962AbxvhufHjgTWz5NTd5h3uQ1">Individual looks indolant on cadet-blue.</a>
 <a style="color:paleturquoise" href="ipfs://QmSe7Nt5ZUPWoLcPg4SFvhpe1eghdmet3DSmP9qvKXx6tf">Pale-turquoise with monkey being dulled.</a>
 <a style="color:powderblue" href="ipfs://QmZn96ZBqiz2RiSSKeprwippqdpj5eeFjeQyNZPJWkGjaW">Creature looks deflated by powder-blue.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmeFWBTykeR5rV9R1aokk5S4rNHGAAnmHDSV6iAzadZaNy">Indolant beast on light-goldenrod field.</a>
+<a style="color:goldenrod" href="ipfs://QmeFWBTykeR5rV9R1aokk5S4rNHGAAnmHDSV6iAzadZaNy">Indolant beast on light-goldenrod field.</a>
 <a style="color:skyblue" href="ipfs://QmZAXDjReQgp9tSViqWXUbWmMPuwSjzfPTTzdLxk55ghfi">Simian seems torpid against sky-blue.</a>
 <a style="color:olivedrab" href="ipfs://QmfHZnapknS2PjfydxGWLkVmhJZPTGD3P61EjtzVhn7aJk">Languid critter against olive-drab wall.</a>
 <a style="color:lightskyblue" href="ipfs://Qmd4wZ8JCNchF19evS5fbJssJP3nPsEHshg6zu28v2GFx2">Critter is jaded against light-sky-blue.</a>
@@ -9774,7 +9774,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmaXCBYXtLGEq6oHZLarrgc1av4ox7jtzVm4jJ9G6GwvQz">	goldenrod behind dude appearing dissatisified.</a>
 <a style="color:seagreen" href="ipfs://QmPuYWiogxveKcFeRE82eaS14L6g74zjhUJSegj7ksiwqA">Gorilla on sea-green setting: dismal.</a>
 <a style="color:snow" href="ipfs://QmQ2AJzdeXXBTBdxNaT4wHDXymekcGMZBrQaXd7gHKhUrp">Impassive gorilla against snow field.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmQyvtj6WWEU4pJyQporCcFiWgDDmnyPEWLkU7kPAEw5gE">Gorilla looking gloomy with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmQyvtj6WWEU4pJyQporCcFiWgDDmnyPEWLkU7kPAEw5gE">Gorilla looking gloomy with 	light-goldenrod.</a>
 <a style="color:olivedrab" href="ipfs://QmSQu6MXm4xucsyQbybhFTQPJJqS9ag7jxfzTgyCPoYRj1">Gorilla by olive-drab setting: tired.</a>
 <a style="color:coral" href="ipfs://QmaxN8xSKqXSSqRuDsbtG7QFcwj1ZvUGA3Zs2C6FsSK6D6">Beast being blase by coral.</a>
 <a style="color:	navajowhite" href="ipfs://QmXSEtQ8tpjaUKqP1TQWF2huFP32aXDVyjBPwsNxzcpHuY">	navajo-white with creature being dulled.</a>
@@ -9782,12 +9782,12 @@ done
 <a style="color:lightskyblue" href="ipfs://QmZDFdCZXzh3WoY5zkUEMnvAkm791r94fs3Ltdjvkmza7e">Character with light-sky-blue wall: fatigued.</a>
 <a style="color:darkorchid" href="ipfs://Qmf3WLNZoZtds1WdYuEaxqx4mTxzqATMxNC2FhKz5JSsac">Creature is deflated with dark-orchid.</a>
 <a style="color:navajowhite" href="ipfs://QmX7cFTns7niqzEV6qCZW1mEbPJdyLAsEkSveESRuG8281">Navajo-white behind creature appearing dead.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmNezWpcU5Xy7XzHunCsxXff4cGEi2355KjPWd2ZmdAdiS">Monkey is gloomy with 	light-goldenrod.</a>
+<a style="color:	goldenrod" href="ipfs://QmNezWpcU5Xy7XzHunCsxXff4cGEi2355KjPWd2ZmdAdiS">Monkey is gloomy with 	light-goldenrod.</a>
 <a style="color:peru" href="ipfs://QmS1a9dVmkkd89hMABT7x7CnuhtaND8WW7dChAXFe7jg7N">Peru with monkey being spritless.</a>
 <a style="color:lightseagreen" href="ipfs://QmPxZXJjGKUtFXxjzNAqp6ChwgkYkyTdLriKgupfWrK93d">Light-sea-green behind individual - appears spritless.</a>
 <a style="color:chocolate" href="ipfs://QmZUSENWtuPhhM19d2Wk3baVYe7mnnexQSkjkPWBP2Eewz">Beast looks languid by chocolate.</a>
 <a style="color:	darkgoldenrod" href="ipfs://QmP5NTSeBGmagBoqHc3mCEDWfCnSfw1fspXjJBGXgFxWjW">Monkey being indolant by 	dark-goldenrod.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmccCj5yjDkuA7xo6BZKPCFt8rJM1E5ho4P8uA8dQKnCbs">Chimp being unheeding against light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmccCj5yjDkuA7xo6BZKPCFt8rJM1E5ho4P8uA8dQKnCbs">Chimp being unheeding against light-goldenrod.</a>
 <a style="color:lightseagreen" href="ipfs://Qmdx8M7viFvbexqd9ssDknTafEHZhfC8h5wBPegVVLGohF">Dulled dude by light-sea-green setting.</a>
 <a style="color:palegoldenrod" href="ipfs://QmPCz8WPQjbT4V3X6WKdNG9CQcux1N3mWZ3HMgaiLEhJ4U">Pale-goldenrod with monkey being dulled.</a>
 <a style="color:paleturquoise" href="ipfs://QmeV7yZRyTNgMcoywMBBA1YzDDTHqGMCoASc5GxP1Y2wMd">Creature looks blue on pale-turquoise.</a>
@@ -9817,7 +9817,7 @@ done
 <a style="color:skyblue" href="ipfs://QmfB3F8HF6eo47CYywphWyvRAoPKkEsqSbC1cDLXPvgrSm">Character on sky-blue background: frustrated.</a>
 <a style="color:	goldenrod" href="ipfs://QmSQnR7R3MXqdRDWyb29YvdEysqWx3fuVC7whEPi3C5ndC">Creature seems miserable with 	goldenrod.</a>
 <a style="color:paleturquoise" href="ipfs://QmeLFJi68x2DHhhwmafw4MW6K5vKxSiVtad6RXuucstfD4">Pale-turquoise with critter being down.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmUjwJHfqy785ZkBdLvAqS2a8VvPNM7Csu6ALc3oSTEeuy">	light-goldenrod with individual being unconcerned.</a>
+<a style="color:	goldenrod" href="ipfs://QmUjwJHfqy785ZkBdLvAqS2a8VvPNM7Csu6ALc3oSTEeuy">	light-goldenrod with individual being unconcerned.</a>
 <a style="color:bisque" href="ipfs://QmUC5CseS9KgjRdgMKHqbGuhYnuamwpF2vUKgDRALCZFZq">Disenchanted character with bisque wall.</a>
 <a style="color:floralwhite" href="ipfs://QmVUFDfhCXKQV12nezZfKiadkEJ9vSE5mJ4fBNCj1Kd5sv">Frustrated chimp against floral-white background.</a>
 <a style="color:lightblue" href="ipfs://QmQcUQamzUD4LmzHPGGGPqbeG5LC66tMsB9EqV4PkE31T8">Light-blue behind individual appearing insipid.</a>
@@ -9876,7 +9876,7 @@ done
 <a style="color:	goldenrod" href="ipfs://QmWFMrW9svrVzAK25TL7FmLiVu5iPhKnbTEqjiQYJitYJL">Indolant chimp against 	goldenrod background.</a>
 <a style="color:peachpuff" href="ipfs://QmSHQSyLAqJtPyohDBpiqkT2VFX2x1Sj8yC2YR5TS9FfQT">Apathetic individual by peach-puff setting.</a>
 <a style="color:skyblue" href="ipfs://QmaDSQP9WzN97n2yC2h2NCcoef1Mop5rDCrvAudSASYzm9">Sky-blue with individual appearing frustrated.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmW1B3S4BPg4eQJDR5JXbmstFdTt2BpgvWwQnHbW9fPLX8">Monkey looking indifferent against light-goldenrod.</a>
+<a style="color:goldenrod" href="ipfs://QmW1B3S4BPg4eQJDR5JXbmstFdTt2BpgvWwQnHbW9fPLX8">Monkey looking indifferent against light-goldenrod.</a>
 <a style="color:pink" href="ipfs://QmY1TbBRNinZFtvXBjRrWH9jfsKQEbadgH7ESEv8LNeWVz">Pink with monkey appearing frustrated.</a>
 <a style="color:slategray" href="ipfs://QmXCJ4XWwDRsUaNTrRXK9wC2qRT6SrRVcj2eW1YVSzyTdP">Beast looking inattentive on slate-gray.</a>
 <a style="color:lightskyblue" href="ipfs://QmRz8uzNQmuypMcQZDZJ9z5RH7gsCMuxdSfhMCFLH6D9Eq">Creature on light-sky-blue color: sad.</a>
@@ -9894,7 +9894,7 @@ done
 <a style="color:powderblue" href="ipfs://QmeLVLXDw9xJ9bicZ6D384rQapYZMMttUwTjJrLfbn7Lhi">Individual with powder-blue field: uninspired.</a>
 <a style="color:pink" href="ipfs://QmdLfpri6Az1RJLoFhjuYmjMxgh1Ao8b4W3bospi4ZUoty">Dude on pink wall: dismal.</a>
 <a style="color:powderblue" href="ipfs://QmRxNdEujVBPuPWVdw8k3mPRtHtVPVZvkahhs1UztabCBs">Creature seems slack with powder-blue.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmSWNSeTnBgzJVVoChwcY54iAjSx1LLkw4YtnNjPpEDqqW">	light-goldenrod behind chimp being blase.</a>
+<a style="color:	goldenrod" href="ipfs://QmSWNSeTnBgzJVVoChwcY54iAjSx1LLkw4YtnNjPpEDqqW">	light-goldenrod behind chimp being blase.</a>
 <a style="color:mediumseagreen" href="ipfs://QmPqos7ygxKpDFme3BtVfXtk7MKUTdvrmnQPsL39HJbCtE">Medium-sea-green behind creature - appears jaded.</a>
 <a style="color:mediumvioletred" href="ipfs://QmdkWhWoBxwJxddhwTrcuxaB4yaMoA2Assabi1F5fjfJw7">Critter by medium-violet-red setting: deflated.</a>
 <a style="color:moccasin" href="ipfs://QmZWG8AbH8JBZcXbYE4ZBUHSxARBKnGKtrtoZZtYeS96qS">Monkey by moccasin background: dulled.</a>
@@ -9919,7 +9919,7 @@ done
 <a style="color:khaki" href="ipfs://QmRdbkubr8YbTgpvbonDiQkeMKGkofENytuN9MmFcAG6EN">Chimp being weary with khaki.</a>
 <a style="color:steelblue" href="ipfs://QmXncAHLxDV7SgrU6966C75vh5LX1VW1f8errsUr6vyjBo">Steel-blue behind critter appearing oblivious.</a>
 <a style="color:	goldenrod" href="ipfs://Qmcr2hhYLsVMsX4w1Kxte2gKw5wptz9eZfsNJeaDCTs7AN">Blue creature with 	goldenrod wall.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmezTsjRwoi5XoqYLCH6sz4RSjXDUMXWGGFrVDxZh19p9j">Light-goldenrod with primate appearing deflated.</a>
+<a style="color:goldenrod" href="ipfs://QmezTsjRwoi5XoqYLCH6sz4RSjXDUMXWGGFrVDxZh19p9j">Light-goldenrod with primate appearing deflated.</a>
 <a style="color:peachpuff" href="ipfs://QmYzDSMXEyrvLjjP4T5fT7svgPnUfWuibiJFfVGDSQXk8y">Blue gorilla with peach-puff wall.</a>
 <a style="color:	navajowhite" href="ipfs://QmWiozg1axUSpVowzdTvb5vq7pZyERvAFcTeT8qTojq6qe">Gorilla on 	navajo-white background: unexcited.</a>
 <a style="color:cadetblue" href="ipfs://QmTqcu61KSD4w3bPFJLgpxdL751VEvgGrraYDaoy4oqEH1">Chimp seems dull on cadet-blue.</a>
@@ -9943,7 +9943,7 @@ done
 <a style="color:slategray" href="ipfs://QmRHtRjhtXsEG5L9KvgvVo345iAqGBkLJzC1Z6Pt5rpRhR">Slate-gray behind monkey - appears tired.</a>
 <a style="color:coral" href="ipfs://QmZBKoBCWsRxR8Ycmv86YM5WNuH1vjgT5MBD3LE1MWPYA5">Frustrated beast by coral wall.</a>
 <a style="color:	khaki" href="ipfs://QmRzgVrABcU9TMrEBQ3QpLoNuF8ggiANezcFKs1En5dPVo">Simian against 	khaki wall: slack.</a>
-<a style="color:	lightgoldenrod" href="ipfs://QmPKhosRHmobeDoM7XEEHTGCfAiCu4UKYZXXAd1b5UEzaq">Deflated beast on 	light-goldenrod color.</a>
+<a style="color:	goldenrod" href="ipfs://QmPKhosRHmobeDoM7XEEHTGCfAiCu4UKYZXXAd1b5UEzaq">Deflated beast on 	light-goldenrod color.</a>
 <a style="color:seagreen" href="ipfs://QmcYc9K4qjK3cfxdzQHyD7B28bXb43KmBVqb3vc3rLNPSM">Individual by sea-green background: blase.</a>
 <a style="color:skyblue" href="ipfs://Qmf9H4XB6gRKuapGKkKeeTDfZPPGA8imystqGQvUmjk4ca">Sky-blue with primate being unheeding.</a>
 <a style="color:slategrey" href="ipfs://QmcFS3J4pLfhQh3SWPKQkv7mGsE7oXYstfbqk8G75Gfj8c">Character with slate-grey background: languid.</a>
@@ -10050,7 +10050,7 @@ done
 <a style="color:navajowhite" href="ipfs://QmdxxW8X6C1NjY4j7EAjmkfz8XhnZv45h4vmsrDEYje1DT">Individual with navajo-white setting: indifferent.</a>
 <a style="color:skyblue" href="ipfs://QmcYrbC8bhKMma8f8xWmFyh8MbwzpUmGcqZP7pBnSRYFum">Gorilla by sky-blue field: dead.</a>
 <a style="color:lightskyblue" href="ipfs://QmZwuYEMRYuymppxmDrL5vC9EArgebYXKRpZznMdijCGf8">Simian with light-sky-blue wall: deflated.</a>
-<a style="color:lightgoldenrod" href="ipfs://QmcAKuBoaeEJeKqDq4awEXZTHG5oMr5Rm37DThiPpgnJSd">Tired individual on light-goldenrod setting.</a>
+<a style="color:goldenrod" href="ipfs://QmcAKuBoaeEJeKqDq4awEXZTHG5oMr5Rm37DThiPpgnJSd">Tired individual on light-goldenrod setting.</a>
 <a style="color:	olivedrab" href="ipfs://QmUphU5ybcbtaHyGmDSnXZE1QMGsJgKughQ9Pyg6RtCpWa">	olive-drab behind dude appearing pathetic.</a>
 <a style="color:mediumseagreen" href="ipfs://Qmdo3roZhoWZhm5ZUmw6oWvC3o6LKPXStuTgP9zyEdCof5">Monkey seems wearied with medium-sea-green.</a>
 <a style="color:olivedrab" href="ipfs://QmaAB1Vti9LH1GaKFw3f7W3rJ8ywk8sPDyhE1fsQB95P6H">Chimp against olive-drab wall: dismal.</a>
