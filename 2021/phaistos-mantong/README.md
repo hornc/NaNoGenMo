@@ -8,7 +8,10 @@ could be logographic equivalents (**not** a serious thesis at all -- the Phaisto
 
 The conceit is that the output is an ancient novel-length text in an undecipered logographic script, which may be interpretable using the 'Mantong alphabet', which supposedly encodes secret ancient meanings in the 26 letters of the modern English alphabet...
 
-The output has an interesting form; more image like than text.
+The output has an interesting form; more image like than text:
+
+![example disc output](output_00001.svg "Example disc output")
+
 
 The main script is a one line bash pipe which takes a text file as input and split it out into a collection of Phaistos-glyph discs in SVG format, one side per file.
 
