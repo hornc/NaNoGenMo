@@ -38,6 +38,8 @@ The editors would like to thank the NaNoGenMo 2021 foundation for their generous
 $(while read a && read b; do echo "\includepdfmerge[pagecommand={\thispagestyle{fancy}Disc \thepage.\\\\\hspace*{6em}Side A\vspace{120mm}\\\\\hspace*{6em}Side B},scale=0.9,delta=0 -20mm,nup=1x2]{$a, $b}"; done < <(ls output_*.pdf))
 
 \begin{thebibliography}{100}
+  \bibitem{GD}Douros, George, \emph{Aegean} (Unicode font), \\\\
+   $\langle$ https://dn-works.com/ufas/ $\rangle$
   \bibitem{E2}enkiv2, \emph{Mantong Expansion}, NaNoGenMo 2021, accessed November 2021, \\\\
      $\langle$ https://github.com/NaNoGenMo/2021/issues/29 $\rangle$
   \bibitem{RS}Shaver, Richard Sharpe, \`\`I Remember Lemuria'' \emph{Amazing Stories}, March 1945.
