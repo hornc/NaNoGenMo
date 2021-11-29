@@ -18,14 +18,20 @@ columns=flexible,
 breaklines=true
 }
 \pdfsuppresswarningpagegroup=1
-\title{The Phaistos-Mantong Discs: A Logographic Novel in an Ancient Undeciphered Language}
+\title{The Phaistos-Mantong Discs \\\\
+  \large{A Logographic Novel in an Ancient Undeciphered Language}
+}
+\author{Prof. Sedric von Bash-script \emph{(pseud.)}}
 \begin{document}
 \renewcommand{\headrulewidth}{0pt}
 \fancyhf{}
 \maketitle
 \frontmatter
-\section{Preface}
-Presented here, for the first time, without further comment, are these ancient discs.
+\section{Introductory}
+Presented in this volume are reproductions of a series of clay roundels containing a novel length logographic text in an ancient, undeciphered, language.
+They are stamped in a curious subset of the Phaistos disc symbolic \`alphabet'. The fact there are 26 unique symbols suggest a likely connection with the Mantong alphabet described by Richard Sharpe Shaver in his work \emph{I Remember Lemuria}. The discs are presented here in the order of their discovery, with no attempt at translation.
+
+The editors would like to thank the NaNoGenMo 2021 foundation for their generous inspiration in \`excavating' these artefacts.
 \mainmatter
 \fancyhead[CO]{PHAISTOS-MANTONG DISCS}
 \fancyfoot[CO]{\thepage}
