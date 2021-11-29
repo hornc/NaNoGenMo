@@ -12,6 +12,11 @@ The output has an interesting form; more image like than text:
 
 ![example disc output](output_00001.svg "Example disc output")
 
+A .png example:
+
+![example disc output in png fromat](https://user-images.githubusercontent.com/905545/140311483-121d2c03-bd53-4f42-9f86-e872bd6e464f.png "Example disc output in .png")
+
+[Aegean](https://dn-works.com/ufas/) is a font (.otf) which contains glyphs for the Unicode Phaistos disc symbols, and other ancient scripts.
 
 The main script is a one line bash pipe which takes a text file as input and split it out into a collection of Phaistos-glyph discs in SVG format, one side per file.
 
