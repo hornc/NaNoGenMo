@@ -43,11 +43,12 @@ $(while read a && read b; do echo "\includepdfmerge[pagecommand={\thispagestyle{
   \bibitem{RS}Shaver, Richard Sharpe, \`\`I Remember Lemuria'' \emph{Amazing Stories}, March 1945.
   \bibitem{FS}Stawell, F.M., \emph{A clue to the Cretan scripts}, G. Bell and sons, ltd., London, 1931.
 \end{thebibliography}
-\section{Appendix A}
-\section{Appendix B}
-\scriptsize{\textbf{Source:} $\langle$ https://github.com/hornc/NaNoGenMo/blob/master/2021/phaistos-mantong/phaimantconv.sh $\rangle$}
-\lstinputlisting[language=Bash]{phaimantconv.sh}
-
+\appendix
+\chapter{Phaistos-Mantong Thesis: Possible Correspondences }
+  \lstinputlisting{correspondences.txt}
+\chapter{Source}
+  \lstinputlisting[language=Bash]{phaimantconv.sh}
+  \scriptsize{\textbf{Source:} $\langle$ https://github.com/hornc/NaNoGenMo/blob/master/2021/phaistos-mantong/phaimantconv.sh $\rangle$}
 \end{document}
 EOF
 
