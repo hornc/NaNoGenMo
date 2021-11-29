@@ -31,9 +31,15 @@ Presented here, for the first time, without further comment, are these ancient d
 \fancyfoot[CO]{\thepage}
 $(while read a && read b; do echo "\includepdfmerge[pagecommand={\thispagestyle{fancy}Disc \thepage.\\\\\hspace*{6em}Side A\vspace{120mm}\\\\\hspace*{6em}Side B},scale=0.9,delta=0 -20mm,nup=1x2]{$a, $b}"; done < <(ls output_*.pdf))
 
-\section{Bibliography}
+\begin{thebibliography}{100}
+  \bibitem{E2}enkiv2, \emph{Mantong Expansion}, NaNoGenMo 2021, accessed November 2021, \\\\
+     $\langle$ https://github.com/NaNoGenMo/2021/issues/29 $\rangle$
+  \bibitem{RS}Shaver, Richard Sharpe, \`\`I Remember Lemuria'' \emph{Amazing Stories}, March 1945.
+  \bibitem{FS}Stawell, F.M., \emph{A clue to the Cretan scripts}, G. Bell and sons, ltd., London, 1931.
+\end{thebibliography}
 \section{Appendix A}
 \section{Appendix B}
+\scriptsize{\textbf{Source:} $\langle$ https://github.com/hornc/NaNoGenMo/blob/master/2021/phaistos-mantong/phaimantconv.sh $\rangle$}
 \lstinputlisting[language=Bash]{phaimantconv.sh}
 
 \end{document}
