@@ -5,7 +5,8 @@ Repo for my multiple smaller NaNoGenMo projects, created for https://github.com/
 
 * [Project Files](2021/phaistos-mantong/)
 * [Main script](2021/phaistos-mantong/phaimantconv.sh)
-* [PDF Output 56.3MB (Google Drive hosted)](https://drive.google.com/file/d/1pC29U-QqGV5rXeeNvfRf4_Ke1hy936yQ/view?usp=sharing)
+* [Online readable copy](https://archive.org/details/phaistos-mantong)
+* [PDF Output 53.7MB (archive.org)](https://archive.org/download/phaistos-mantong/phaistos-mantong.pdf)
 
 
 ## You wouldn't `curl` an NFT... ([#59](https://github.com/NaNoGenMo/2021/issues/59))
